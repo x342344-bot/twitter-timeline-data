@@ -33,6 +33,30 @@ Each tweet object:
 | `_source` | string | `following` or `foryou` |
 | `_fetched_at` | string | ISO 8601 fetch timestamp (ET) |
 
+## Digest
+
+AI-curated digest distilled from that day's candidates, refreshed every 4 hours.
+Daily JSON files in `digest/` directory: `digest_YYYY-MM-DD.json`. Each file is
+overwritten in place as the day progresses (latest snapshot wins), retained for
+7 days.
+
+Top-level object:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `topics` | array | Chinese one-line summaries of the selected items |
+| `items` | array | Selected items (see below) |
+| `last_updated` | string | Date of the latest refresh (YYYY-MM-DD) |
+
+Each item object:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `category` | string | `🔴 立即关注` / `🟡 投资机会 & 策略` / `🟠 Alpha 信号` / `🔵 值得一读` |
+| `summary` | string | Chinese summary of the tweet's claim |
+| `author` | string | Author handle (no `@`) |
+| `id` | string | Source tweet ID (joins back to `data/candidates_*.json`) |
+
 ## Pre-filter Criteria
 
 Tweets pass if any of these conditions are met:

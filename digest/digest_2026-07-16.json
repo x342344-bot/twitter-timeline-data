@@ -1,0 +1,917 @@
+{
+  "topics": [
+    "Cascade的CLS金库遭攻击，约134万美元USDC被盗，攻击者已把资金从Arbitrum跨到Solana再桥回以太坊",
+    "Anthropic据彭博报道最快10月启动IPO",
+    "沉睡8年的比特币OG把5908枚BTC约3.83亿美元转入新钱包，成本仅1.68万美元，当前浮盈约2.83亿",
+    "RWA永续新品种上线：Lighter开放CXMT长鑫存储Pre-IPO合约，可用最高5倍杠杆交易中国半导体上市前敞口",
+    "Ondo正式上线首个基于DTC托管证券权益的代币化股票凭证，接入DTCC代币化服务",
+    "Flare与Clearstar在PancakeSwap推出cbXRP/FXRP流动性池，做市可赚交易费加USDC激励，把闲置XRP盘活",
+    "Solana上开源的agentcash路由让团队API可被代理发现并用x402付费，Merit已处理76.5万笔微支付，代理原生支付走向落地",
+    "Hyperion与Skew签约投入50万枚HYPE部署HIP-3永续市场并推出机构上币服务，把HYPE资产真正投入运营",
+    "三个新建钱包9小时内从Coinbase Prime提走3万枚ETH约5766万美元，鲸鱼持续吸筹以太坊",
+    "Strategy CEO表态只有比特币跌到8000至1万美元区间才会开始评估其债务风险，划出压力测试底线",
+    "OKX开出世界杯结果市场，答对得XP、决赛后XP转换为BTC奖励，是低成本积分farming路径",
+    "马斯克宣布Grok Build正式开源，并称开源代码调试工具的目的是让任何人参与打造更可靠稳健的执行框架",
+    "据证券日报中国正押注AI代币成为继电动车与光伏后的下一个出口增长引擎，借算力优势深化在全球AI供应链的角色",
+    "DePIN板块总市值较2024年3月高点暴跌83%至34.6亿美元，成为加密表现最差的赛道之一",
+    "英伟达发布DeepStream 9.1，内置13项智能体技能，可用自然语言配合Claude Code或Codex搭建视频分析流水线",
+    "蚂蚁开源Ring-2.5-1T-Zero，直接从基座用零人工标注做强化学习训练万亿参数模型并取得有竞争力的推理表现",
+    "作者实测指出Coinbase对中国用户手续费极贵，小额兑换约4%是主流所40倍、大额0.4%也是币安OKX的4到7倍，除非提现到银行卡否则不建议用",
+    "GPT-5.6 Sol Ultra实测能在有限提示下自主爬升Chrome渲染器漏洞并弹出计算器，作者认为漏洞开发正被AI改变",
+    "马斯克确认将在完成安全漏洞审查后把X平台整个代码库无例外开源，并邀请第三方审查者验证运行中系统与开源代码一致",
+    "Curve将Llamalend v2带到以太坊主网，提供隔离市场、灵活资产配对并支持Curve LP代币作为抵押品，首批市场将经治理逐步上线",
+    "新建钱包向Hyperliquid存入千万USDC做空长鑫存储CXMT，已开出51.4万枚1倍空单并在8至9美元区间挂单加空49万枚",
+    "Abraxas Capital三小时内从币安和Bybit提走8153枚ETH约1530万美元，同时向Kraken存入618枚BTC约4000万美元，明显在卖BT",
+    "Polymarket五分钟BTC合约在币安推送到达时会有34%概率翻转此前市场定价90至100%确定的结果，结算预言机偏离币安中间价2.5个基点，821个钱包在",
+    "edgeX V2上线SOXL永续，即三倍杠杆做多美国半导体板块的ETF，最高提供10倍杠杆并可交易挖矿",
+    "Anthropic、黑石与高盛联合成立15亿美元AI服务公司Ode，前置部署工程师进驻企业客户内部绘制业务流程并搭建定制AI系统",
+    "Monad原生代币MON在盈透证券上线交易，同时支持在Monad网络进行USDC存取",
+    "前Meta首席AI科学家杨立昆断言仅靠扩大LLM规模永远无法达到人类级智能，需要不同架构路径",
+    "Robinhood链首个3D MMO游戏KINDRA接入0x协议的Matcha聚合器，玩家可在游戏内直接买入其代币",
+    "作者披露软件工程自动化工具用0.05美元一条线索取代Apollo每年4000美元订阅，销售线索获取成本被极端压缩",
+    "Linus公开表态Linux内核不是反AI项目，作为顶级维护者坚决允许在内核开发中使用AI工具",
+    "Kraken机构客户现可通过Upshift把闲置国库资产投入许可制链上金库，直接从Kraken合规托管操作无需新建钱包或额外对手方",
+    "作者揭露字节所谓炒币股神人设在币圈已崩塌，不敢晒实盘反而改用英文转向欺骗海外用户",
+    "Ostium攻击损失被更新为约2400万美元，攻击者从OLP金库通过预言机和keeper操纵套走资金并已把12084枚ETH中的10540枚存入TornadoC",
+    "蚂蚁开源Ling-2.6-1T大模型，号称token消耗仅为美国主流模型的1%，SWE-bench达72.2%，在智能体编程上对标Claude和GPT",
+    "作者深度剖析ETH近一月持续跑赢BTC背后是定价逻辑的根本转变，而非普通补涨，扭转此前主网收入下降、L2分流、Solana抢用户等负面叙事",
+    "韩国央行加息25基点至2.75%，为2023年1月以来首次加息，收紧加密风险偏好",
+    "韩国政府紧急将股票杠杆保证金要求提高3倍至约2万美元且仅认现金，单笔下单最少20股，并停止审批新单一股票杠杆产品，过去一月散户杠杆损失14.5亿美元",
+    "Loopscale上eHYUSD收益来自Hylo的Earn池且完全delta中性，可循环加杠杆至6.7倍，最高年化15.1%外加2倍Hylo积分",
+    "Aave Horizon上JAAA可作可借抵押品，Resolv用它构建至1亿美元规模的杠杆策略并为新primeUSD金库提供杠杆来源，JAAA为全球最大AAA",
+    "作者拆解Ostium被盗2370万美元事件本质是密钥泄露而非预言机操纵或闪电贷，每个促成攻击的价格都被合法签名，警示永续DEX建设者签名信任才是最大风险",
+    "Galaxy作为curator加入Morpho并推出机构级稳定币金库，把传统市场资产管理经验带入链上",
+    "作者系统梳理价差扩大收敛套利路径，涵盖同资产跨CEX/DEX、布伦特与WTI原油价差、SKHX与SKHY股票双向套利三类场景",
+    "币安期货即将上线腾讯控股和小米两只港股TradFi永续合约，以Quanto方式交易，把港股龙头敞口带入加密衍生品",
+    "高盛测算AI代理到2030年或将token消耗量推高24倍，未来12至18个月加剧芯片短缺",
+    "作者警示当前从5.8万到6.5万的BTC反弹建立在借来的保证金上，一年内杠杆翻2.7倍，稳定币流入和ETF资金均未跟上，去杠杆风险升高",
+    "Ondo与日本2500亿美元资管巨头SBI合作把日本股票代币化，通过SBI网络分销并用日元稳定币JPYSC结算和作抵押品",
+    "Centrifuge把机构代币化美债JTRSY作为合格抵押品接入m0网络，为其上19个稳定币、3.2亿美元供应提供短久期美债支撑",
+    "CounterPoint最新预测长鑫存储CXMT到2028年将拿下11%的存储市场份额",
+    "作者指出xAI在开源Grok Build前五天曾悄悄发布官方Claude Code插件，由Grok Build团队工程师编写，揭示两大编程工具间不为人知的交集",
+    "贝莱德客户单笔买入价值8000万美元比特币，机构资金持续进场",
+    "Bitget钱包推出DTF代币，类似SPY和QQQ代表一篮子资产，可无需KYC获得特定赛道指数敞口，配套活动奖池8万美元",
+    "传闻谷歌Gemini 3.5 Pro将带200万token上下文窗口发布，GA日期约7月17日，但官方尚未确认，均来自泄露信息",
+    "Mert借CZ的比特币抗通胀言论提出Zcash不仅抗通胀还能抵御AI对用户过往及未来财务活动的永久监控",
+    "StarkWare的Eli提出DeFi隐私应被视为从密不透风到零隐私的连续区间而非有无二元特性，机构上链需按需选择不同隐私变体",
+    "韩国泡沫破裂后大量资金可能轮动流向中国市场",
+    "作者剖析BONK较历史高点已暴跌93%，Bonkfun和BonkBot收入崩塌、解锁量超回购、遭DAO攻击、流动性向新meme轮动，质疑其作为Solana头部m",
+    "Visa发布稳定币平台，允许银行和金融科技公司在受管环境中发行与管理稳定币，将直接打通两亿商户支付场景",
+    "DeFi做市商靠代币回购护盘效果存疑：同做高额年化营收，采用回购机制的头部平台估值反差巨大",
+    "符合传统券商监管的代币化罗宾逊股票正式上线索拉纳，打通加密网络与纳斯达克的双向自由赎回与全天候交易",
+    "开发者呼吁大模型应该专注前端表现力，因为生成炫酷可视化和网页比复杂的后端代码更容易在网络上获得病毒式传播",
+    "开源大模型迎来爆发节点，不仅训练透明度与能力已逼近非开源顶尖模型，开发者生态与配套工具链也正在快速成熟",
+    "语言模型在处理代码文件时意外执行删除操作的根源，往往在于用户开启了完全访问权限且未沙箱化导致无约束行为",
+    "国产开源模型Kimi K3在复杂的着色器视觉图形生成任务中表现优异，综合能力已紧逼当前顶尖闭源模型",
+    "美国众议院通过修正案否决削减对以色列的援助资金",
+    "巴林与科威特加入打击伊朗的行动，美国军队在一小时内空袭了十六处革命卫队目标",
+    "反洗钱金融行动特别工作组警告犯罪分子正大量利用稳定币和自建代币逃避冻结，呼吁加快执行加密资产反洗钱规则",
+    "高盛披露韩国股票市场大跌去杠杆的惨烈数据：超过120万散户杠杆账户遭追加保证金，每30个韩国成年人中就有1个被强平",
+    "管理近两万亿美元资产的资管巨头推出首个主动管理多代币现货加密交易所交易产品，超四成仓位配置比特币",
+    "初创券商融资一亿三千五百万美元建设代币化底层股票基础设施，押注传统证券在区块链上全天候交易的未来",
+    "美股半导体板块从英特尔到光通信芯片全线暴跌，Reddit论坛散户大面积爆仓往往标志着板块阶段性见底",
+    "非托管收益聚合器上线，可自动将美元稳定币移入7条链上收益最高的去中心化金库",
+    "美国众议院金融服务委员会公告称，加密清晰法案预计难以在今年内正式签署生效",
+    "特朗普的长期提词器操作员被曝利用职务便利在预测市场大赌特赌其演讲结果，获利超过十万美元",
+    "头部资管机构高管指出区块链是资产管理的最大颠覆性技术，传统金融正大规模向链上迁移",
+    "连锁交易平台推出策略市场，允许顶级交易员将策略开源给散户订阅跟单，作者赚取利润分成且无需公开底层代码",
+    "将三大顶尖AI编程模型置于同一个代码库共享规则与上下文环境，能有效打破单模型的思考局限产出高质量代码",
+    "外卖平台发布命令行工具让自主代理具备直接调用接口搜索店铺并下单支付的能力，标志着智能体商业闭环落地",
+    "社交平台升级广告产品，品牌方可以将真实用户的自发好评作为广告推送给目标受众，将自然口碑转化为精准曝光",
+    "去中心化收益应用推出安卓版本，支持跨十链无缝交易并最高获取百分之十四的稳定币年化收益",
+    "AI智能体市场接入法币支付通道，用户可直接用银行卡和支付宝等日常工具买卖自动化AI代理",
+    "头部券商已向全部八百六十万客户全面推出比特币现货交易服务",
+    "足球比赛在临近结束时实现惊天逆转的概率极低，作者用十万场比赛的样本证明了挺进决赛的概率不足万分之一",
+    "Moonshot发布Kimi K3，2.8万亿参数、100万上下文、原生多模态，Kimi Delta Attention在百万token场景下解码提速最高6.3",
+    "Polymarket称Kimi K3在Frontend Code Arena登顶第一，超越Claude Fable 5",
+    "nrehiew_公布Kimi K3官方benchmark，认为其为Fable/Sol级模型、全面优于Opus 4.8且仅Sonnet定价",
+    "Anthropic为Claude Code artifacts加入MCP connector调用能力，可为每位访问者按需拉取数据并执行操作，Pro/Max/Te",
+    "Citadel Securities向Crypto.com战略投资4亿美元，交易所估值达200亿美元，为其首轮机构融资",
+    "Netflix称已在约300部影视作品中使用生成式AI，并表态AI会让电影更好但不会取代人类，对大型并购设很高门槛",
+    "彭博称美军在波斯湾深处击中一艘超级油轮，靠近伊朗关键石油出口终端，为重启封锁后首次攻击船只",
+    "Trump Media将于8月1日起出售对特朗普Truth Social帖子的毫秒级实时访问权，面向交易员、对冲基金和高频交易公司",
+    "Alphabet收盘下跌4.4%，市值蒸发2000亿美元",
+    "Saronic宣布投资超30亿美元在德州Brownsville建设Port Alpha，打造全球最先进的软件定义造船厂之一",
+    "sama称新语音模型跨过一个门槛，自己现在与ChatGPT语音对话已多于打字",
+    "Loopscale上ONyc/USDC与PT-ONyc循环金库有近600万USDC流动性，循环ONyc最高20.31%年化加6倍OnRe积分，PT-ONyc固定",
+    "币安期货即将上线MiniMax、智谱ZHIPU和腾讯控股三只TradFi股票永续，24/7交易最高25倍杠杆",
+    "blknoiz06复盘Saylor未抛售BTC而是卖MSTR股份换来20多个月运营现金，抄底判断兑现",
+    "Kraken Earn Vaults存款突破6亿美元、用户超8万，收益来自USDC与BTC策略，6月以来新增1亿美元，Veda提供金库基础设施",
+    "yacineMTB讽刺Kimi K3疑似蒸馏了尚未发布的美国前沿模型",
+    "Telegram推出富文本编辑器，支持表格、标题、内联媒体、公式与AI内容，仅Premium订阅可用",
+    "Kalshi给出Tesla与SpaceX在2028年前合并的概率为69%",
+    "DecartAI发布Lucy 2.5实时AI视频模型，可实时编辑视频，应用于直播、电商与广告",
+    "Securitize与Cantor Fitzgerald合作把IPO与后续增发搬上链，CEO Carlos Domingo押注onchain IPO成为新品类",
+    "Superteam USA加速器首批录取24家公司，覆盖资本市场、稳定币、AI、深科技、DeFi与消费方向",
+    "Marcos López de Prado在QuantCon指出对完全不可预测序列跑一千次实验，预期最大夏普比约为3，警示回测过拟合",
+    "Chainguard称已融资超8亿美元打造在网络攻击发生前将其阻止的基础设施",
+    "cyrilXBT指出Spark Savings在Arbitrum新增支持USDT0，可在USDC、USDS、USDT0上一次性集成储蓄，三者占Arbitrum稳",
+    "Lyn Alden参投的trasia获Multicoin 175万美元种子轮，打造非托管、亚洲优先的交易平台",
+    "OpenAI正调查GPT-5.6在Codex中意外删除用户文件的多起神秘案例",
+    "Kimi K3在Artificial Analysis智能指数得57分，与Opus 4.8和GPT-5.5相当但落后Fable 5和GPT-5.6 Sol，Mo",
+    "Ethena的USDe与sUSDe正式上线Monad生态并接入Aave，为Monad带来深度稳定币借贷流动性",
+    "从BONK金库合法套走4.426万亿枚BONK约2120万美元的地址过去6小时已向Binance转入1.19万亿枚约411万美元抛售，仍持有3.2万亿枚约108",
+    "白宫称中国自2020年起获取2.2亿美国选民记录，为已知最大规模选举数据泄露",
+    "SpaceX第13次Starship试飞在点火后因部分发动机未启动触发自动中止，Musk确认正卸载推进剂，下次尝试或在几天后",
+    "AndreCronje的flyingtulip将ftUSD在以太坊铸造上限从500万提至1亿美元，铸造质押后以太坊年化11.22%、Sonic年化4.94%，设",
+    "shengkun_ye推出Monid，可在Claude Code或Codex直接调用Seedance 2.0视频生成，按量付费每1万token仅0.04美元，对",
+    "Zama发布机密代币标准，在保持公开可验证性的同时加密金额和余额，需钱包、浏览器、索引器等整套工具栈配合成为默认",
+    "RealVision称BTC网络活动指数创2024年12月来新高，但本轮80%交易为0.01 BTC以下的Runes与Inscriptions铭文，是数据而非资",
+    "Robinhood加密上线INJ交易，为该代币带来新增流动性",
+    "据Politico报道预计今日发布的加密CLARITY法案缺乏参议院民主党支持，需60票才能通过，白宫今日会晤参议员意在解决剩余伦理条款分歧",
+    "dunik_7介绍Anima AI创始人Gavin Li开源AirLLM，通过每次仅在GPU保留一层并流式加载其余层，让4050亿参数模型跑在单张8GB游戏显卡",
+    "CZ透露曾邀Musk合作开发XMoney，Musk回应称X平台只处理法币不碰加密，称加密是别人的事",
+    "stutireal宣布加入Pantera Capital任投资团队合伙人，将从Pre-Seed到Series B阶段投资金融前沿及底层技术的创始人",
+    "Robinhood股票HOOD正式上线Solana的Raydium，由Backpack Securities发行、通过sunrise实现24/7全天候交易",
+    "GodotSancho披露DRAM机构在53至54美元区间通过暗池大量买入占比67%至74%，并做多头Risk Reversal期权组合看多未来6个月存储走势",
+    "l2beat公布Native Rollups工作原型，class_lambda与ethrex_client团队已把把L2区块转为L1携证明交易的构想从研究推进到",
+    "Grok推出Automations功能，用户描述一次任务并设定计划或触发条件后，Grok会自动执行并回报结果",
+    "stacy_muur指出Ostium遭1800万美元攻击并暂停全部交易后，推荐股票交易者轮动至TrueCurrentX等替代永续DEX平台",
+    "Starlink V3卫星每颗配备6条400Gbps高容量太空激光，可在全球任意两点间通过petabit级激光网状网络不间断传输高带宽流量",
+    "cognition推出面向初创公司的Devin计划，提供6.5万美元额度供在Cloud、Desktop和CLI上使用Devin",
+    "GavinSBaker表示美股风险回报再度具吸引力，市场上有大量具持久竞争优势且未来6至12季度将大幅超预期的廉价股票"
+  ],
+  "items": [
+    {
+      "category": "🔴 立即关注",
+      "summary": "Cascade的CLS金库遭攻击，约134万美元USDC被盗，攻击者已把资金从Arbitrum跨到Solana再桥回以太坊",
+      "author": "PeckShieldAlert",
+      "id": "2077625630536180100"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Anthropic据彭博报道最快10月启动IPO",
+      "author": "unusual_whales",
+      "id": "2077481290908229923"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "沉睡8年的比特币OG把5908枚BTC约3.83亿美元转入新钱包，成本仅1.68万美元，当前浮盈约2.83亿",
+      "author": "lookonchain",
+      "id": "2077588714809962644"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "RWA永续新品种上线：Lighter开放CXMT长鑫存储Pre-IPO合约，可用最高5倍杠杆交易中国半导体上市前敞口",
+      "author": "Lighter_xyz",
+      "id": "2077407874267914690"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Ondo正式上线首个基于DTC托管证券权益的代币化股票凭证，接入DTCC代币化服务",
+      "author": "OndoFinance",
+      "id": "2077411189269692763"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Flare与Clearstar在PancakeSwap推出cbXRP/FXRP流动性池，做市可赚交易费加USDC激励，把闲置XRP盘活",
+      "author": "FlareNetworks",
+      "id": "2077604136900571418"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Solana上开源的agentcash路由让团队API可被代理发现并用x402付费，Merit已处理76.5万笔微支付，代理原生支付走向落地",
+      "author": "solana",
+      "id": "2077528311371067712"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Hyperion与Skew签约投入50万枚HYPE部署HIP-3永续市场并推出机构上币服务，把HYPE资产真正投入运营",
+      "author": "HYPERDailyTK",
+      "id": "2077588063619072245"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "三个新建钱包9小时内从Coinbase Prime提走3万枚ETH约5766万美元，鲸鱼持续吸筹以太坊",
+      "author": "lookonchain",
+      "id": "2077595361011712159"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Strategy CEO表态只有比特币跌到8000至1万美元区间才会开始评估其债务风险，划出压力测试底线",
+      "author": "TheBlockCo",
+      "id": "2077501556799201778"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "OKX开出世界杯结果市场，答对得XP、决赛后XP转换为BTC奖励，是低成本积分farming路径",
+      "author": "ShawnCT_",
+      "id": "2077383730172494043"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "马斯克宣布Grok Build正式开源，并称开源代码调试工具的目的是让任何人参与打造更可靠稳健的执行框架",
+      "author": "SpaceXAI",
+      "id": "2077494535387828644"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据证券日报中国正押注AI代币成为继电动车与光伏后的下一个出口增长引擎，借算力优势深化在全球AI供应链的角色",
+      "author": "zerohedge",
+      "id": "2077577200019108262"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "DePIN板块总市值较2024年3月高点暴跌83%至34.6亿美元，成为加密表现最差的赛道之一",
+      "author": "Cointelegraph",
+      "id": "2077350123739156557"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "英伟达发布DeepStream 9.1，内置13项智能体技能，可用自然语言配合Claude Code或Codex搭建视频分析流水线",
+      "author": "NVIDIAAI",
+      "id": "2077528638723862723"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "蚂蚁开源Ring-2.5-1T-Zero，直接从基座用零人工标注做强化学习训练万亿参数模型并取得有竞争力的推理表现",
+      "author": "AntLingAGI",
+      "id": "2077398525164519570"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "作者实测指出Coinbase对中国用户手续费极贵，小额兑换约4%是主流所40倍、大额0.4%也是币安OKX的4到7倍，除非提现到银行卡否则不建议用",
+      "author": "punk2898",
+      "id": "2077347650576551958"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "GPT-5.6 Sol Ultra实测能在有限提示下自主爬升Chrome渲染器漏洞并弹出计算器，作者认为漏洞开发正被AI改变",
+      "author": "S1r1u5_",
+      "id": "2077125665003098239"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "马斯克确认将在完成安全漏洞审查后把X平台整个代码库无例外开源，并邀请第三方审查者验证运行中系统与开源代码一致",
+      "author": "Polymarket",
+      "id": "2077549021023908022"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Curve将Llamalend v2带到以太坊主网，提供隔离市场、灵活资产配对并支持Curve LP代币作为抵押品，首批市场将经治理逐步上线",
+      "author": "CurveFinance",
+      "id": "2077427616089252234"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "新建钱包向Hyperliquid存入千万USDC做空长鑫存储CXMT，已开出51.4万枚1倍空单并在8至9美元区间挂单加空49万枚",
+      "author": "lookonchain",
+      "id": "2077645265662787596"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Abraxas Capital三小时内从币安和Bybit提走8153枚ETH约1530万美元，同时向Kraken存入618枚BTC约4000万美元，明显在卖BTC换ETH",
+      "author": "lookonchain",
+      "id": "2077374770795196624"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Polymarket五分钟BTC合约在币安推送到达时会有34%概率翻转此前市场定价90至100%确定的结果，结算预言机偏离币安中间价2.5个基点，821个钱包在收盘秒级把现货拉过行权价套利",
+      "author": "aixbt_agent",
+      "id": "2077669031168070125"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "edgeX V2上线SOXL永续，即三倍杠杆做多美国半导体板块的ETF，最高提供10倍杠杆并可交易挖矿",
+      "author": "edgeX_exchange",
+      "id": "2077679868096229437"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Anthropic、黑石与高盛联合成立15亿美元AI服务公司Ode，前置部署工程师进驻企业客户内部绘制业务流程并搭建定制AI系统",
+      "author": "lukepierceops",
+      "id": "2077452293772062857"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Monad原生代币MON在盈透证券上线交易，同时支持在Monad网络进行USDC存取",
+      "author": "monad",
+      "id": "2077447656671003108"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "前Meta首席AI科学家杨立昆断言仅靠扩大LLM规模永远无法达到人类级智能，需要不同架构路径",
+      "author": "realBigBrainAI",
+      "id": "2077370212073214047"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Robinhood链首个3D MMO游戏KINDRA接入0x协议的Matcha聚合器，玩家可在游戏内直接买入其代币",
+      "author": "WhaleInsider",
+      "id": "2077650023114822079"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "作者披露软件工程自动化工具用0.05美元一条线索取代Apollo每年4000美元订阅，销售线索获取成本被极端压缩",
+      "author": "shengkun_ye",
+      "id": "2077465067034218753"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Linus公开表态Linux内核不是反AI项目，作为顶级维护者坚决允许在内核开发中使用AI工具",
+      "author": "pashmerepat",
+      "id": "2077530045082644977"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Kraken机构客户现可通过Upshift把闲置国库资产投入许可制链上金库，直接从Kraken合规托管操作无需新建钱包或额外对手方",
+      "author": "upshift_fi",
+      "id": "2077426400290840701"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "作者揭露字节所谓炒币股神人设在币圈已崩塌，不敢晒实盘反而改用英文转向欺骗海外用户",
+      "author": "lijiuer1",
+      "id": "2077335241539424715"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Ostium攻击损失被更新为约2400万美元，攻击者从OLP金库通过预言机和keeper操纵套走资金并已把12084枚ETH中的10540枚存入TornadoCash洗钱",
+      "author": "Eli5defi",
+      "id": "2077634355409846652"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "蚂蚁开源Ling-2.6-1T大模型，号称token消耗仅为美国主流模型的1%，SWE-bench达72.2%，在智能体编程上对标Claude和GPT",
+      "author": "thesupermanmx",
+      "id": "2077393518188995053"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "作者深度剖析ETH近一月持续跑赢BTC背后是定价逻辑的根本转变，而非普通补涨，扭转此前主网收入下降、L2分流、Solana抢用户等负面叙事",
+      "author": "cloakmk",
+      "id": "2077604927623610707"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "韩国央行加息25基点至2.75%，为2023年1月以来首次加息，收紧加密风险偏好",
+      "author": "WuBlockchain",
+      "id": "2077686051947327510"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "韩国政府紧急将股票杠杆保证金要求提高3倍至约2万美元且仅认现金，单笔下单最少20股，并停止审批新单一股票杠杆产品，过去一月散户杠杆损失14.5亿美元",
+      "author": "_FORAB",
+      "id": "2077657204644266316"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Loopscale上eHYUSD收益来自Hylo的Earn池且完全delta中性，可循环加杠杆至6.7倍，最高年化15.1%外加2倍Hylo积分",
+      "author": "Loopscale",
+      "id": "2077490259214864884"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Aave Horizon上JAAA可作可借抵押品，Resolv用它构建至1亿美元规模的杠杆策略并为新primeUSD金库提供杠杆来源，JAAA为全球最大AAA CLO策略上链版",
+      "author": "centrifuge",
+      "id": "2077709907739238863"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "作者拆解Ostium被盗2370万美元事件本质是密钥泄露而非预言机操纵或闪电贷，每个促成攻击的价格都被合法签名，警示永续DEX建设者签名信任才是最大风险",
+      "author": "MarcinRedStone",
+      "id": "2077704982321852509"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Galaxy作为curator加入Morpho并推出机构级稳定币金库，把传统市场资产管理经验带入链上",
+      "author": "cb_doge",
+      "id": "2077745700360814657"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "作者系统梳理价差扩大收敛套利路径，涵盖同资产跨CEX/DEX、布伦特与WTI原油价差、SKHX与SKHY股票双向套利三类场景",
+      "author": "0xanonnnn",
+      "id": "2077621169998684414"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "币安期货即将上线腾讯控股和小米两只港股TradFi永续合约，以Quanto方式交易，把港股龙头敞口带入加密衍生品",
+      "author": "binance",
+      "id": "2077725397584597468"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "高盛测算AI代理到2030年或将token消耗量推高24倍，未来12至18个月加剧芯片短缺",
+      "author": "unusual_whales",
+      "id": "2077719141809598762"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "作者警示当前从5.8万到6.5万的BTC反弹建立在借来的保证金上，一年内杠杆翻2.7倍，稳定币流入和ETF资金均未跟上，去杠杆风险升高",
+      "author": "0xALTF4",
+      "id": "2077711291326550180"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Ondo与日本2500亿美元资管巨头SBI合作把日本股票代币化，通过SBI网络分销并用日元稳定币JPYSC结算和作抵押品",
+      "author": "IxsFinance",
+      "id": "2077729799577952326"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Centrifuge把机构代币化美债JTRSY作为合格抵押品接入m0网络，为其上19个稳定币、3.2亿美元供应提供短久期美债支撑",
+      "author": "centrifuge",
+      "id": "2077740851627950418"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "CounterPoint最新预测长鑫存储CXMT到2028年将拿下11%的存储市场份额",
+      "author": "jukan05",
+      "id": "2077648402561851583"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "作者指出xAI在开源Grok Build前五天曾悄悄发布官方Claude Code插件，由Grok Build团队工程师编写，揭示两大编程工具间不为人知的交集",
+      "author": "Granite0x",
+      "id": "2077527188908200395"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "贝莱德客户单笔买入价值8000万美元比特币，机构资金持续进场",
+      "author": "Kalshi",
+      "id": "2077748223259660482"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Bitget钱包推出DTF代币，类似SPY和QQQ代表一篮子资产，可无需KYC获得特定赛道指数敞口，配套活动奖池8万美元",
+      "author": "0x_xifeng",
+      "id": "2077711229221789927"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "传闻谷歌Gemini 3.5 Pro将带200万token上下文窗口发布，GA日期约7月17日，但官方尚未确认，均来自泄露信息",
+      "author": "cyrilXBT",
+      "id": "2077717406403989883"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Mert借CZ的比特币抗通胀言论提出Zcash不仅抗通胀还能抵御AI对用户过往及未来财务活动的永久监控",
+      "author": "mert",
+      "id": "2077705880611467510"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "StarkWare的Eli提出DeFi隐私应被视为从密不透风到零隐私的连续区间而非有无二元特性，机构上链需按需选择不同隐私变体",
+      "author": "EliBenSasson",
+      "id": "2077740222373134681"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "韩国泡沫破裂后大量资金可能轮动流向中国市场",
+      "author": "zerohedge",
+      "id": "2077728248687931746"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "作者剖析BONK较历史高点已暴跌93%，Bonkfun和BonkBot收入崩塌、解锁量超回购、遭DAO攻击、流动性向新meme轮动，质疑其作为Solana头部meme是否走向消亡",
+      "author": "FabianoSolana",
+      "id": "2077713592518869237"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Visa发布稳定币平台，允许银行和金融科技公司在受管环境中发行与管理稳定币，将直接打通两亿商户支付场景",
+      "author": "WatcherGuru",
+      "id": "2077769934151847971"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "DeFi做市商靠代币回购护盘效果存疑：同做高额年化营收，采用回购机制的头部平台估值反差巨大",
+      "author": "blknoiz06",
+      "id": "2077773554033037509"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "符合传统券商监管的代币化罗宾逊股票正式上线索拉纳，打通加密网络与纳斯达克的双向自由赎回与全天候交易",
+      "author": "solana",
+      "id": "2077754737211130078"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "开发者呼吁大模型应该专注前端表现力，因为生成炫酷可视化和网页比复杂的后端代码更容易在网络上获得病毒式传播",
+      "author": "emollick",
+      "id": "2077808560419795195"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "开源大模型迎来爆发节点，不仅训练透明度与能力已逼近非开源顶尖模型，开发者生态与配套工具链也正在快速成熟",
+      "author": "sriramk",
+      "id": "2077566845431779766"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "语言模型在处理代码文件时意外执行删除操作的根源，往往在于用户开启了完全访问权限且未沙箱化导致无约束行为",
+      "author": "thsottiaux",
+      "id": "2077630111499882637"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "国产开源模型Kimi K3在复杂的着色器视觉图形生成任务中表现优异，综合能力已紧逼当前顶尖闭源模型",
+      "author": "emollick",
+      "id": "2077783731691995348"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "美国众议院通过修正案否决削减对以色列的援助资金",
+      "author": "unusual_whales",
+      "id": "2077523374109286660"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "巴林与科威特加入打击伊朗的行动，美国军队在一小时内空袭了十六处革命卫队目标",
+      "author": "RealBababanaras",
+      "id": "2077753352499482846"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "反洗钱金融行动特别工作组警告犯罪分子正大量利用稳定币和自建代币逃避冻结，呼吁加快执行加密资产反洗钱规则",
+      "author": "Cointelegraph",
+      "id": "2077747866995433577"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "高盛披露韩国股票市场大跌去杠杆的惨烈数据：超过120万散户杠杆账户遭追加保证金，每30个韩国成年人中就有1个被强平",
+      "author": "zerohedge",
+      "id": "2077771238609461547"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "管理近两万亿美元资产的资管巨头推出首个主动管理多代币现货加密交易所交易产品，超四成仓位配置比特币",
+      "author": "BitcoinMagazine",
+      "id": "2077781519813296198"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "初创券商融资一亿三千五百万美元建设代币化底层股票基础设施，押注传统证券在区块链上全天候交易的未来",
+      "author": "CoinDesk",
+      "id": "2077763685444153449"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "美股半导体板块从英特尔到光通信芯片全线暴跌，Reddit论坛散户大面积爆仓往往标志着板块阶段性见底",
+      "author": "aleabitoreddit",
+      "id": "2077784594959725056"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "非托管收益聚合器上线，可自动将美元稳定币移入7条链上收益最高的去中心化金库",
+      "author": "Optimism",
+      "id": "2077766328996282782"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "美国众议院金融服务委员会公告称，加密清晰法案预计难以在今年内正式签署生效",
+      "author": "WatcherGuru",
+      "id": "2077809969634631735"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "特朗普的长期提词器操作员被曝利用职务便利在预测市场大赌特赌其演讲结果，获利超过十万美元",
+      "author": "unusual_whales",
+      "id": "2077809738746622108"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "头部资管机构高管指出区块链是资产管理的最大颠覆性技术，传统金融正大规模向链上迁移",
+      "author": "monad",
+      "id": "2077801146526343589"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "连锁交易平台推出策略市场，允许顶级交易员将策略开源给散户订阅跟单，作者赚取利润分成且无需公开底层代码",
+      "author": "minara",
+      "id": "2077780543673180304"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "将三大顶尖AI编程模型置于同一个代码库共享规则与上下文环境，能有效打破单模型的思考局限产出高质量代码",
+      "author": "Nekt_0",
+      "id": "2077711239463960606"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "外卖平台发布命令行工具让自主代理具备直接调用接口搜索店铺并下单支付的能力，标志着智能体商业闭环落地",
+      "author": "paulg",
+      "id": "2077522510116000125"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "社交平台升级广告产品，品牌方可以将真实用户的自发好评作为广告推送给目标受众，将自然口碑转化为精准曝光",
+      "author": "nikitabier",
+      "id": "2077479511202152728"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "去中心化收益应用推出安卓版本，支持跨十链无缝交易并最高获取百分之十四的稳定币年化收益",
+      "author": "superformxyz",
+      "id": "2077764255307501780"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "AI智能体市场接入法币支付通道，用户可直接用银行卡和支付宝等日常工具买卖自动化AI代理",
+      "author": "swarms_corp",
+      "id": "2077799385656627606"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "头部券商已向全部八百六十万客户全面推出比特币现货交易服务",
+      "author": "BitcoinMagazine",
+      "id": "2077797371790942318"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "足球比赛在临近结束时实现惊天逆转的概率极低，作者用十万场比赛的样本证明了挺进决赛的概率不足万分之一",
+      "author": "TrungTPhan",
+      "id": "2077808933998297521"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Moonshot发布Kimi K3，2.8万亿参数、100万上下文、原生多模态，Kimi Delta Attention在百万token场景下解码提速最高6.3倍",
+      "author": "Kimi_Moonshot",
+      "id": "2077830229968683203"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Polymarket称Kimi K3在Frontend Code Arena登顶第一，超越Claude Fable 5",
+      "author": "Polymarket",
+      "id": "2077837813559488747"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "nrehiew_公布Kimi K3官方benchmark，认为其为Fable/Sol级模型、全面优于Opus 4.8且仅Sonnet定价",
+      "author": "nrehiew_",
+      "id": "2077782070785634767"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Anthropic为Claude Code artifacts加入MCP connector调用能力，可为每位访问者按需拉取数据并执行操作，Pro/Max/Team/Enterprise可用",
+      "author": "ClaudeDevs",
+      "id": "2077489907350856038"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Citadel Securities向Crypto.com战略投资4亿美元，交易所估值达200亿美元，为其首轮机构融资",
+      "author": "kris",
+      "id": "2077820415376756794"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Netflix称已在约300部影视作品中使用生成式AI，并表态AI会让电影更好但不会取代人类，对大型并购设很高门槛",
+      "author": "WatcherGuru",
+      "id": "2077856321357930520"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "彭博称美军在波斯湾深处击中一艘超级油轮，靠近伊朗关键石油出口终端，为重启封锁后首次攻击船只",
+      "author": "business",
+      "id": "2077850812416454859"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Trump Media将于8月1日起出售对特朗普Truth Social帖子的毫秒级实时访问权，面向交易员、对冲基金和高频交易公司",
+      "author": "unusual_whales",
+      "id": "2077822321545380105"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Alphabet收盘下跌4.4%，市值蒸发2000亿美元",
+      "author": "zerohedge",
+      "id": "2077845922730361196"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Saronic宣布投资超30亿美元在德州Brownsville建设Port Alpha，打造全球最先进的软件定义造船厂之一",
+      "author": "Saronic",
+      "id": "2077801200477421981"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "sama称新语音模型跨过一个门槛，自己现在与ChatGPT语音对话已多于打字",
+      "author": "sama",
+      "id": "2077842579232895286"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Loopscale上ONyc/USDC与PT-ONyc循环金库有近600万USDC流动性，循环ONyc最高20.31%年化加6倍OnRe积分，PT-ONyc固定利率最高30.92%",
+      "author": "Loopscale",
+      "id": "2077821075275309179"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "币安期货即将上线MiniMax、智谱ZHIPU和腾讯控股三只TradFi股票永续，24/7交易最高25倍杠杆",
+      "author": "binance",
+      "id": "2077755133145071946"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "blknoiz06复盘Saylor未抛售BTC而是卖MSTR股份换来20多个月运营现金，抄底判断兑现",
+      "author": "blknoiz06",
+      "id": "2077861743699571083"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Kraken Earn Vaults存款突破6亿美元、用户超8万，收益来自USDC与BTC策略，6月以来新增1亿美元，Veda提供金库基础设施",
+      "author": "veda_labs",
+      "id": "2077839187529883687"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "yacineMTB讽刺Kimi K3疑似蒸馏了尚未发布的美国前沿模型",
+      "author": "yacineMTB",
+      "id": "2077825937513628023"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Telegram推出富文本编辑器，支持表格、标题、内联媒体、公式与AI内容，仅Premium订阅可用",
+      "author": "durov",
+      "id": "2077863831066296638"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Kalshi给出Tesla与SpaceX在2028年前合并的概率为69%",
+      "author": "Kalshi",
+      "id": "2077838931568050460"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "DecartAI发布Lucy 2.5实时AI视频模型，可实时编辑视频，应用于直播、电商与广告",
+      "author": "DecartAI",
+      "id": "2077801728213156044"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Securitize与Cantor Fitzgerald合作把IPO与后续增发搬上链，CEO Carlos Domingo押注onchain IPO成为新品类",
+      "author": "Securitize",
+      "id": "2077807980020642122"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Superteam USA加速器首批录取24家公司，覆盖资本市场、稳定币、AI、深科技、DeFi与消费方向",
+      "author": "SuperteamUSA",
+      "id": "2077846333289906503"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Marcos López de Prado在QuantCon指出对完全不可预测序列跑一千次实验，预期最大夏普比约为3，警示回测过拟合",
+      "author": "zostaff",
+      "id": "2077789866717254024"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Chainguard称已融资超8亿美元打造在网络攻击发生前将其阻止的基础设施",
+      "author": "lorenc_dan",
+      "id": "2077784199482724667"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "cyrilXBT指出Spark Savings在Arbitrum新增支持USDT0，可在USDC、USDS、USDT0上一次性集成储蓄，三者占Arbitrum稳定币供应超90%",
+      "author": "cyrilXBT",
+      "id": "2077817574469894245"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Lyn Alden参投的trasia获Multicoin 175万美元种子轮，打造非托管、亚洲优先的交易平台",
+      "author": "mablejiang",
+      "id": "2077786637824913537"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "OpenAI正调查GPT-5.6在Codex中意外删除用户文件的多起神秘案例",
+      "author": "Polymarket",
+      "id": "2077851010639528172"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Kimi K3在Artificial Analysis智能指数得57分，与Opus 4.8和GPT-5.5相当但落后Fable 5和GPT-5.6 Sol，Moonshot计划开放2.8T参数权重成为最强开源模型",
+      "author": "ArtificialAnlys",
+      "id": "2077832874183860404"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Ethena的USDe与sUSDe正式上线Monad生态并接入Aave，为Monad带来深度稳定币借贷流动性",
+      "author": "monad",
+      "id": "2077756103547372012"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "从BONK金库合法套走4.426万亿枚BONK约2120万美元的地址过去6小时已向Binance转入1.19万亿枚约411万美元抛售，仍持有3.2万亿枚约1085万美元",
+      "author": "lookonchain",
+      "id": "2077920680868565136"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "白宫称中国自2020年起获取2.2亿美国选民记录，为已知最大规模选举数据泄露",
+      "author": "Cointelegraph",
+      "id": "2077926965634293780"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "SpaceX第13次Starship试飞在点火后因部分发动机未启动触发自动中止，Musk确认正卸载推进剂，下次尝试或在几天后",
+      "author": "cb_doge",
+      "id": "2077892171538239661"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "AndreCronje的flyingtulip将ftUSD在以太坊铸造上限从500万提至1亿美元，铸造质押后以太坊年化11.22%、Sonic年化4.94%，设有熔断机制限制异常提款",
+      "author": "flyingtulip_",
+      "id": "2077868331638325556"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "shengkun_ye推出Monid，可在Claude Code或Codex直接调用Seedance 2.0视频生成，按量付费每1万token仅0.04美元，对比Higgsfield每月129美元订阅",
+      "author": "shengkun_ye",
+      "id": "2077854613949276319"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Zama发布机密代币标准，在保持公开可验证性的同时加密金额和余额，需钱包、浏览器、索引器等整套工具栈配合成为默认",
+      "author": "zama",
+      "id": "2077777719249584506"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "RealVision称BTC网络活动指数创2024年12月来新高，但本轮80%交易为0.01 BTC以下的Runes与Inscriptions铭文，是数据而非资金驱动",
+      "author": "RealVision",
+      "id": "2077743927176679618"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Robinhood加密上线INJ交易，为该代币带来新增流动性",
+      "author": "coingecko",
+      "id": "2077847003304800371"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "据Politico报道预计今日发布的加密CLARITY法案缺乏参议院民主党支持，需60票才能通过，白宫今日会晤参议员意在解决剩余伦理条款分歧",
+      "author": "coinbureau",
+      "id": "2077882489314676846"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "dunik_7介绍Anima AI创始人Gavin Li开源AirLLM，通过每次仅在GPU保留一层并流式加载其余层，让4050亿参数模型跑在单张8GB游戏显卡上",
+      "author": "dunik_7",
+      "id": "2077708991967166527"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CZ透露曾邀Musk合作开发XMoney，Musk回应称X平台只处理法币不碰加密，称加密是别人的事",
+      "author": "gazza_jenks",
+      "id": "2077673990907212282"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "stutireal宣布加入Pantera Capital任投资团队合伙人，将从Pre-Seed到Series B阶段投资金融前沿及底层技术的创始人",
+      "author": "stutireal",
+      "id": "2077804982347370929"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Robinhood股票HOOD正式上线Solana的Raydium，由Backpack Securities发行、通过sunrise实现24/7全天候交易",
+      "author": "Raydium",
+      "id": "2077757127381106871"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "GodotSancho披露DRAM机构在53至54美元区间通过暗池大量买入占比67%至74%，并做多头Risk Reversal期权组合看多未来6个月存储走势",
+      "author": "GodotSancho",
+      "id": "2077766298260693396"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "l2beat公布Native Rollups工作原型，class_lambda与ethrex_client团队已把把L2区块转为L1携证明交易的构想从研究推进到可运行PoC",
+      "author": "l2beat",
+      "id": "2077764769436553272"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Grok推出Automations功能，用户描述一次任务并设定计划或触发条件后，Grok会自动执行并回报结果",
+      "author": "grok",
+      "id": "2077860594557001813"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "stacy_muur指出Ostium遭1800万美元攻击并暂停全部交易后，推荐股票交易者轮动至TrueCurrentX等替代永续DEX平台",
+      "author": "stacy_muur",
+      "id": "2077737016696197151"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Starlink V3卫星每颗配备6条400Gbps高容量太空激光，可在全球任意两点间通过petabit级激光网状网络不间断传输高带宽流量",
+      "author": "Starlink",
+      "id": "2077885923170402791"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "cognition推出面向初创公司的Devin计划，提供6.5万美元额度供在Cloud、Desktop和CLI上使用Devin",
+      "author": "cognition",
+      "id": "2077821585252028849"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "GavinSBaker表示美股风险回报再度具吸引力，市场上有大量具持久竞争优势且未来6至12季度将大幅超预期的廉价股票",
+      "author": "GavinSBaker",
+      "id": "2077770282362610028"
+    }
+  ],
+  "last_updated": "2026-07-16"
+}

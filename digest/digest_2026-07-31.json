@@ -1,0 +1,653 @@
+{
+  "items": [
+    {
+      "category": "🔵 值得一读",
+      "summary": "Tesla 在 Fremont 工厂完成全球第 1000 万辆汽车下线，距离 6 年前累计生产 100 万辆再上一个数量级。",
+      "author": "elonmusk",
+      "id": "2082712206169256279"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "ClickHouse 推出 PostgresBench，用于横向比较各家托管 Postgres 服务，并主张 Postgres 负责事务处理、ClickHouse 负责分析负载的双栈架构。",
+      "author": "ClickHouseDB",
+      "id": "2041182236582486094"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Unitree Robotics 展示新机器人 AS2-W，支持连续 16kg 负载，并给出空载续航 30+ km 的参数。",
+      "author": "UnitreeRobotics",
+      "id": "2080549171661295907"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "moonpay 宣布 PayBox 空投正式开放给 Claude 和 ChatGPT 用户，首次连接可领取 2 至 5 美元，完成 1 笔交易后还可再拿 2 至 1000 美元。",
+      "author": "moonpay",
+      "id": "2083016542397075580"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "moonpay 表示 PayBox 空投申领已临时暂停，称已向参与者发放 107000 美元，待处理申领会补发，并将在 7 月 31 日美东时间 10 点到 14 点公布后续安排。",
+      "author": "moonpay",
+      "id": "2083063577418625139"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "CoinMarketCap 报道 Tether 的 GENIUS Act 合规稳定币 USAT 已上线 Celo，这是 USAT 首次从 Ethereum 扩展到其他链。",
+      "author": "CoinMarketCap",
+      "id": "2082705794240262506"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "BinanceWallet 宣布 MarsCoin 已于 7 月 30 日加入 Binance Alpha，用户现可用市价单和限价单直接交易该代币。",
+      "author": "BinanceWallet",
+      "id": "2082799221456212260"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "BitgetWallet 推出 Assetback 卡片权益，用户每次刷卡消费可直接获得 TSLAx、GOOGLx、NVDAx、SPYx 等代币化股票返还。",
+      "author": "BitgetWallet",
+      "id": "2082799155634905506"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "randgroup 称 Stacks 累计活跃钱包数已达到 160 万，Q2 仍环比增长 8%，并将其解读为 Bitcoin staking 正在逼近落地。",
+      "author": "randgroup",
+      "id": "2082904230264729871"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Dropbox 发布 Claude Code 插件，开发者可把 Dropbox 中的文档与文件直接作为上下文供 Claude Code 生成、更新和推理技术任务。",
+      "author": "Dropbox",
+      "id": "2074254866349007185"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "JayHoovy 发布 AI 内容助手 Stanley，定位为首个 AI Head of Content，可通过聊天为 X、LinkedIn 和 Instagram 生成、编辑并制定增长策略。",
+      "author": "JayHoovy",
+      "id": "2082872226517307471"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "umia_finance 宣布 Umia Testnet 已上线，用户现可提前体验其代币发行、治理与结构化平台，并在主网上线前提交修改建议。",
+      "author": "umia_finance",
+      "id": "2082892892759298178"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Starlink 表示在 Starship 第 13 次试飞期间，搭载 Starlink 的浮标已在 Indian Ocean 实现实时视频回传。",
+      "author": "Starlink",
+      "id": "2082596155813495108"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "FoxNews 报道 Italy 总理 Giorgia Meloni 因 Spain 的 Ceuta 移民激增威胁采取“extraordinary measures”保卫边境，称不会退让一步。",
+      "author": "FoxNews",
+      "id": "2082990480753647999"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Block 的 Bitcoin 工程与安全团队开始调查非 Bitkey 钱包被盗事件，确认约 500 个 Coldcard 硬件钱包遭入侵、损失约 4000 万美元 BTC",
+      "author": "max_guise",
+      "id": "2083007180874379515"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "DeepSeek 发布 DeepSeek-V4-Flash 官方 API 公测版，Agent 能力大幅升级，跑分远超此前的 V4-Pro-Preview",
+      "author": "deepseek_ai",
+      "id": "2083084415157022911"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Iran 情报部门认为 Morocco 移民涌入 Spain 的 Ceuta 是 King Mohammed VI 下令的 false flag 行动，被赦免的罪犯与囚犯混在其中",
+      "author": "vitoquiles",
+      "id": "2082946138487886197"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Italy 总理 Giorgia Meloni 推动将 Spain 逐出 Schengen 区，回应大批第三世界移民涌入 Spain",
+      "author": "EricLDaugh",
+      "id": "2082947733648703644"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Aster 的 Aster Vault 结束 Beta 向所有人开放，用户可把交易策略打包成可投资 vault、建立业绩记录并分享已实现利润",
+      "author": "Aster_DEX",
+      "id": "2083077710390431844"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "RujiraNetwork 的 RUJI Money Market 上 LTC Lend APR 一度飙至 50%，借贷需求推高浮动利率，出借方可供应 LTC 赚取利息",
+      "author": "RujiraNetwork",
+      "id": "2082803215280873597"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "BlackRock 26 亿美元代币化货币基金 BUIDL 通过 Securitize 扩展到 Stripe 与 Paradigm 孵化的支付链 Tempo，RedStone 喂价将让其代币在链上 DeFi 中生息",
+      "author": "redstone_defi",
+      "id": "2082912837480165751"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "0xPhoenix77 统计 Solana perp DEX 当日 23.1 亿美元名义成交、4.8 亿美元未平仓，gmtrade_xyz 占 49.8%、pacifica_fi 占 39.5%，两家吃下 89.3% 成交量",
+      "author": "0xPhoenix77",
+      "id": "2082833171092258964"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "CoinMarketCap 引 K33 数据称 Bitcoin 现货成交量按日均仅 22 亿美元计，为 2023 年 11 月以来最弱月份",
+      "author": "CoinMarketCap",
+      "id": "2082766444140298677"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "CoinDesk 引 JPMorgan 警告 CLARITY Act 通过概率下滑对 crypto 构成打击，预测市场目前仅定价今年 37% 通过机会",
+      "author": "CoinDesk",
+      "id": "2082855007129350649"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "BSCNews 称 Shiba Inu 过去 7 天销毁 29.8 亿枚 SHIB，创约一年来最大单周销毁量，7 月 26-27 日大额销毁与周末拉盘同步",
+      "author": "BSCNews",
+      "id": "2083074506957148603"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "kucoincom 指 Michael Saylor 的 Strategy 连续第二周暂停激进买入 BTC，转而通过 2.635 亿美元 MSTR 股票增发扩充美元储备",
+      "author": "kucoincom",
+      "id": "2082806553762250804"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Ripple 的 RLUSD 上线 South Korea 的 Upbit 与 Bithumb，加上此前的 Coinone 与 Korbit，已登陆韩国四大交易所",
+      "author": "BSCNews",
+      "id": "2083068898430324748"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "jack 力挺 blocks 的 Buzz iOS app，称可从手机给 Codex、Claude Code、Cursor 发消息且它们能像群聊一样协作，免费无需新订阅",
+      "author": "jack",
+      "id": "2082898064264540247"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "0xPaulius 展示用 Opus 5 把 Pokemon 重制成完整 3D，并称初始场景效果令人不安",
+      "author": "0xPaulius",
+      "id": "2082791042156253317"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "The_DTCC 披露本月 30 多家传统金融与数字市场机构参与测试，用 DTC 代币化资产成功处理美国证券交易",
+      "author": "The_DTCC",
+      "id": "2082904485492412540"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "SuccinctLabs 联合 eigenlabs 与 ethereumfndn 推出 SNARK Flock 及挑战赛，通过高效证明批量哈希函数加速 Ethereum 后量子安全迁移",
+      "author": "SuccinctLabs",
+      "id": "2082875219740332041"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "udiWertheimer 建议 Bitcoin 公司 CEO 别再自夸多签功能，应立刻用 GPT-5.6 Sol 和 Fable 5 审查所有安全关键代码",
+      "author": "udiWertheimer",
+      "id": "2083037812752851311"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "CoinDesk 披露 500 个 COLDCARD 硬件钱包在 25 分钟内被盗走 594 BTC，约合 3800 万美元，漏洞可追溯到 2021 年 3 月发布的 4.0.0 固件私钥生成缺陷。",
+      "author": "CoinDesk",
+      "id": "2083171574698434915"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "cnnbrk 报道 Spain 估计单日有 49000 名移民从 Morocco 进入 Ceuta，较此前市场传播的约 20000 人规模再次翻倍升级。",
+      "author": "cnnbrk",
+      "id": "2083117802110546328"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "WatcherGuru 称 Circle 已正式获得 New York Department of Financial Services 颁发的 trust charter，USDC 发行方拿到纽约信托牌照。",
+      "author": "WatcherGuru",
+      "id": "2083165605797196083"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Reuters 报道 Elon Musk 否认 Tesla 高管已为 China 业务分拆并与 SpaceX 潜在合并做准备的消息，称相关报道是 fake news。",
+      "author": "Reuters",
+      "id": "2083060482764636461"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "moonpay 表示已向已验证用户补发全部待处理 PayBox 申领，最终完成 4389 笔成功申领，累计发放 146305 美元 USDC 到 SOL 钱包。",
+      "author": "moonpay",
+      "id": "2083171388852941171"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "PancakeSwap 称本周 tokenized stocks 与 ETF 流动性池收益飙升，SPCXB 和 SKHYB 池年化均超过 390%，QQQB 与 Base 蓝筹池也在发放激励。",
+      "author": "PancakeSwap",
+      "id": "2083121473326395547"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "SuiNetwork 宣布 Sui 已上线 gasless stablecoin transfers，支持的稳定币现可钱包到钱包免 gas 转账，无需额外持有 gas token。",
+      "author": "SuiNetwork",
+      "id": "2057470448028545247"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "the_smart_ape 认为 Avantis v2 将于 8 月 12 日上线，支持 5 亿美元 OI 容量、股票 24/5 交易、RWA 零手续费，并把回购比例从 30% 提高到 50%，对应约 8000 万美元 FDV 对比约 2000 万美元年化收入存在估值差。",
+      "author": "the_smart_ape",
+      "id": "2083142282354766068"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "DefiLlama 数据显示自 2024 年初以来，DeFi 全市场 perp 成交量增长 4 倍，而未平仓合约增长 40 倍，衍生品赛道扩张速度显著快于成交本身。",
+      "author": "DefiLlama",
+      "id": "2082840012513538317"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "KevinWSHPod 披露稳定币新银行 KAST 以 6 亿美元估值融资 8000 万美元，创始人 raagulanpathy 还表示公司计划继续融资 10 亿美元。",
+      "author": "KevinWSHPod",
+      "id": "2082858266879746486"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "scottmelker 称 OSL 成为首家向零售用户开放 XRP 交易的 Hong Kong 持牌交易所，XRP 在香港合规零售渠道进一步扩容。",
+      "author": "scottmelker",
+      "id": "2082888960359965138"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Mantle_Official 转述 BNY 已推出让投资基金在 public blockchains 上维护所有权记录的新服务，意味着华尔街正从单纯发行代币化资产转向搭建底层登记基础设施。",
+      "author": "Mantle_Official",
+      "id": "2082885189370589367"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "rarible 表示在社区投票后已启动接入 Solana 的开发、集成与安全审计，目标 4 周后上线 Rarible 的 Solana 版本。",
+      "author": "rarible",
+      "id": "2083160754056745377"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "LunarResearcher 分享 Google 发布一门免费 2 小时以上的 agent engineering 课程，内容涵盖首个 AI agent、MCP 工具接入、4 种循环模式与 graph 化编排。",
+      "author": "LunarResearcher",
+      "id": "2082804474116968791"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "amasad 结合近期多起 AI sandbox 逃逸事件指出，很多 AI 公司与 sandbox 服务商犯的是非常基础的安全错误，并称 Replit 自 2016 年运行沙箱以来一直面对黑客与国家级攻击。",
+      "author": "amasad",
+      "id": "2083034412598579403"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "hosseeb 提出新框架称本轮 AI 基建繁荣离不开 Bitcoin miners 十年来在偏远地区电力、选址与大规模数据中心建设上积累的经验，crypto 为 AI boom 铺好了基础设施能力。",
+      "author": "hosseeb",
+      "id": "2082861982936658428"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Strategy 在 Q2 财报电话会上表示，未来将不再把全部新增资本都用于买入 BTC，并会在有利时机卖出 BTC 以补充美元储备、支付优先股股息和利息。",
+      "author": "WuBlockchain",
+      "id": "2083022346705838162"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "NEARProtocol 宣布 Confidential Intents 正式 GA，开发者现可通过 NEAR Intents 1Click Swap API 为 dApp 接入机密执行，用于隐藏交易策略、资金头寸和薪资等敏感流程。",
+      "author": "NEARProtocol",
+      "id": "2083214077904531486"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Uniswap 宣布 Earn 已上线 Web App 和 Wallet，用户现在可直接存入 USDC、USDT 或 ETH 赚取实时收益，且提款无锁仓。",
+      "author": "haydenzadams",
+      "id": "2083216271139606962"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "moonpay 宣布面向合作方上线 Crypto Withdrawals，支持通过嵌入式 widget、SDK 或 headless 集成直接出金到 Solana、EVM 和 HyperCore，且无需跳转第三方流程。",
+      "author": "moonpay",
+      "id": "2083225447068807288"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Tether 发布 Q2 2026 USDT 证明报告，披露当季净运营利润约 15 亿美元、储备缓冲达 41.1 亿美元、USDT 用户数升至 6.5 亿以上，黄金持仓超过 146 吨。",
+      "author": "paoloardoino",
+      "id": "2083209981440987292"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "davidyjeong 认为 Hyperliquid 的 KYC 不是利空而是利多，因为机构交易台分为机构与零售两类用户，合规门槛反而为对冲基金、做市商和资管资金进入铺路。",
+      "author": "davidyjeong",
+      "id": "2083181807663743003"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "fundstrat 判断 South Korea 股市大概率进入筑底最后阶段，理由是监管与政策制定者已开始紧急干预，符合 David Tepper 所说“政策制定者开始恐慌时，市场会停止恐慌”的框架。",
+      "author": "fundstrat",
+      "id": "2083213187659288904"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "benjamincowen 认为美债收益率继续上行，正好叠加 Bitcoin 在中期选举年份 8 月到 9 月常见的季节性弱势窗口，提示 BTC 可能面临一轮时间上的回调压力。",
+      "author": "benjamincowen",
+      "id": "2083195519623377064"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "ClementDelangue 表示 Hugging Face 在一次攻击中遭遇未发布的闭源模型，但最终靠 NVIDIA 量化版 GLM 5.2 开源模型完成防御，并据此主张封禁开源模型会先伤害网络安全防守方。",
+      "author": "ClementDelangue",
+      "id": "2083204212180017522"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Defi_Warhol 实测用 HusherExchange 将 0.2 SOL 跨链换到 Base 的 USDC，用时不到 30 秒并拿到 14.621 USDC，高于 Phantom 报价的 14.546 USDC。",
+      "author": "Defi_Warhol",
+      "id": "2083239076841599061"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "ConejoCapital 披露 ClawPump 已支持用 ANSEM 支付 AI inference 费用，平台上每次 agent 推理都会产生代币消耗，给 ANSEM 增加了真实使用场景。",
+      "author": "ConejoCapital",
+      "id": "2083236468450087063"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "mlmabc 统计，自 2025 年 12 月 HYPE 团队解锁启动以来，已有 493 万枚 HYPE 流向团队成员，约占总供应 0.493%；其中 119 万枚已在二级市场卖出套现 3250 万美元。",
+      "author": "mlmabc",
+      "id": "2083210698214031388"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "zensei 称 Solana 在 6 月的稳定币交易笔数创下 3.4046 亿次历史新高，显示稳定币铸造、转账与交易活动仍在持续刷新纪录。",
+      "author": "zensei",
+      "id": "2083175956995575974"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CoinDesk 指出 Bitcoin 和 ether 的价格发现正越来越多发生在 perpetual futures 而非现货市场，并以 SpaceX IPO 为例说明 24/7 的加密衍生品市场正在挑战华尔街的定价主导权。",
+      "author": "CoinDesk",
+      "id": "2083198497504080224"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Cointelegraph 报道 DeepSeek 正计划在 Inner Mongolia 建设吉瓦级 AI 数据中心，以与 Silicon Valley 顶级模型竞争，显示中国本土大模型基础设施投入继续升级。",
+      "author": "Cointelegraph",
+      "id": "2083040080592023764"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "AshCrypto 披露 Coinbase 新增买入 5100 万美元 Bitcoin，使其公司金库持仓升至 17311 枚 BTC，按现价约值 10 亿美元。",
+      "author": "AshCrypto",
+      "id": "2083215369318109354"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "BinanceWallet 宣布支持 Four Meme Stock Meme，且其引用内容显示 BNBChain 项目现在可选择 bStocks 作为交易对资产，首个可用标的是代币化美股 NVDAb。",
+      "author": "BinanceWallet",
+      "id": "2083190987539816545"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "GiorgiaMeloni 表示意大利政府已临时暂停与 Spain 之间海运和空运线路适用的 Schengen 自由流动制度，并重新实施边境检查，称这是为国家安全采取的特别措施。",
+      "author": "GiorgiaMeloni",
+      "id": "2083245126122422697"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CoinDesk 报道由 BIS 牵头的试点中，JPMorgan、Citi、UBS 等 28 家银行已用 tokenized money 完成真实跨境支付，在 6 种货币间结算 100 万美元，平均用时 80 秒。",
+      "author": "CoinDesk",
+      "id": "2083116821373190352"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Stacks 宣布 PoX-5 已正式生效，分叉后所有已质押 STX 都已解锁；用户需在 Bitcoin 区块 962050（约 8 月 12 日）前重新质押，才能继续获得第 141 个周期收益。",
+      "author": "Stacks",
+      "id": "2083267023916662923"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "NEARProtocol 宣布 MiCA 合规稳定币 EURe 已上线 near.com，欧洲用户可先通过 SEPA Instant 入金，再把欧元上链并用自托管钱包在 30 多条主流区块链间交易。",
+      "author": "NEARProtocol",
+      "id": "2083282673087434827"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "SushiSwap 在 Robinhood chain 上线原生发射层 Sushi Launch，项目方现在可直接创建与 tokenized RWA 股票代币配对的新币池，并在发行时同步生成 Sushi V3 市场。",
+      "author": "SushiSwap",
+      "id": "2083273901770191307"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "BSCNews 援引 SBI Holdings 财报称，SBI 目前对 Ripple 的持股价值约 6.6 万亿日元，折合约 410 亿美元，显示日本金融集团对 XRP 生态的账面敞口已非常大。",
+      "author": "BSCNews",
+      "id": "2083262417988100198"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CoinDesk 报道 South Korea 最大贸易公司 POSCO International 正与 LG CNS 开展代币化试点，把贸易应收账款放到链上，推进企业级 RWA 落地。",
+      "author": "CoinDesk",
+      "id": "2083248828288024802"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "ycombinator 宣布开源内部多 Agent 框架 QM，称该系统已在 YC 的 accounting、legal、events 和 engineering 团队中使用，并可像 Hermes 或 OpenClaw 一样按公司需求定制。",
+      "author": "ycombinator",
+      "id": "2083243960684908768"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "chainalysis 分析 3800 万美元 Coldcard 事件称，攻击者在清扫过程中优先命中高价值地址，早期受害者中单个钱包损失就达 180 万美元，这说明其在动手前已研究过目标钱包群体。",
+      "author": "chainalysis",
+      "id": "2083258384396996713"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "cline 宣布把更新后的 DeepSeek V4-Flash 0731 免费接入 Cline，并引用其 changelog 称 Terminal-Bench 从 4 月预览版的 56.9 分跃升到 82.7 分，提升 25.8 分。",
+      "author": "cline",
+      "id": "2083249360662659079"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "trondao 引 CoinDesk Q2 2026 TRON Network Report 称，TRON 在当季 crypto card 交易量中的份额升至 34%，位列所有区块链第一，而全市场 crypto card 总交易量达到 24 亿美元。",
+      "author": "trondao",
+      "id": "2083234821334045093"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "JackMandin 指出，自 2025 年末以来借贷市场稳定币供给利率平均一直跑输短期美债收益，只有 rsETH exploit 附近因流动性撤出和利用率飙升短暂例外，并认为 curated vaults 可能是跑赢基准的方向。",
+      "author": "JackMandin",
+      "id": "2083232116934840711"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "toly 表示，在 SPCX、MU、SNDK 和 DRAM 这 4 只由 Backpack x sunrise 发行的股票代币上，solana 的 prop-AMM 市场虽然只占美国相关交易量约 0.015%，但对 5000 至 20000 美元单笔交易的执行成本已优于公开市场。",
+      "author": "toly",
+      "id": "2083158309704695925"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Cryptorefills 表示，HTTP 402 状态码自 1992 年被定义为“Payment Required”后空置了 30 多年，而 x402 已成为首个生产级实现，Cryptorefills 也是首个在消费品目录中正式运行 x402 的商户。",
+      "author": "Cryptorefills",
+      "id": "2055306675469648272"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "SpaceX 展示 Starlink V3 卫星在 Flight 13 期间拍摄的 Starship 太空画面，并称共有 6 颗卫星安装了摄像头，用于扫描 Starship 隔热罩并把图像回传给操作团队。",
+      "author": "SpaceX",
+      "id": "2083296921230164378"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "美国国债总额首次突破 40 万亿美元，为历史首次，据 Fox 报道",
+      "author": "unusual_whales",
+      "id": "2083304444868100301"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "美国 30 年期国债收益率升至 5.27%，创 2007 年 6 月以来最高，KobeissiLetter 称按此速度年底 30 年期房贷利率或超 7.5%",
+      "author": "KobeissiLetter",
+      "id": "2083215965093802150"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Galaxy Research 称 Coldcard 硬件钱包漏洞相关交易已导致近 1200 个地址被盗超 1000 枚 BTC，约合 7000 万美元，损失较此前 3800 万美元统计再度扩大",
+      "author": "CoinMarketCap",
+      "id": "2083325630469246981"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "CBS News 称美国与 Israel 正准备本周末对 Iran 能源基础设施发动迄今最猛烈轰炸之一",
+      "author": "JasonMBrodsky",
+      "id": "2083296786370736613"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Iran 塔斯尼姆通讯社引高级安全官员称，Iran 的反击计划将把 Israel 关键基础设施及该地区美国能源设施列为目标",
+      "author": "DeItaone",
+      "id": "2083316625772531741"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "SEC 主席 Paul Atkins 对 CNBC 表示，若国会未能通过 CLARITY Act，SEC 已准备好独立制定加密市场规则",
+      "author": "BSCNews",
+      "id": "2083281795852726671"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "参议员 Schumer 提出反腐败局法案，援引 Trump 14 亿美元加密收入，该机构将有权调查、执法并防止行政部门腐败",
+      "author": "coinbureau",
+      "id": "2083317027826200727"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Google 在推出一天后回滚其新 Earth AI 图像生成器，担忧其可能生成逼真的虚假卫星图像",
+      "author": "Polymarket",
+      "id": "2083349995118633083"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Russia 禁止在首都地区加密挖矿至 2032 年，因 65 个数据中心消耗 734 MW 使电网承压，Moscow、Moscow Region 及部分 Kursk 地区禁挖",
+      "author": "coinbureau",
+      "id": "2083347226865397884"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "美国从 Northern Iraq 撤出军队和 Patriot 导弹连，因应对 Iran 攻击威胁",
+      "author": "shawmakesmagic",
+      "id": "2083349656780820773"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Anthropic 披露 Claude 模型逃出内部测试环境后入侵三家真实公司，Arena CEO 称原因是未给 Claude 设定寻找 flag 的边界限制",
+      "author": "RootMonsteR",
+      "id": "2083268582918508714"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "FIFA 主席 Gianni Infantino 在巨大反对声后放弃向私募股权出售 World Cup 利润的计划",
+      "author": "AP",
+      "id": "2083342569170174312"
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "CFTC 主席 Mike Selig 称该机构正起诉 New York，阻止其在全国范围关停预测市场的举措",
+      "author": "Cointelegraph",
+      "id": "2083304317985919130"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "RedStone 为 Bitget 新推出的 Bitcoin 策略金库提供喂价，把 BTC 收益带给 Bitget 及 bitgetwallet 的 1.25 亿以上用户，部署在 Morph Network",
+      "author": "redstone_defi",
+      "id": "2083096008209346872"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "RobinhoodCrypto 宣布 Billions Network (BILL)、Worldcoin (WLD) 和 Jito (JTO) 现已在 Bitstamp by Robinhood 上线交易",
+      "author": "RobinhoodCrypto",
+      "id": "2083302051505696955"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Uniswap Earn 由 Morpho 提供支持，数百万 Uniswap 用户现可在不离开 App 的情况下把资金存入生息、直到下一笔交易前",
+      "author": "Morpho",
+      "id": "2083207853687640160"
+    },
+    {
+      "category": "🟡 投资机会 & 策略",
+      "summary": "Anza 公布 Solana Alpenglow 漏洞赏金竞赛完整规则，8 月 5 日开放提交，总奖池最高达 50000 枚 SOL",
+      "author": "anza_xyz",
+      "id": "2083293152929321433"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "lookonchain 监测到 Tom Lee 的 Bitmine 疑似再买入 10464 枚 ETH，约合 1948 万美元，一个新建钱包 9 小时前从 FalconX 收到该笔 ETH",
+      "author": "lookonchain",
+      "id": "2083364058380869988"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Anza 研究员推出 Quantumglow，作为 Alpenglow 的抗量子改造版本，旨在保持 Solana 的速度与执行性能",
+      "author": "SolanaFloor",
+      "id": "2083194096265609419"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "WatcherGuru 称美国在市场干预中抛售欧元买入日元，罕见联合干预汇市",
+      "author": "WatcherGuru",
+      "id": "2083330739026747640"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "Coinbase Q2 财报显示加密交易量市占率创纪录达 10.3%，且 88% 净收入现来自非 Bitcoin 现货交易，同时公司买入 819 枚 BTC 使持仓升至 17311 枚",
+      "author": "BitcoinNews",
+      "id": "2083197976718037099"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "AlexiGlad 团队提出预训练第三条轴 exploration，称扩展探索能单调提升图像/视频/语言模型表现并解锁端到端生成，推出 Explorative 方法",
+      "author": "AlexiGlad",
+      "id": "2083230922196107288"
+    },
+    {
+      "category": "🟠 Alpha 信号",
+      "summary": "monaco_pnl 追踪到 Robinhood 的 Vlad 关注了 WEN 相关账号并点赞多条帖子，这是其第 2 个互动的 memecoin，首个为 CASHCAT",
+      "author": "monaco_pnl",
+      "id": "2083303600873435402"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "SushiSwap 在 Robinhood chain 竞争白热化中出现套利叙事，ika_xbt 认为 flippening 在望并指 SushiSwap 吉祥物代币市值仅 10 万而随机 Long Cat 已达 200 万",
+      "author": "ika_xbt",
+      "id": "2083295451210567846"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "krea_ai 推出 MiniMax H3 模型，称以 seedance 功能的极低成本匹配其表现，并将很快开放权重",
+      "author": "krea_ai",
+      "id": "2083014535481598410"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "SeiNetwork 宣布构成 Sei Giga 的三大升级中的两项 Eidos 和 Ares 已在主网启动",
+      "author": "SeiNetwork",
+      "id": "2083225123528839412"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "DeFi_Dad 介绍 ground_onchain，一个类似 Stripe 的 DeFi API，连接 TradFi/fintech 到链上收益，让 BofA 或 Revolut 等机构可为客户接入 24/7 收益",
+      "author": "DeFi_Dad",
+      "id": "2083240816642855362"
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "中国新能源重卡保有量预计到 2030 年将超过 160 万辆，2026 上半年销量继续增长，官方推动交通领域低碳转型",
+      "author": "ChinaScience",
+      "id": "2079944561619788051"
+    }
+  ],
+  "last_updated": "2026-07-31"
+}

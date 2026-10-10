@@ -1,0 +1,3398 @@
+{
+  "items": [
+    {
+      "category": "🔴 立即关注",
+      "summary": "HyperliquidNews称，网络升级预计8:15 UTC进行，Papertrade交易应在约9:15 UTC上线；另据被转引推文，Papertrade预存已达5700万美元。",
+      "author": "HyperliquidNews",
+      "id": "2108797143146287440",
+      "sources": [
+        {
+          "id": "2108797143146287440",
+          "author": "HyperliquidNews",
+          "url": "https://x.com/HyperliquidNews/status/2108797143146287440",
+          "published_at": "Sat Oct 10 05:49:53 +0000 2026"
+        },
+        {
+          "id": "2108791696960213020",
+          "author": "reisnertobias",
+          "url": "https://x.com/reisnertobias/status/2108791696960213020",
+          "published_at": "Sat Oct 10 05:28:14 +0000 2026"
+        }
+      ],
+      "icon": "⏰",
+      "resonance": false,
+      "event": "Papertrade开盘时间",
+      "new_information": "开盘时间具体到约9:15 UTC（预计），预存升至5700万美元",
+      "urgency_reason": "交易预计约9:15 UTC上线，距当前约3小时，计划参与开盘者的准备窗口有限",
+      "attention_source_ids": [
+        "2108797143146287440",
+        "2108791696960213020"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108797143146287440",
+          "passage_id": "t0",
+          "quote": "A network upgrade is expected at 8:15 AM UTC, meaning trading on @papertrade_xyz should go live around 9:15 AM UTC. https://t.co/tBqX0f0lNE"
+        },
+        {
+          "source_id": "2108791696960213020",
+          "passage_id": "q0",
+          "quote": "$57M deposited into papertrade, eagerly looking to be lost in an effort to farm paper"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "据HyperliquidNews观察，Unit此前将100%现货手续费收入用于买入HYPE，但约一个月来已不再如此。",
+      "author": "HyperliquidNews",
+      "id": "2108785093733236836",
+      "sources": [
+        {
+          "id": "2108785093733236836",
+          "author": "HyperliquidNews",
+          "url": "https://x.com/HyperliquidNews/status/2108785093733236836",
+          "published_at": "Sat Oct 10 05:02:00 +0000 2026"
+        }
+      ],
+      "icon": "📉",
+      "resonance": false,
+      "event": "Unit不再全额用现货费收入买HYPE",
+      "new_information": "约一个月来Unit不再把全部现货费收入用于买HYPE",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108785093733236836"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108785093733236836",
+          "passage_id": "t1",
+          "quote": "@unitxyz used to spend 100% of its spot fee revenue on buying hyperliquid:native, but this has no longer been the case for around a month. https://t.co/Oq6fdTxJv0"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Airdrops_one测算：不质押者每年约被稀释2.4%网络份额；Bitwise NRR ETF净质押3.3%、费率0.75%，持有人大致持平。SVRN称每年将少拿约85.5万NEAR奖励仍投赞成。提案仍为草案、投票未开，需在通过筛选前于House of Stake锁仓NEAR才能投票。",
+      "author": "Airdrops_one",
+      "id": "2108717303814627610",
+      "sources": [
+        {
+          "id": "2108717303814627610",
+          "author": "Airdrops_one",
+          "url": "https://x.com/Airdrops_one/status/2108717303814627610",
+          "published_at": "Sat Oct 10 00:32:37 +0000 2026"
+        }
+      ],
+      "icon": "🧮",
+      "resonance": false,
+      "event": "NEAR降通胀下的质押测算",
+      "new_information": "不质押年稀释约2.4%、ETF约持平，SVRN表态赞成，投票需提前锁仓",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108717303814627610"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108717303814627610",
+          "passage_id": "t1",
+          "quote": "You’ll just own about 2.4% less of the network. About 90K new NEAR gets created every day and most of it goes to stakers."
+        },
+        {
+          "source_id": "2108717303814627610",
+          "passage_id": "t4",
+          "quote": "and the @Bitwise’s NRR ETF - has a net staking rate of 3.3% and a 0.75% fee. That leaves about 2.5% a year, which is almost exactly what the network prints."
+        },
+        {
+          "source_id": "2108717303814627610",
+          "passage_id": "t5",
+          "quote": "So the ETF holder ends up about flat. The staking covers the dilution and the fee, and not much else."
+        },
+        {
+          "source_id": "2108717303814627610",
+          "passage_id": "t8",
+          "quote": "Staking doesn’t get you a vote on the cut, though. The proposal is still a draft and voting hasn’t opened. To vote you have to lock NEAR in House of Stake before it clears screening."
+        },
+        {
+          "source_id": "2108717303814627610",
+          "passage_id": "q2",
+          "quote": "SVRN @svrn_ai now puts its own cost at about 855K NEAR a year in lost staking rewards and says it will vote YES."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "cfm_sol拆解BORDR上涨：Bordrless正从新代币标准概念转向陆续上线DEX、发射台、SDK等模块。但官网仅显示21次发行、0个毕业项目，24小时成交约11万美元。作者将关注Hook Studio、Companions的实际使用及外部采用，并提示价值捕获未证实、程序在审计完成前保留升级权限。",
+      "author": "cfm_sol",
+      "id": "2108790852026057051",
+      "sources": [
+        {
+          "id": "2108790852026057051",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2108790852026057051",
+          "published_at": "Sat Oct 10 05:24:53 +0000 2026"
+        }
+      ],
+      "icon": "🧩",
+      "resonance": false,
+      "event": "BORDR上涨基本面拆解",
+      "new_information": "产品模块上线但0毕业项目，给出三项验证变量与风险",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108790852026057051"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t3",
+          "quote": "I believe the key catalyst behind the recent move is that the project is transitioning from simply pitching a new token standard to gradually launching product modules, opening up developer tools, and expanding external trading access. However, we need to distinguish between improving product development and proven ecosystem demand. The former is becoming"
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t14",
+          "quote": "The website currently shows 21 launches and zero graduated projects, with approximately $110K in 24-hour trading volume, $26.8K in pool liquidity, and $1.12K in creator fees."
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t19",
+          "quote": "1. Hook Studio goes fully live. If developers can easily design, deploy, and share custom Hooks, Bordrless could evolve from a collection of in-house products into a broader developer platform."
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t20",
+          "quote": "2. Companions generates real usage. The team has described a mechanism through which creator fees flow into on-chain programs and are allocated according to predefined rules for buybacks, burns, holder distributions, or other purposes. If multiple projects generate meaningful trading activity through this system, that would be much stronger evidence than"
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t22",
+          "quote": "3. External projects adopt the standard consistently. The real inflection point is not another module going live. It is independent developers choosing to issue tokens using the standard and generating sustained trading volume, fees, and user demand."
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t25",
+          "quote": "Second, BORDR’s value capture has not been sufficiently established. Even if the Bordrless DEX, launchpad, and SDK grow, that does not mean all of this growth will translate into buying demand for BORDR. Its specific utility, revenue distribution model, and ability to generate sustained token demand still need to be verified."
+        },
+        {
+          "source_id": "2108790852026057051",
+          "passage_id": "t26",
+          "quote": "Security is another consideration. The website states that the relevant programs retain upgrade authority pending completion of audits. For infrastructure responsible for token rules, fee distribution, and burns, this is a risk that deserves continued monitoring."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Superform Earn Stocks在Base上线，由Aave支持：用Mag 7代币化股票作抵押借入稳定币以赚取利差；BaseInsider周报称其存款已破100万美元。",
+      "author": "BaseInsider_",
+      "id": "2108794047079006371",
+      "sources": [
+        {
+          "id": "2108794047079006371",
+          "author": "BaseInsider_",
+          "url": "https://x.com/BaseInsider_/status/2108794047079006371",
+          "published_at": "Sat Oct 10 05:37:34 +0000 2026"
+        },
+        {
+          "id": "2108794039399289198",
+          "author": "BaseInsider_",
+          "url": "https://x.com/BaseInsider_/status/2108794039399289198",
+          "published_at": "Sat Oct 10 05:37:33 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "Superform Earn Stocks上线Base",
+      "new_information": "股票代币抵押借稳定币赚利差的产品上线，存款破100万美元",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108794047079006371",
+        "2108794039399289198"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108794047079006371",
+          "passage_id": "t3",
+          "quote": "■ @superformxyz Earn Stocks is live on Base, powered by Aave. Mag 7 tokenized stocks are used as collateral to borrow stablecoins and earn a carry spread."
+        },
+        {
+          "source_id": "2108794039399289198",
+          "passage_id": "t15",
+          "quote": "■ @superformxyz Earn Stocks have passed $1,000,000 in deposits."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Arcus已向2.9万余名候补交易者开放永续，此前进过候补的用户无需邀请码即可使用。距第二次积分发放约4天。yueya认为，RWA/股票交易、持仓与真实费用的积分权重高于单纯刷成交量。",
+      "author": "yueya_eth",
+      "id": "2108766278215430596",
+      "sources": [
+        {
+          "id": "2108766278215430596",
+          "author": "yueya_eth",
+          "url": "https://x.com/yueya_eth/status/2108766278215430596",
+          "published_at": "Sat Oct 10 03:47:14 +0000 2026"
+        }
+      ],
+      "icon": "🎟️",
+      "resonance": false,
+      "event": "Arcus永续开放与积分",
+      "new_information": "候补用户免码开永续，第二次积分约4天后发放",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108766278215430596"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108766278215430596",
+          "passage_id": "t1",
+          "quote": "如果你之前已经进过 waitlist，现在不用 Code 也可以直接开 Perps"
+        },
+        {
+          "source_id": "2108766278215430596",
+          "passage_id": "t3",
+          "quote": "距离第二次积分发放还有 4 天"
+        },
+        {
+          "source_id": "2108766278215430596",
+          "passage_id": "t6",
+          "quote": "最近我自己看下来，RWA / 股票交易、持仓和真实 Fees 的权重明显比单纯堆 Volume 更值得关注。"
+        },
+        {
+          "source_id": "2108766278215430596",
+          "passage_id": "q0",
+          "quote": "29,000+ waitlisted traders just got access to Arcus."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "LongX推出主动管理篮子，把多空杠杆仓位封装成可一键交易的现货ERC20。首个AI Nexus篮子做多NVDA、OPENAI等AI龙头，并做空QQQ对冲；下周拟让持有人参与决定篮子成分。",
+      "author": "longdotxyz",
+      "id": "2108737303791141262",
+      "sources": [
+        {
+          "id": "2108737303791141262",
+          "author": "longdotxyz",
+          "url": "https://x.com/longdotxyz/status/2108737303791141262",
+          "published_at": "Sat Oct 10 01:52:06 +0000 2026"
+        }
+      ],
+      "icon": "🧺",
+      "resonance": false,
+      "event": "LongX AI Nexus篮子",
+      "new_information": "做多AI龙头、做空QQQ的代币化篮子上线",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108737303791141262"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108737303791141262",
+          "passage_id": "t1",
+          "quote": "A new way for communities to own the economics and manage any combination of leveraged long and short positions, wrapped into a spot ERC20 token you can trade in 1 click."
+        },
+        {
+          "source_id": "2108737303791141262",
+          "passage_id": "t4",
+          "quote": "Long AI leaders (NVDA, AI, OPENAI and more)."
+        },
+        {
+          "source_id": "2108737303791141262",
+          "passage_id": "t5",
+          "quote": "Hedged with a short on QQQ (the general tech sector)."
+        },
+        {
+          "source_id": "2108737303791141262",
+          "passage_id": "t7",
+          "quote": "We are looking to roll out a community management next week where AI holders can decide on the basket composition and more."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "EMBER团队称，发射台近30天成交超4亿美元，向社区分配超100万美元，曾连续两日市占约12%；业务已扩展至Solana、Robinhood Chain等5个环境，并经社区投票引入销毁。cfm_sol提示，成交量不等于收入，销毁也不必然推升价格。",
+      "author": "cfm_sol",
+      "id": "2108771921886429197",
+      "sources": [
+        {
+          "id": "2108771921886429197",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2108771921886429197",
+          "published_at": "Sat Oct 10 04:09:39 +0000 2026"
+        }
+      ],
+      "icon": "🔥",
+      "resonance": false,
+      "event": "EMBER发射台数据",
+      "new_information": "30天成交超4亿、市占约12%，扩至5个链上环境",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108771921886429197"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108771921886429197",
+          "passage_id": "t2",
+          "quote": "According to the team, the platform generated over $400M in trading volume over the past 30 days and distributed more than $1M to the community. It also captured approximately 12% market share for two consecutive days and ranked as the fifth-largest launchpad over the reporting period."
+        },
+        {
+          "source_id": "2108771921886429197",
+          "passage_id": "t3",
+          "quote": "EMBER has now expanded into five on-chain product environments, spanning Solana, Robinhood Chain, Halcyon, and Orca Whirlpools, aiming to grow its business through different launch mechanisms and liquidity products across ecosystems."
+        },
+        {
+          "source_id": "2108771921886429197",
+          "passage_id": "t4",
+          "quote": "On the tokenomics side, EMBER initially prioritized reward distribution, returning value to the community before introducing a burn mechanism following a community vote. The team emphasizes that revenue, community distributions, buybacks, and burns are publicly trackable, and plans to move into its next phase in Q4."
+        },
+        {
+          "source_id": "2108771921886429197",
+          "passage_id": "t5",
+          "quote": "The real opportunity for EMBER lies in whether it can sustainably grow trading volume and fee revenue, while generating actual token demand through mechanisms such as buybacks and burns. Cross-chain expansion and community governance strengthen the long-term narrative, but trading volume is not the same as revenue, and token burns do not automatically"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CryptoBilis易主细节：公司记录显示，登记地址在黑龙江的Jiaming自8月3日起持股100%；前联合创始人证实公司3月已被收购、原股东退出运营。尚无官方将新东家与被盗事件关联。",
+      "author": "ChainCatcher_",
+      "id": "2108735869888983417",
+      "sources": [
+        {
+          "id": "2108735869888983417",
+          "author": "ChainCatcher_",
+          "url": "https://x.com/ChainCatcher_/status/2108735869888983417",
+          "published_at": "Sat Oct 10 01:46:24 +0000 2026"
+        },
+        {
+          "id": "2108763275223871868",
+          "author": "TechFlowPost",
+          "url": "https://x.com/TechFlowPost/status/2108763275223871868",
+          "published_at": "Sat Oct 10 03:35:18 +0000 2026"
+        },
+        {
+          "id": "2108766368296493424",
+          "author": "_FORAB",
+          "url": "https://x.com/_FORAB/status/2108766368296493424",
+          "published_at": "Sat Oct 10 03:47:35 +0000 2026"
+        }
+      ],
+      "icon": "🕵️",
+      "resonance": true,
+      "event": "CryptoBilis易主追踪",
+      "new_information": "登记地址在黑龙江的Jiaming自8/3持股100%；3月易主由“据称”变为前联合创始人证实",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108735869888983417",
+        "2108763275223871868",
+        "2108766368296493424"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108735869888983417",
+          "passage_id": "t1",
+          "quote": "马来西亚硬件钱包经销商 CryptoBilis 在 Ledger 设备疑似遭遇供应链攻击的调查期间被曝所有权已变更。新披露的公司记录显示，一名登记地址位于中国黑龙江省、名为 Jiaming 的人士自 8 月 3 日起持有该公司 100% 股份。"
+        },
+        {
+          "source_id": "2108735869888983417",
+          "passage_id": "t2",
+          "quote": "CryptoBilis 前联合创始人证实，公司已于今年 3 月被收购，原股东随后退出所有运营、管理及行政职务。创始团队在交接后已无法了解公司实际运营，仅继续协助部分活动协调，并表示已不再是公司的一部分，敦促现任管理层透明处理此事。"
+        },
+        {
+          "source_id": "2108763275223871868",
+          "passage_id": "q3",
+          "quote": "by august the company registry shows one owner with 100%. some guy from heilongjiang, china"
+        },
+        {
+          "source_id": "2108763275223871868",
+          "passage_id": "q12",
+          "quote": "to be fair, nobody has officially tied the new owner to the bugged devices yet, and ledger hasn’t confirmed how it happened. but read it as a business plan:"
+        },
+        {
+          "source_id": "2108766368296493424",
+          "passage_id": "t0",
+          "quote": "这个瓜越来越大了。被指控，在向用户售卖植入间谍芯片的比特币硬件钱包经销商 CryptoBillis，被曝上半年，将该公司转让给了一位中国老哥，资料显示他名字叫 JIA MING，定位在黑龙江五常市。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "XRP Ledger披露支付引擎整数溢出漏洞，或自2015年就存在：数百个特制挂单加一笔支付可凭空增发可花费的XRP并绕过“不增发”检查。修复版xrpld 3.4.1已于9月25日发布，官方称未见被利用迹象。",
+      "author": "PANewsCN",
+      "id": "2108779101788234141",
+      "sources": [
+        {
+          "id": "2108779101788234141",
+          "author": "PANewsCN",
+          "url": "https://x.com/PANewsCN/status/2108779101788234141",
+          "published_at": "Sat Oct 10 04:38:11 +0000 2026"
+        },
+        {
+          "id": "2108776679254675593",
+          "author": "martypartymusic",
+          "url": "https://x.com/martypartymusic/status/2108776679254675593",
+          "published_at": "Sat Oct 10 04:28:34 +0000 2026"
+        },
+        {
+          "id": "2108793816371327287",
+          "author": "coinbureau",
+          "url": "https://x.com/coinbureau/status/2108793816371327287",
+          "published_at": "Sat Oct 10 05:36:39 +0000 2026"
+        }
+      ],
+      "icon": "🐛",
+      "resonance": true,
+      "event": "XRPL增发漏洞披露",
+      "new_information": "溢出漏洞可凭空增发XRP，3.4.1已发布修复，官方称未见利用",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108779101788234141",
+        "2108776679254675593",
+        "2108793816371327287"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108779101788234141",
+          "passage_id": "t1",
+          "quote": "据XRP Ledger官方披露，xrpld 3.4.1版本修复了一个支付引擎整数溢出漏洞。攻击者可通过数百个特制挂单加一笔支付凭空增发XRP并正常花费，还能绕过\"不增发XRP\"的安全检查，增发量可远超XRP总供应量。该漏洞或自2015年起就已存在。"
+        },
+        {
+          "source_id": "2108779101788234141",
+          "passage_id": "t2",
+          "quote": "研究人员于9月22日通过漏洞赏金计划提交该漏洞，3.4.1版本于9月25日发布，目前未发现被利用迹象。"
+        },
+        {
+          "source_id": "2108776679254675593",
+          "passage_id": "t10",
+          "quote": "The fix shipped in the emergency xrpld 3.4.1 release on September 25, 2026. The payment engine now checks for overflow when summing offer amounts; if it would overflow, that part of the payment fails cleanly (path dry / partial payment). The invariant checker was also upgraded to a wider counter, and related summing paths were hardened."
+        },
+        {
+          "source_id": "2108776679254675593",
+          "passage_id": "t12",
+          "quote": "No evidence of exploitation on any public network."
+        },
+        {
+          "source_id": "2108793816371327287",
+          "passage_id": "t3",
+          "quote": "RippleX says there is NO EVIDENCE the vulnerability was exploited on public networks."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "《华尔街日报》获得币安一份内部调查报告：与受制裁伊朗金融家Babak Zanjani相关的网络经21个币安账户交易约8.5亿美元，其中至少6700万美元流向与伊斯兰革命卫队关联的钱包。币安称已清退相关账户。",
+      "author": "wublockchain12",
+      "id": "2108756954814505162",
+      "sources": [
+        {
+          "id": "2108756954814505162",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2108756954814505162",
+          "published_at": "Sat Oct 10 03:10:11 +0000 2026"
+        }
+      ],
+      "icon": "📰",
+      "resonance": false,
+      "event": "币安伊朗相关账户报告",
+      "new_information": "WSJ称21个账户交易8.5亿，至少6700万流向IRGC关联钱包",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108756954814505162"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108756954814505162",
+          "passage_id": "t0",
+          "quote": "据《华尔街日报》报道，其获得的一份币安内部调查报告显示，与受美国制裁的伊朗金融家 Babak Zanjani 有关的网络通过币安 21 个个人及企业账户进行交易，累计交易规模约 8.5 亿美元。其中，至少 6,700 万美元从两个账户转入被认定与伊朗伊斯兰革命卫队有关联的加密钱包。"
+        },
+        {
+          "source_id": "2108756954814505162",
+          "passage_id": "t1",
+          "quote": "该报告由币安于今年 4 月应阿联酋金融情报机构要求编制，部分账户曾多次从德黑兰登录。内部记录还显示，终止部分高价值客户账户需要高级管理层批准。币安回应称，已封禁并清退所有涉及制裁违规的关联账户，并强调不能将账户总交易量等同于流向革命卫队的资金。https://t.co/PE9yoQn6lK"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "zkMoira反驳“AERO相对UNI低估”：应比较盈利而非持有者收入，AERO留存swap费但有通胀成本，UNI几乎全部分给LP；按其统计9月UNI盈利为AERO的4.3倍，故认为AERO反而高估。",
+      "author": "zkMoira",
+      "id": "2108778337006924120",
+      "sources": [
+        {
+          "id": "2108778337006924120",
+          "author": "zkMoira",
+          "url": "https://x.com/zkMoira/status/2108778337006924120",
+          "published_at": "Sat Oct 10 04:35:09 +0000 2026"
+        }
+      ],
+      "icon": "⚖️",
+      "resonance": false,
+      "event": "UNI与AERO估值反方",
+      "new_information": "按盈利算9月UNI为AERO的4.3倍，作者认为AERO高估",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108778337006924120"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108778337006924120",
+          "passage_id": "t0",
+          "quote": "compare earnings not holders revenue. aero business model keeps all the swap fees rather than distribute to lps. uniswap distributes virtually all swap fees to lps. aero holder revenue is inflated because they have very real costs in the form of inflation."
+        },
+        {
+          "source_id": "2108778337006924120",
+          "passage_id": "t1",
+          "quote": "UNI did 4.3x the earnings of aero in september."
+        },
+        {
+          "source_id": "2108778337006924120",
+          "passage_id": "t2",
+          "quote": "Aero isnt actually undervalued relative compared to UNI, I'd argue its overvalued and assign a premium to uniswap's market dominance, good will, and overall business model"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Derive V3弃用自建的OP Stack L2，资金托管与ZK结算验证移至以太坊L1，撮合仍在链下。lanhubiji认为此举利好以太坊结算层地位，但短期对ETH需求拉动有限。",
+      "author": "lanhubiji",
+      "id": "2108782195645030836",
+      "sources": [
+        {
+          "id": "2108782195645030836",
+          "author": "lanhubiji",
+          "url": "https://x.com/lanhubiji/status/2108782195645030836",
+          "published_at": "Sat Oct 10 04:50:29 +0000 2026"
+        }
+      ],
+      "icon": "🔀",
+      "resonance": false,
+      "event": "Derive V3弃L2回归L1",
+      "new_information": "托管与ZK验证移至L1；作者判断短期对ETH需求拉动有限",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108782195645030836"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108782195645030836",
+          "passage_id": "t0",
+          "quote": "又一家L2链转向了，Derive 是搞链上期权的，这次 V3 自废 Derive 链（基于 OP Stack 构建的 L2）。"
+        },
+        {
+          "source_id": "2108782195645030836",
+          "passage_id": "t2",
+          "quote": "链下做执行，采用中心化排序器 + 链下撮合。保证金/定价/结算逻辑在 zkVM 里执行，每批生成零知识证明，通过以太坊 L1 来验证。"
+        },
+        {
+          "source_id": "2108782195645030836",
+          "passage_id": "t16",
+          "quote": "Derive 这次动作把资产托管和验证放在 L1 上，利好以太坊作为结算层的地位，但对 ETH 需求短期增加不会有大的影响。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Castle Labs报告称，Hyperliquid已花超12.6亿美元在公开市场回购HYPE，链上永续OI份额超56%；Phantom经Builder Codes累计赚超2500万美元。",
+      "author": "WuBlockchain",
+      "id": "2108769985510126027",
+      "sources": [
+        {
+          "id": "2108769985510126027",
+          "author": "WuBlockchain",
+          "url": "https://x.com/WuBlockchain/status/2108769985510126027",
+          "published_at": "Sat Oct 10 04:01:58 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "Hyperliquid回购与Builder Codes",
+      "new_information": "公开市场回购超12.6亿美元，Phantom经Builder Codes赚超2500万",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108769985510126027"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108769985510126027",
+          "passage_id": "t1",
+          "quote": "According to an onchain perpetuals market research report by Castle Labs, Hyperliquid's cumulative protocol revenue has exceeded $1.4 billion, with more than $1.26 billion spent on open-market HYPE buybacks. It holds over 56% of the onchain perpetuals market by open interest."
+        },
+        {
+          "source_id": "2108769985510126027",
+          "passage_id": "t2",
+          "quote": "The report notes that Hyperliquid's Builder Codes mechanism gives third-party wallets and apps access to its trading infrastructure, allowing them to integrate perpetuals trading and earn revenue without building their own systems. Phantom has earned more than $25 million in cumulative revenue through the mechanism, while MetaMask has earned over $10.5"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据BlockSec监测，某地址约355万美元未领取的跨链桥资金被领取转出。提交领取的地址由Tornado Cash注资，并通过原地址的EIP-7702委托执行。授权本身有效，但尚无法确定是持有人主动签署、受骗签署还是私钥泄露。",
+      "author": "wublockchain12",
+      "id": "2108771040893817079",
+      "sources": [
+        {
+          "id": "2108771040893817079",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2108771040893817079",
+          "published_at": "Sat Oct 10 04:06:09 +0000 2026"
+        }
+      ],
+      "icon": "🔓",
+      "resonance": false,
+      "event": "未领桥资金经7702被转走",
+      "new_information": "355万美元经EIP-7702委托领取，成因未定",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108771040893817079"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108771040893817079",
+          "passage_id": "t0",
+          "quote": "据 BlockSec Phalcon 监测，约 6 小时前，某地址约 355 万美元未领取的跨链桥资金被领取并转出。数日前，链上研究员 stuckfunds.eth 曾多次向该地址发送消息，提醒其仍有资金可领取。此次领取由一个通过 Tornado Cash 获得资金的地址提交，并通过原地址的 EIP-7702 委托执行。BlockSec 表示，链上数据可确认相关授权有效，但尚无法确定是持有人主动签署、受骗签署，还是私钥泄露所致。https://t.co/lpVGHpRsOy"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "State of AI Report 2026（10月8日发布）称，Anthropic内部“AI主导”的研发任务占比从2月不到1%升至8月的26%，超90%工作有AI深度参与，但尚无完全自主。",
+      "author": "dotey",
+      "id": "2108572683453501884",
+      "sources": [
+        {
+          "id": "2108572683453501884",
+          "author": "dotey",
+          "url": "https://x.com/dotey/status/2108572683453501884",
+          "published_at": "Fri Oct 09 14:57:57 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": false,
+      "event": "State of AI Report 2026",
+      "new_information": "Anthropic内部AI主导研发占比从不到1%升至26%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108572683453501884"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108572683453501884",
+          "passage_id": "t1",
+          "quote": "一年一度的《State of AI Report》10 月 8 日发布了 2026 年版。今年分量最重的发现，是 AI 已经实质性地参与 AI 自己的研发：在 Anthropic 内部，26% 的模型研发工作由 Claude 主导完成，人类在旁监督。同一份报告里还记录了好几起智能体在测试中攻入真实系统的事故，能力跑在了防护前面。"
+        },
+        {
+          "source_id": "2108572683453501884",
+          "passage_id": "t12",
+          "quote": "实验室内部的数据更直接。Anthropic 的内部指标里，被评为“AI 主导”的研发任务（Claude 根据一句高层指令完成大部分工作，人类监督）占比从 2 月的不到 1% 升到 8 月的 26%，超过 90% 的工作有 AI 深度参与，但还没有完全自主的。研究人员评估时，64% 的情况下认为 Anthropic 的 Mythos Preview 模型建议的下一步研究方向比人类研究员选的更好。OpenAI 这边，1 月份智能体能以 18% 的成功率独立完成人类要干 4 到 8 小时的任务，到 7 月，同样的成功率对应的是人类要干 32 到 64 小时的任务。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "高盛将PLTR上调至买入、巴克莱给出265美元目标价，PLTR周五涨5.17%、市值破5000亿美元。sleepy0x13认为AWS、OpenAI等自建驻场工程师团队印证了Palantir模式，但高估值下其仍需证明能守住优势。",
+      "author": "sleepy0x13",
+      "id": "2108758474696065406",
+      "sources": [
+        {
+          "id": "2108758474696065406",
+          "author": "sleepy0x13",
+          "url": "https://x.com/sleepy0x13/status/2108758474696065406",
+          "published_at": "Sat Oct 10 03:16:13 +0000 2026"
+        }
+      ],
+      "icon": "🏛️",
+      "resonance": false,
+      "event": "PLTR获上调评级",
+      "new_information": "高盛上调至买入、市值破5000亿；作者认为AI厂商效仿驻场模式",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108758474696065406"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108758474696065406",
+          "passage_id": "t2",
+          "quote": "华尔街显然也开始重新理解这家公司了。高盛刚刚将其评级上调至买入，巴克莱又给出 265 美元的目标价。PLTR 周五大涨 5.17%，市值突破 5000 亿美元，股价较过去一年的低点接近翻倍。"
+        },
+        {
+          "source_id": "2108758474696065406",
+          "passage_id": "t8",
+          "quote": "AWS 今年拿出 10 亿美元建立驻场工程师团队，OpenAI 也在大规模建设 FDE 组织，Anthropic 最近还宣布投入 1 亿美元培训企业 AI 部署工程师。"
+        },
+        {
+          "source_id": "2108758474696065406",
+          "passage_id": "t12",
+          "quote": "当然，5000 亿美元的市值也意味着市场提前支付了极其昂贵的预期。尤其是当 OpenAI、Anthropic 和云厂商都开始亲自下场，Palantir 迟早要证明自己能够守住这层优势。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Kalshi正在调查一批可疑交易：这些交易在Katie Zacharia被视为热门人选之前，就押中了她出任白宫新闻秘书。目前特朗普已正式宣布这一任命。",
+      "author": "Cointelegraph",
+      "id": "2108754603726516700",
+      "sources": [
+        {
+          "id": "2108754603726516700",
+          "author": "Cointelegraph",
+          "url": "https://x.com/Cointelegraph/status/2108754603726516700",
+          "published_at": "Sat Oct 10 03:00:50 +0000 2026"
+        },
+        {
+          "id": "2108712224298811580",
+          "author": "JDVance",
+          "url": "https://x.com/JDVance/status/2108712224298811580",
+          "published_at": "Sat Oct 10 00:12:26 +0000 2026"
+        }
+      ],
+      "icon": "🎯",
+      "resonance": false,
+      "event": "Kalshi调查新闻秘书押注",
+      "new_information": "押中Zacharia任新闻秘书的交易被调查",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108754603726516700"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108754603726516700",
+          "passage_id": "t0",
+          "quote": "🇺🇸🚨 JUST IN: Kalshi is investigating suspicious trades that correctly called Katie Zacharia as Trump's new White House press secretary before anyone saw her as a front-runner. https://t.co/grtsIAFdDq"
+        },
+        {
+          "source_id": "2108712224298811580",
+          "passage_id": "q0",
+          "quote": "\"It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia... I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary, as she has the respect of, and will work fantastically with, the Media, the American People, and my Administration.\" - President Donald J. Trump 🇺🇸"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Ackman称，先锋等巨头持有约四分之一美企、流通盘缩小，边际买卖方变为高杠杆、偏短期的Citadel、Millennium，致大盘股单日跌25%不再罕见。GoshawkTrades认为两者都扛不过坏季度，这正是机会。",
+      "author": "GoshawkTrades",
+      "id": "2108639635169550679",
+      "sources": [
+        {
+          "id": "2108639635169550679",
+          "author": "GoshawkTrades",
+          "url": "https://x.com/GoshawkTrades/status/2108639635169550679",
+          "published_at": "Fri Oct 09 19:24:00 +0000 2026"
+        }
+      ],
+      "icon": "🏗️",
+      "resonance": false,
+      "event": "Ackman论被动与多策略基金",
+      "new_information": "被动持盘加短期多策略定价被用来解释大盘股单日暴跌",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108639635169550679"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108639635169550679",
+          "passage_id": "t1",
+          "quote": "\"a quarter of every american business, plus or minus, is owned by some combination of vanguard, state street and northern trust. when you shrink the float of a public company, the marginal buyer and seller is going to have more impact on the stock price.\""
+        },
+        {
+          "source_id": "2108639635169550679",
+          "passage_id": "t2",
+          "quote": "\"the marginal buyer and seller today is a citadel or a millennium. they operate with a large amount of leverage, very large gross books, and they're increasingly short-term.\""
+        },
+        {
+          "source_id": "2108639635169550679",
+          "passage_id": "t4",
+          "quote": "passive owns the float, pods set the price, and both are structurally unable to hold through a bad quarter. that inability is the opportunity."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "孙宇晨称，TRON后量子密码学已在测试网上线，可随时将抗量子能力部署至主网，并称TRON将是Q-Day前少数实现抗量子的主要公链之一。",
+      "author": "justinsuntron",
+      "id": "2108795299783168505",
+      "sources": [
+        {
+          "id": "2108795299783168505",
+          "author": "justinsuntron",
+          "url": "https://x.com/justinsuntron/status/2108795299783168505",
+          "published_at": "Sat Oct 10 05:42:33 +0000 2026"
+        }
+      ],
+      "icon": "🛡️",
+      "resonance": false,
+      "event": "TRON后量子测试网",
+      "new_information": "PQC测试网上线，称可随时上主网",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108795299783168505"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108795299783168505",
+          "passage_id": "t0",
+          "quote": "TRON's post-quantum cryptography is now live on testnet. We're closely tracking progress in quantum computing and AI, and we're ready to bring quantum resistance to mainnet at any time."
+        },
+        {
+          "source_id": "2108795299783168505",
+          "passage_id": "t1",
+          "quote": "We're committed to keeping user assets secure, and TRON is set to be one of the few major blockchains that is quantum-resistant before Q-Day. $TRX"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "BaseInsider周报称，USDC将作为首个获支持的稳定币登陆Samsung Wallet，由Coinbase提供支持，即将在美国推出。",
+      "author": "BaseInsider_",
+      "id": "2108794039399289198",
+      "sources": [
+        {
+          "id": "2108794039399289198",
+          "author": "BaseInsider_",
+          "url": "https://x.com/BaseInsider_/status/2108794039399289198",
+          "published_at": "Sat Oct 10 05:37:33 +0000 2026"
+        }
+      ],
+      "icon": "📱",
+      "resonance": false,
+      "event": "USDC登陆Samsung Wallet",
+      "new_information": "USDC成Samsung Wallet首个稳定币，即将在美上线",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108794039399289198"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108794039399289198",
+          "passage_id": "t8",
+          "quote": "■ @coinbase USDC is coming to Samsung Wallet as the first supported stablecoin, powered by Coinbase. Available soon in the US."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "开源项目REA以MCP服务形式，把反汇编等逆向工具接入Claude Code、Codex等智能体，可分析原生程序、APK、以太坊合约字节码等。README显示其GitHub已有5万星。项目声明从未发行任何代币，借用其名的代币均与其无关。",
+      "author": "dotey",
+      "id": "2108794629172682783",
+      "sources": [
+        {
+          "id": "2108794629172682783",
+          "author": "dotey",
+          "url": "https://x.com/dotey/status/2108794629172682783",
+          "published_at": "Sat Oct 10 05:39:53 +0000 2026"
+        }
+      ],
+      "icon": "🔧",
+      "resonance": false,
+      "event": "REA智能体逆向工具",
+      "new_information": "MCP接入智能体做逆向，声明无官方代币",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108794629172682783"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108794629172682783",
+          "passage_id": "t2",
+          "quote": "REA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。"
+        },
+        {
+          "source_id": "2108794629172682783",
+          "passage_id": "t3",
+          "quote": "能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。"
+        },
+        {
+          "source_id": "2108794629172682783",
+          "passage_id": "t7",
+          "quote": "README 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。"
+        },
+        {
+          "source_id": "2108794629172682783",
+          "passage_id": "t8",
+          "quote": "使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "papertrade官方称预计10/10 14:00 UTC开盘，13:45 UTC暂停充币、参与须预存；DefiLlama口径约8530万美元、有人称已96M，并提示开盘拥堵、长时间等待。",
+      "author": "papertrade_xyz",
+      "id": "2108852108766437759",
+      "sources": [
+        {
+          "id": "2108852108766437759",
+          "author": "papertrade_xyz",
+          "url": "https://x.com/papertrade_xyz/status/2108852108766437759",
+          "published_at": "Sat Oct 10 09:28:17 +0000 2026"
+        },
+        {
+          "id": "2108851220177973658",
+          "author": "HyperliquidNews",
+          "url": "https://x.com/HyperliquidNews/status/2108851220177973658",
+          "published_at": "Sat Oct 10 09:24:46 +0000 2026"
+        },
+        {
+          "id": "2108853371000230073",
+          "author": "GXingPing",
+          "url": "https://x.com/GXingPing/status/2108853371000230073",
+          "published_at": "Sat Oct 10 09:33:18 +0000 2026"
+        },
+        {
+          "id": "2108857571750842431",
+          "author": "DefiantNews",
+          "url": "https://x.com/DefiantNews/status/2108857571750842431",
+          "published_at": "Sat Oct 10 09:50:00 +0000 2026"
+        }
+      ],
+      "icon": "🚀",
+      "resonance": true,
+      "event": "Papertrade确认14:00 UTC开盘",
+      "new_information": "官方给出14:00 UTC开盘、13:45暂停充币，预存约8530万至96M（口径不一）",
+      "urgency_reason": "13:45 UTC暂停充币，参与开盘必须已预存，距当前不足4小时",
+      "attention_source_ids": [
+        "2108852108766437759",
+        "2108851220177973658",
+        "2108853371000230073",
+        "2108857571750842431"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108852108766437759",
+          "passage_id": "t1",
+          "quote": "papertrade is expected to launch at 14:00 UTC on 10.10.2026, following the scheduled hyperevm network upgrade."
+        },
+        {
+          "source_id": "2108852108766437759",
+          "passage_id": "t3",
+          "quote": "deposits will pause for a short period of time at 13:45 UTC, fifteen minutes before, to ensure that trading has the utmost priority during launch. if you wish to participate in the launch you must predeposit."
+        },
+        {
+          "source_id": "2108852108766437759",
+          "passage_id": "t5",
+          "quote": "papertrade will be congested at the start due to launch demand. expect temporarily long confirmation wait times, especially for smaller notional trades."
+        },
+        {
+          "source_id": "2108851220177973658",
+          "passage_id": "t0",
+          "quote": "🚨 @PAPERTRADE_XYZ WILL GO LIVE AT 14:00 UTC. DEPOSITS WILL CLOSE AT 13:45 UTC. https://t.co/5MwhUsjDNO"
+        },
+        {
+          "source_id": "2108853371000230073",
+          "passage_id": "t1",
+          "quote": "北京时间 ：今晚 22点"
+        },
+        {
+          "source_id": "2108853371000230073",
+          "passage_id": "t2",
+          "quote": "目前存入金额96M，估计会突破1亿+，我担心会有vc混入其中，直接硬亏2M，拿走1:100的代币。"
+        },
+        {
+          "source_id": "2108857571750842431",
+          "passage_id": "t1",
+          "quote": "About $85.3M is deposited, per @DefiLlama. The HyperEVM venue’s house pool starts at zero, so winners may wait for other traders’ losses to fund payouts."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "作者给出Papertrade双号对刷：价差超100bps平仓，盈方等分配、亏方换PAPER；按BTC首发参数成本约0.0014-0.0016美元/枚，低于全额亏损约0.0102，并称PAPER最劣后、靠铸币成本与情绪支撑。",
+      "author": "MengLayer",
+      "id": "2108825146404516159",
+      "sources": [
+        {
+          "id": "2108825146404516159",
+          "author": "MengLayer",
+          "url": "https://x.com/MengLayer/status/2108825146404516159",
+          "published_at": "Sat Oct 10 07:41:09 +0000 2026"
+        }
+      ],
+      "icon": "🎯",
+      "resonance": false,
+      "event": "Papertrade双号对刷成本测算",
+      "new_information": "作者测算对刷铸币成本约0.0014-0.0016美元/枚，并称PAPER为最劣后权益",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108825146404516159"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t1",
+          "quote": "策略很简单：俩号对刷，价差大于100bps 就平仓，盈利的等分配，亏损的拿 $Paper"
+        },
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t5",
+          "quote": "1️⃣全额亏损换币：协议约每 $1 合格亏损铸造约 98 枚（100 枚减去 2% 费用），成本约 $0.0102/枚。"
+        },
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t6",
+          "quote": "2️⃣俩号对刷按 BTC 首发参数，价格波动 50–100 bp 后平仓，成本约 $0.0014–0.0016/枚"
+        },
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t9",
+          "quote": "1️⃣手续费分成：盈利费和 LP 侧亏损费各 2%，质押者拿一半，以 USDC 支付"
+        },
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t10",
+          "quote": "2️⃣LP 超过 $5M 后的全部溢出：这才是大头，本质是交易者长期净亏给庄家的钱"
+        },
+        {
+          "source_id": "2108825146404516159",
+          "passage_id": "t11",
+          "quote": "看明白了吗？ $PAPER  是整个协议最劣后股权，币价主要靠刷币成本和市场情绪支撑"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Ethena与币安把基差交易扩至股票永续：bStocks作代币化现货抵押、以USDT计价股票永续对冲，Ethena称抵押可及市场由2.5万亿加密扩至150万亿+美元RWA；近6个月币安股票基差年化约11%+。",
+      "author": "0xBeyondLee",
+      "id": "2108843076492067208",
+      "sources": [
+        {
+          "id": "2108843076492067208",
+          "author": "0xBeyondLee",
+          "url": "https://x.com/0xBeyondLee/status/2108843076492067208",
+          "published_at": "Sat Oct 10 08:52:24 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "Ethena联币安扩股票永续基差",
+      "new_information": "bStocks作现货抵押配USDT股票永续对冲，Ethena称可及市场扩至150万亿+美元RWA",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108843076492067208"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108843076492067208",
+          "passage_id": "q0",
+          "quote": "Ethena is partnering with @Binance as our first venue for the extension of the basis trade into equity perpetuals, one of the most exciting updates to the USDe collateral backing since launch."
+        },
+        {
+          "source_id": "2108843076492067208",
+          "passage_id": "q1",
+          "quote": "This expands the addressable market of underlying collateral from $2.5 trillion of crypto to $150 trillion+ of real-world assets."
+        },
+        {
+          "source_id": "2108843076492067208",
+          "passage_id": "q2",
+          "quote": "As part of the partnership, bStocks will serve as tokenized spot collateral, hedged with Binance USDT-denominated equity perpetuals - the same delta-neutral structure Ethena has securely executed across crypto assets since inception."
+        },
+        {
+          "source_id": "2108843076492067208",
+          "passage_id": "q4",
+          "quote": "Binance equity basis has averaged ~11%+ annualized over the past 6 months, while open interest has grown on average ~30% per month in the last 3 month period."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "NEAR视频确认空投「至少还有一次」，预告NEAR@6.66再发666,666枚；9月首轮333,333枚给Confidential Intents用户，须超100美元机密余额且至少一笔机密交换，快照时存款7000万美元、现已超1.66亿，第二轮规则未公布。",
+      "author": "Airdrops_one",
+      "id": "2108638343709720941",
+      "sources": [
+        {
+          "id": "2108638343709720941",
+          "author": "Airdrops_one",
+          "url": "https://x.com/Airdrops_one/status/2108638343709720941",
+          "published_at": "Fri Oct 09 19:18:52 +0000 2026"
+        }
+      ],
+      "icon": "🪂",
+      "resonance": false,
+      "event": "NEAR预告第二轮空投",
+      "new_information": "官方确认至少还有一次空投并预告666,666枚，第二轮规则未公布",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108638343709720941"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t0",
+          "quote": "NEAR airdropped 333,333 ethereum:0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4  last month to people using its product."
+        },
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t1",
+          "quote": "Another 666,666 ethereum:0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4 Airdrop is teased. 👀"
+        },
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t2",
+          "quote": "It's called NEAR@6.66. @NEARProtocol teased it on Sep 26, and @ilblackdragon just confirmed on video there’s \"at least one more.\""
+        },
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t3",
+          "quote": "First drop went to people using Confidential Intents on https://t.co/Te0a7fDwNM. You needed more than $100 in a confidential balance and at least one confidential swap. Balances, time held and activity influenced allocations."
+        },
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t6",
+          "quote": "Confidential deposits were $70M at the first snapshot. They’re above $166M now."
+        },
+        {
+          "source_id": "2108638343709720941",
+          "passage_id": "t7",
+          "quote": "Walkthrough coming next: how to use Confidential Intents on https://t.co/Te0a7fDwNM and what counted last time. No rules yet for round two."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "作者按近一月年化计DRV费用倍数约65倍，并称V3后已投票将回购由35%提至50%；若费用再增5倍则前瞻约9倍。作者给10倍费用后约16亿美元（约1.5美元/枚）及一年内5-10美元情景。",
+      "author": "tulipking",
+      "id": "2108614763215212788",
+      "sources": [
+        {
+          "id": "2108614763215212788",
+          "author": "tulipking",
+          "url": "https://x.com/tulipking/status/2108614763215212788",
+          "published_at": "Fri Oct 09 17:45:10 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "Derive回购提至50%与估值",
+      "new_information": "回购经投票由35%升至50%，作者按近一月年化计约65倍费用",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108614763215212788"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108614763215212788",
+          "passage_id": "t0",
+          "quote": "Derive ethereum:0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be  is trading at ~65x fees post citrini if you annualize this last month. In theory that's expensive but not when you look at growth:"
+        },
+        {
+          "source_id": "2108614763215212788",
+          "passage_id": "t3",
+          "quote": "Looking forward, Derive just launched their V3 in the first week of this month and passed a vote to raise buybacks from 35% to 50%. When you're evaluating the fair value of the protocol, it should be based on what you expect the future earnings potential of the protocol to be"
+        },
+        {
+          "source_id": "2108614763215212788",
+          "passage_id": "t4",
+          "quote": "All else held equal, if Derive can 5x fees again, then you're really looking at a forward ratio of just 9x. That seems incredibly reasonable to me. But that's not what I'm pricing in. I fully believe right now is the moment for options. The growth could be spectacular:"
+        },
+        {
+          "source_id": "2108614763215212788",
+          "passage_id": "t8",
+          "quote": "In that scenario what should Derive trade at? Say you want a 20x multiple on the leading options dex that just did a 10x of fees, Derive would be trading at ~$1.6B (about $1.50 per coin). Scenario's where Derive can more than 10x fees or command an even higher premium on the back of a rising options super cycle get you to prices in the $5-$10 range [within a"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Maple 9月收入157万美元，超过150万门槛使MIP-021回购由10%档升至20%，当月回购31.4万美元、较上月14.7万近翻倍；引用按年化收入计SYRUP市销率约14倍、称低于同类借贷协议。",
+      "author": "noveleader",
+      "id": "2108831720795410707",
+      "sources": [
+        {
+          "id": "2108831720795410707",
+          "author": "noveleader",
+          "url": "https://x.com/noveleader/status/2108831720795410707",
+          "published_at": "Sat Oct 10 08:07:17 +0000 2026"
+        }
+      ],
+      "icon": "💰",
+      "resonance": false,
+      "event": "Maple回购随收入升档",
+      "new_information": "9月收入157万美元触发20%档，回购31.4万近翻倍",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108831720795410707"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108831720795410707",
+          "passage_id": "t1",
+          "quote": "September revenue exceeded $1.5m, so buybacks scaled to 20%, totalling $314k, up from $147k last month."
+        },
+        {
+          "source_id": "2108831720795410707",
+          "passage_id": "q0",
+          "quote": "Maple Finance closed September with $1.57m in revenue, 20% of which went to buybacks."
+        },
+        {
+          "source_id": "2108831720795410707",
+          "passage_id": "q2",
+          "quote": "In earlier months, revenue was under $1.5m, and buybacks were limited to 10% of revenue."
+        },
+        {
+          "source_id": "2108831720795410707",
+          "passage_id": "q3",
+          "quote": "Based on last month's annualised revenue, the $SYRUP P/S ratio now sits at ~14, well below other lending protocols in the category and awaiting potential repricing."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "引CoinDesk与Grayscale数据：BTC年化波动率由2018年约84%降至约46%，但今年3σ极端日已10天、超2018全年的8天；过去3年回报约225%，去掉最好15天涨幅即被抹平。作者建议BTC守底仓放弃择时，以极端日为信号快进热门山寨或左侧低吸。",
+      "author": "TechFlowPost",
+      "id": "2108824840945996001",
+      "sources": [
+        {
+          "id": "2108824840945996001",
+          "author": "TechFlowPost",
+          "url": "https://x.com/TechFlowPost/status/2108824840945996001",
+          "published_at": "Sat Oct 10 07:39:56 +0000 2026"
+        }
+      ],
+      "icon": "🎢",
+      "resonance": false,
+      "event": "BTC极端日频率与杠铃打法",
+      "new_information": "年化波动降至46%但3σ极端日超2018全年，回报集中少数日",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "t3",
+          "quote": "整体走势看似趋于平稳，但极端异动的日子，却比以往发生得更加频繁。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "t5",
+          "quote": "但是今年为止，盘面已经录得了 10 次偏离度超过“3 倍标准差”的极端交易日。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "t7",
+          "quote": "作为对比，在比特币市值蒸发 73% 的 2018 年大熊市，全年也仅出现了 8 次同级别的极端交易日。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "t11",
+          "quote": "1. 对于 BTC 仓位：放弃择时，死守底仓。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "q2",
+          "quote": "来自 Grayscale 的分析显示，过去3年，BTC回报率约为 225%，而纳斯达克 100 指数为 109%。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "q4",
+          "quote": "-去掉表现最好的5个交易日，BTC 的回报率就跌到只有 95%。"
+        },
+        {
+          "source_id": "2108824840945996001",
+          "passage_id": "q5",
+          "quote": "-而如果去掉表现最好的15个交易日，就会抹掉比特币过去3年的全部涨幅..."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "作者以Intents数据建框架：30天量47亿美元、协议收入207万美元全额回购、持有者年价值约2660万美元；按现倍数外推熊/基准/牛为6.21/11.8/27.95美元，并自提示倍数通常压缩、近期涨幅部分来自ETF与财库购买、10月1日曾遭380万美元桥攻击。",
+      "author": "ourcryptotalk",
+      "id": "2108816250340344177",
+      "sources": [
+        {
+          "id": "2108816250340344177",
+          "author": "ourcryptotalk",
+          "url": "https://x.com/ourcryptotalk/status/2108816250340344177",
+          "published_at": "Sat Oct 10 07:05:48 +0000 2026"
+        }
+      ],
+      "icon": "🧮",
+      "resonance": false,
+      "event": "NEAR估值三情景框架",
+      "new_information": "按Intents收入倍数外推6.21/11.8/27.95美元三情景",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t8",
+          "quote": "➠ $4.7B in volume over the last 30 days"
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t10",
+          "quote": "➠ $2.07M in protocol revenue over 30 days, 100% routed to NEAR buybacks"
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t13",
+          "quote": "Put together, NEAR holders capture roughly $26.6M a year today. The market values that at $6.45B, around 243x."
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t16",
+          "quote": "✦ Bear case: ~$6.21 (+26%)"
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t30",
+          "quote": "✦ Bull case: ~$27.95 (+467%)"
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t37",
+          "quote": "✦ The honest part"
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t40",
+          "quote": "➠ NEAR more than doubled in the past month. Some of that is the new US spot ETF and treasury buying, not just fundamentals."
+        },
+        {
+          "source_id": "2108816250340344177",
+          "passage_id": "t41",
+          "quote": "➠ Intents had a $3.8M bridge exploit on Oct 1. Contained, but worth knowing."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Definitive「任意链交易PRL」实际经第三方桥PearlBridge卖出1:1包装的WPRL，桥自称独立项目、与Pearl官方无关且审计进行中；链上WPRL约287万枚对锁仓约289万枚足额，进出各收0.5%，主池Uniswap v3流动性约60多万美元，提醒防同名meme假币。",
+      "author": "pearl_cn",
+      "id": "2108829893576233157",
+      "sources": [
+        {
+          "id": "2108829893576233157",
+          "author": "pearl_cn",
+          "url": "https://x.com/pearl_cn/status/2108829893576233157",
+          "published_at": "Sat Oct 10 08:00:01 +0000 2026"
+        }
+      ],
+      "icon": "🦪",
+      "resonance": false,
+      "event": "Definitive上PRL实为WPRL",
+      "new_information": "系第三方桥1:1包装、进出各0.5%、储备足额但与官方无关",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108829893576233157",
+          "passage_id": "t1",
+          "quote": "10/9，@DefinitiveFi 宣布支持任意链交易 $PRL。但仔细看说明，买到的其实是以太坊上的 WPRL，由第三方桥 PearlBridge 按 1:1 包装原生 PRL。"
+        },
+        {
+          "source_id": "2108829893576233157",
+          "passage_id": "t2",
+          "quote": "🦪 不是官方：PearlBridge 官网底部自己写了，独立项目，跟 Pearl Research Labs 没关系，外部审计还在做"
+        },
+        {
+          "source_id": "2108829893576233157",
+          "passage_id": "t3",
+          "quote": "🦪 储备够不够：我们查了一下，链上 WPRL 约 287 万枚，桥里锁着约 289 万枚 PRL，是足额的"
+        },
+        {
+          "source_id": "2108829893576233157",
+          "passage_id": "t4",
+          "quote": "🦪 成本：换进换出各收 0.5%；主池在 Uniswap v3（WPRL/USDT），流动性 60 多万刀"
+        },
+        {
+          "source_id": "2108829893576233157",
+          "passage_id": "t5",
+          "quote": "再提醒一句，以太坊上一堆 WPRL 配 🦪、PEARL 这类 meme 币的池子，那些币可不是 PRL，合约认准 0x07696…cB00 👇"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "cfm_sol拆解CRAWL：团队称并行爬虫扩至1000个、测试中每分钟通过页数增4-5倍；质押4小时约20.5万美元（含NFT 15%、代币约4.3%，锁3天）；Queen v5即将开训尚未交付，作者视5.8-6.0M市值为阻力。",
+      "author": "cfm_sol",
+      "id": "2108852421539909909",
+      "sources": [
+        {
+          "id": "2108852421539909909",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2108852421539909909",
+          "published_at": "Sat Oct 10 09:29:32 +0000 2026"
+        }
+      ],
+      "icon": "🕷️",
+      "resonance": false,
+      "event": "CRAWL三线进展拆解",
+      "new_information": "团队称爬虫扩至1000个、4小时质押约20.5万美元，Queen v5即将开训",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108852421539909909"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108852421539909909",
+          "passage_id": "t5",
+          "quote": "The team says Crawlnet has tripled its parallel crawler capacity, supporting up to 1,000 crawlers. In testing, the number of accepted pages read per minute increased by 4–5x. This means Queen could have access to a larger and fresher dataset for future training."
+        },
+        {
+          "source_id": "2108852421539909909",
+          "passage_id": "t8",
+          "quote": "The team reported that approximately $205,000 in assets was staked within the first four hours of launch. This included 145 crawl.md NFTs, representing 15% of the collection, and 41.75 million CRAWL tokens, approximately 4.3% of the total supply. The initial staking period has a three-day lock, after which participants can unstake at any time and receive"
+        },
+        {
+          "source_id": "2108852421539909909",
+          "passage_id": "t14",
+          "quote": "For now, the team has announced that Queen v5 is about to begin training. Until training is completed, the model is released, and comparable performance results become available, this should not be treated as an achievement that has already been delivered."
+        },
+        {
+          "source_id": "2108852421539909909",
+          "passage_id": "t20",
+          "quote": "The biggest test now is whether CRAWL can break through the $5.8M–$6.0M market cap zone decisively. Rather than chasing the price higher, I would focus on two signals: a breakout above resistance supported by strong volume, or a pullback to the $4.6M–$4.8M area followed by clear buying support. Until one of these signals appears, waiting for confirmation is"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "San Verano的Uniswap v4 Hook进入24小时实测：主网代理商户的GRIFT买入镜像至Robinhood Chain测试网，每笔附明文推理并在交换内销毁代币；首晚15笔镜像、4个商户钱包参与，尚处测试网、主网待部署。",
+      "author": "AlphaSeeker21",
+      "id": "2108843462896566739",
+      "sources": [
+        {
+          "id": "2108843462896566739",
+          "author": "AlphaSeeker21",
+          "url": "https://x.com/AlphaSeeker21/status/2108843462896566739",
+          "published_at": "Sat Oct 10 08:53:56 +0000 2026"
+        },
+        {
+          "id": "2108843581448368348",
+          "author": "7MilMarko",
+          "url": "https://x.com/7MilMarko/status/2108843581448368348",
+          "published_at": "Sat Oct 10 08:54:24 +0000 2026"
+        }
+      ],
+      "icon": "🪝",
+      "resonance": false,
+      "event": "GRIFT的v4 Hook实测",
+      "new_information": "主网代理买入镜像至测试网，链上留推理并交换内销毁",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108843462896566739",
+        "2108843581448368348"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108843462896566739",
+          "passage_id": "t0",
+          "quote": "The Hooks meta is heating up, and $GRIFT @Griftwrld might be one of the most interesting CryptoAI plays building in it."
+        },
+        {
+          "source_id": "2108843462896566739",
+          "passage_id": "t1",
+          "quote": "San Verano is now testing its own Uniswap v4 Hook specifically designed for autonomous AI agents."
+        },
+        {
+          "source_id": "2108843462896566739",
+          "passage_id": "t8",
+          "quote": "It’s an autonomous economy building programmable token value accrual directly into its trading infrastructure."
+        },
+        {
+          "source_id": "2108843462896566739",
+          "passage_id": "t9",
+          "quote": "The 24-hour live test is underway, with real mainnet activity being mirrored through the testnet hook."
+        },
+        {
+          "source_id": "2108843581448368348",
+          "passage_id": "t1",
+          "quote": "First night of the San Verano v4 Hook live test on Robinhood Chain testnet:"
+        },
+        {
+          "source_id": "2108843581448368348",
+          "passage_id": "t2",
+          "quote": "• 15 mirrored $GRIFT buys"
+        },
+        {
+          "source_id": "2108843581448368348",
+          "passage_id": "t3",
+          "quote": "• 4 agent-run business wallets buying gear, kegs, crates and racks"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "cfm_sol介绍基于Jupiter Studio的第三方发射台Jup Pad（JPAD市值约92.3万美元）：可自选SOL/USDC/JUP及代币股票配对，50%平台收入永久回购销毁JPAD；首日发射54个代币、成交近300万美元并分发超1万美元收益，透明度仍待改进。",
+      "author": "cfm_sol",
+      "id": "2108855625061195888",
+      "sources": [
+        {
+          "id": "2108855625061195888",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2108855625061195888",
+          "published_at": "Sat Oct 10 09:42:16 +0000 2026"
+        }
+      ],
+      "icon": "🛠️",
+      "resonance": false,
+      "event": "JPAD发射台机制与首日数据",
+      "new_information": "50%收入永久回购销毁JPAD，首日54币成交近300万美元",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t0",
+          "quote": "$JPAD 923k dyor"
+        },
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t4",
+          "quote": "Its core feature is that users can launch tokens and choose pairing assets such as SOL, USDC, JUP, and even tokenized stocks. However, it is not an official Jupiter project. It is an enhanced, third-party version built on top of the Jupiter Studio launch engine."
+        },
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t13",
+          "quote": "JPAD is the platform’s native token. Its mechanism allocates 50% of platform revenue to permanently buying and burning JPAD. The intended flywheel is straightforward: more launches and higher trading volume generate more platform fees, which fund more JPAD buybacks and burns, creating a potential mechanism for value capture. The platform also distributes"
+        },
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t16",
+          "quote": "On its first day, 54 tokens were launched, trading volume approached $3 million, and some tokens had already graduated."
+        },
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t18",
+          "quote": "More than $10,000 in earnings had been distributed to holders."
+        },
+        {
+          "source_id": "2108855625061195888",
+          "passage_id": "t26",
+          "quote": "However, there is still room to improve transparency around the platform’s data and mechanisms."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "作者整理Crypto量化五大坑：AI批量生成策略加剧数据窥探，须记录实验次数并用滚动前向验证；回测须纳入已下架币防幸存者偏差；套利要算真实成交率、排队位置与最坏退出成本；上线前分设交易所/链上/结算风控与多条退出线。",
+      "author": "sera00111",
+      "id": "2108741993048457333",
+      "sources": [
+        {
+          "id": "2108741993048457333",
+          "author": "sera00111",
+          "url": "https://x.com/sera00111/status/2108741993048457333",
+          "published_at": "Sat Oct 10 02:10:44 +0000 2026"
+        }
+      ],
+      "icon": "🧪",
+      "resonance": false,
+      "event": "币圈量化回测陷阱清单",
+      "new_information": "数据窥探、幸存者偏差、成交能力高估与多重退出线",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t6",
+          "quote": "2】AI 能帮你挖因子，也能让你更快地过拟合"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t9",
+          "quote": "尤其现在有了 AI Agent（人工智能智能体），一次自动生成几百套策略已经不难。如果没有记录搜索次数，最后选出的高夏普策略可能只是统计巧合。"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t13",
+          "quote": "A 股回测需要保留退市股票，Crypto 同样如此，而且情况可能更复杂。"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t18",
+          "quote": "另外，数据必须按当时能够获得的时间重建。比如今天知道某个钱包属于做市商，不代表两年前的策略就能知道这个身份。"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t22",
+          "quote": "高频做市还要考虑 Queue Position（订单排队位置）、撮合延迟和 Adverse Selection（逆向选择）。你挂出的买单之所以成交，有时恰恰是因为价格即将继续下跌。"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t23",
+          "quote": "链上策略还需要计算 Gas、MEV 竞价、交易失败和区块确认延迟。LP 策略则必须扣除无常损失和重新平衡成本。"
+        },
+        {
+          "source_id": "2108741993048457333",
+          "passage_id": "t29",
+          "quote": "特别是跨交易所套利，看起来两边对冲、方向中性，但一边被强平，另一边无法及时调整，就可能留下巨大的单边敞口。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "作者指控Ethos Network「搜打撤」：XP贡献最终0空投、ICO清算价4.2现价2.7、退款需echo二次KYC且30天后处理、圈得的约700万USDT链上已转入Coinbase，并称明确不上Upbit与币安；均为单方指控未经证实。",
+      "author": "0xStudy",
+      "id": "2108825952088129972",
+      "sources": [
+        {
+          "id": "2108825952088129972",
+          "author": "0xStudy",
+          "url": "https://x.com/0xStudy/status/2108825952088129972",
+          "published_at": "Sat Oct 10 07:44:21 +0000 2026"
+        }
+      ],
+      "icon": "🚨",
+      "resonance": false,
+      "event": "Ethos Network遭搜打撤指控",
+      "new_information": "作者列0空投、退款需二次KYC、700万USDT转入CB",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108825952088129972",
+          "passage_id": "t1",
+          "quote": "① 用XP引诱社区贡献 最后宣布0空投 给了个特別丑 价值几U的NFT"
+        },
+        {
+          "source_id": "2108825952088129972",
+          "passage_id": "t2",
+          "quote": "② ICO清算价4.2  目前币价2.7   0人生还，链上的池子里仅10WU"
+        },
+        {
+          "source_id": "2108825952088129972",
+          "passage_id": "t3",
+          "quote": "③ 退款机制引诱用户参与 但退款要echo二次Kyc 而且30天后处理，圈到的700万U链上看  已转入CB  搜打撤成功"
+        },
+        {
+          "source_id": "2108825952088129972",
+          "passage_id": "t4",
+          "quote": "④ 明确不上线Upbit和币安 不会为大家铺路"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Eli5defi称GSR链上信贷台Hare承诺投入约1亿美元、多为金库启动前授信，由Turtle向分配方分发；首批产品Hare USD Earn与Hare Gold Earn，均由Aave驱动。",
+      "author": "Eli5defi",
+      "id": "2108845017351794955",
+      "sources": [
+        {
+          "id": "2108845017351794955",
+          "author": "Eli5defi",
+          "url": "https://x.com/Eli5defi/status/2108845017351794955",
+          "published_at": "Sat Oct 10 09:00:07 +0000 2026"
+        }
+      ],
+      "icon": "📋",
+      "resonance": false,
+      "event": "GSR信贷台Hare承诺1亿美元",
+      "new_information": "GSR承诺约1亿美元授信种子金库，首批稳定币与黄金Earn由Aave驱动",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108845017351794955"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108845017351794955",
+          "passage_id": "t33",
+          "quote": "@GSR_io’s onchain credit desk, with @turtledotxyz. GSR is committing $100M, mostly as a credit facility that seeds vaults before outside money shows up. Turtle distributes to allocators. First products: Hare USD Earn (major stables) and Hare Gold Earn (PAXG / PAXGy), both Aave-powered, Paxos on the gold vault."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "OneKey创始人推测助记词或经主板总线明文传屏时被植入蜂窝模块窃听，称属「最后一厘米」盲区并推五项改进；Trezor已停CryptoBilis渠道销售，两家均称暂无类似失窃报告。",
+      "author": "wublockchain12",
+      "id": "2108848525173760160",
+      "sources": [
+        {
+          "id": "2108848525173760160",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2108848525173760160",
+          "published_at": "Sat Oct 10 09:14:03 +0000 2026"
+        }
+      ],
+      "icon": "🔐",
+      "resonance": false,
+      "event": "OneKey与Trezor回应Ledger供应链事件",
+      "new_information": "OneKey提出总线明文窃听假说并推改进，Trezor停售该渠道且两家暂无类似失窃报告",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108848525173760160"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108848525173760160",
+          "passage_id": "t0",
+          "quote": "吴说获悉，OneKey 创始人 Yishi 发文表示，针对 CryptoBilis 渠道售出的 Ledger 设备疑遭篡改导致约 9000 万美元资产被盗事件，OneKey 截至 10 月 10 日未收到相关受损报告，并深入分析了硬件供应链植入攻击的攻击路径。Yishi 指出，安全芯片虽能保证固件真实与私钥生成，但助记词在由安全芯片传输至屏幕显示时，若在主板低速总线（如 SPI/I2C）上以明文传输，攻击者便可通过私自拆机植入蜂窝网络模块（如 nRF9151）窃听屏幕数据、远程回传助记词，绕过安全芯片完成盗窃（即硬件钱包的“最后一厘米”物理盲区）。为此，OneKey 宣布推进五项改进措施，包括升级防伪包装、推出免屏幕显示的初始化流程、固件与硬件层面推进主板总线内部通信加密等。Yishi"
+        },
+        {
+          "source_id": "2108848525173760160",
+          "passage_id": "t2",
+          "quote": "硬件钱包制造商 Trezor 也对此回应表示，已全面暂停通过涉事电商平台（CryptoBilis）的设备销售，并正在积极调查与处理整体局势。Trezor 强调，截至目前尚未收到任何类似于 Ledger 用户所遭遇的资金失窃或设备异常报告。Trezor 此前 8 月至 9 月曾发生过用户数据泄露事件，不过属于第三方物流服务商 ShipMonk 数据库泄露。https://t.co/pYUfCZiz9W"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Foresight分析称Ledger零售硬件无资产保护基金：企业托管才有1.5亿美元劳合社保险、Recover仅限5万美元特定场景；销售条款免责第三方经销商欺诈，受害者现实路径是转移资产、报案并保留索赔权。",
+      "author": "Foresight_News",
+      "id": "2108809853380788612",
+      "sources": [
+        {
+          "id": "2108809853380788612",
+          "author": "Foresight_News",
+          "url": "https://x.com/Foresight_News/status/2108809853380788612",
+          "published_at": "Sat Oct 10 06:40:23 +0000 2026"
+        }
+      ],
+      "icon": "⚖️",
+      "resonance": false,
+      "event": "Ledger零售赔偿前景分析",
+      "new_information": "C端无保护基金、条款免责经销商行为，起诉胜算不高",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108809853380788612",
+          "passage_id": "t3",
+          "quote": "部分用户误以为安全巨头皆有兜底，但 Ledger 的风控机制存在显著的商业倾斜：Ledger 面向企业和机构托管的「Ledger Enterprise」，确实接入了由英国劳合社等银团承保的最高 1.5 亿美元犯罪保险池；"
+        },
+        {
+          "source_id": "2108809853380788612",
+          "passage_id": "t4",
+          "quote": "然而在 C 端服务上，其赔偿条款严苛限制：此前推出的争议性付费服务 Ledger Recover，虽由 Coincover 提供最高 5 万美元的赔付额度，但其适用范围极其狭窄，该服务仅针对已订阅 Recover、通过身份验证后因服务故障导致无法恢复的情形，不覆盖用户钓鱼、助记词泄露、设备被篡改、供应链问题等常见损失场景。"
+        },
+        {
+          "source_id": "2108809853380788612",
+          "passage_id": "t6",
+          "quote": "此外，在《Ledger 一般销售条款与条件》中，协议明确规定，不对任何第三方的违法行为或欺诈（unlawful conduct or fraud by any third party）承担任何赔偿责任，并多次在各类附属协议中声明，因第三方行为造成的资产与数据损失与官方无关。"
+        },
+        {
+          "source_id": "2108809853380788612",
+          "passage_id": "t8",
+          "quote": "对本次事件受害者而言，起诉 Ledger 存在较大法律与实务障碍，胜诉并获得赔偿的概率不高。更现实的路径是：先完成资产转移与证据固定，向警方报案，同时通过官方渠道保留索赔权利，并关注后续调查进展。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "xStocks称AUM达8亿美元、新增200资产，Solana持有人由27.5万增至逾59万、累计成交超60亿美元；纳斯达克战略投资母公司Payward，伦交所拟代币化最大100家上市公司。",
+      "author": "xStocksFi",
+      "id": "2108832045250343380",
+      "sources": [
+        {
+          "id": "2108832045250343380",
+          "author": "xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2108832045250343380",
+          "published_at": "Sat Oct 10 08:08:34 +0000 2026"
+        }
+      ],
+      "icon": "📈",
+      "resonance": false,
+      "event": "xStocks九月数据与进展",
+      "new_information": "AUM达8亿美元、Solana持有人增至逾59万，纳斯达克投资母公司Payward",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108832045250343380"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t2",
+          "quote": "- London Stock Exchange: xStocks to soon tokenize the 100 largest London-listed companies"
+        },
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t3",
+          "quote": "- Nasdaq: Announced strategic investment in xStocks’ parent company, Payward, to advance tokenized equity infrastructure"
+        },
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t10",
+          "quote": "- xStocks reaches $800M AUM"
+        },
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t11",
+          "quote": "- xStocks adds +200 new assets"
+        },
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t14",
+          "quote": "- xStocks crosses $6B volume on @Solana"
+        },
+        {
+          "source_id": "2108832045250343380",
+          "passage_id": "t16",
+          "quote": "- xStocks grows from 275K to 590K+ holders on Solana."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "PURR公布Q2机构持仓由87家增至175家、总持仓市值约9.46亿美元，引用称新进对冲基金占比较高、含Druckenmiller与Jim Simons。",
+      "author": "kylewmi",
+      "id": "2108801249994805711",
+      "sources": [
+        {
+          "id": "2108801249994805711",
+          "author": "kylewmi",
+          "url": "https://x.com/kylewmi/status/2108801249994805711",
+          "published_at": "Sat Oct 10 06:06:12 +0000 2026"
+        }
+      ],
+      "icon": "🏛️",
+      "resonance": false,
+      "event": "PURR披露Q2机构持仓",
+      "new_information": "机构由87家增至175家、持仓市值约9.46亿美元",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108801249994805711"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108801249994805711",
+          "passage_id": "q1",
+          "quote": "持仓机构从 Q1 的 87 家增至 175 家，净增 88 家；机构总持仓市值约 $946M，环比大幅增长。"
+        },
+        {
+          "source_id": "2108801249994805711",
+          "passage_id": "q2",
+          "quote": "新进的重点仓位中，对冲基金和对冲基金风格的家族办公室占比较高。"
+        },
+        {
+          "source_id": "2108801249994805711",
+          "passage_id": "q3",
+          "quote": "包括了前索罗斯量子基金的核心人物 Stanley Druckenmiller，还有量化投资鼻祖 Jim Simons。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "亚马逊以未授权AI代理访问、违反使用条款为由封锁Meta Muse购物；Muse代用户购物可绕过广告浏览，Meta按交易抽成变现。",
+      "author": "martypartymusic",
+      "id": "2108840079242178632",
+      "sources": [
+        {
+          "id": "2108840079242178632",
+          "author": "martypartymusic",
+          "url": "https://x.com/martypartymusic/status/2108840079242178632",
+          "published_at": "Sat Oct 10 08:40:29 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": false,
+      "event": "亚马逊封锁Meta Muse购物",
+      "new_information": "亚马逊以未授权AI代理访问为由封锁Muse代客购物",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108840079242178632"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108840079242178632",
+          "passage_id": "t1",
+          "quote": "Amazon has blocked Meta’s Muse, a personal AI agent launched in early September 2026. Muse can act autonomously for users (emails, travel bookings, online purchases, etc.) via an app or WhatsApp."
+        },
+        {
+          "source_id": "2108840079242178632",
+          "passage_id": "t3",
+          "quote": "•  Amazon blocked Muse from shopping on https://t.co/3psTDH03jr, citing unauthorized AI agent access, privacy/security risks, and violation of its Conditions of Use."
+        },
+        {
+          "source_id": "2108840079242178632",
+          "passage_id": "t4",
+          "quote": "•  Amazon’s large advertising business relies on users browsing the site (seeing related items, ads, etc.). An agent that shops on a user’s behalf can bypass that."
+        },
+        {
+          "source_id": "2108840079242178632",
+          "passage_id": "t5",
+          "quote": "•  Meta positioned Muse’s business model around transaction fees (a cut of purchases) rather than ads inside the agent. Zuckerberg described it as free for a large number of tokens, with monetization expected via small transaction fees over time."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "野村估Kimi 9月ARR约12亿美元；作者称估值约500亿美元、估值/ARR约42倍，高于OpenAI约28倍、Anthropic约31倍，低价Preview贡献约40-45%。",
+      "author": "roger9949",
+      "id": "2108834418370715661",
+      "sources": [
+        {
+          "id": "2108834418370715661",
+          "author": "roger9949",
+          "url": "https://x.com/roger9949/status/2108834418370715661",
+          "published_at": "Sat Oct 10 08:18:00 +0000 2026"
+        }
+      ],
+      "icon": "💠",
+      "resonance": false,
+      "event": "Kimi估值与收入结构",
+      "new_information": "野村估ARR约12亿美元，作者称估值/ARR约42倍高于OpenAI与Anthropic",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108834418370715661"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108834418370715661",
+          "passage_id": "t5",
+          "quote": "- Kimi = 约 42 倍"
+        },
+        {
+          "source_id": "2108834418370715661",
+          "passage_id": "t6",
+          "quote": "ARR 约 12 亿美元，最新估值约 500 亿美元，估值/ARR 约 42 倍"
+        },
+        {
+          "source_id": "2108834418370715661",
+          "passage_id": "q0",
+          "quote": ". @Kimi_Moonshot 9 月 ARR 约 12 亿美元（野村估算）。"
+        },
+        {
+          "source_id": "2108834418370715661",
+          "passage_id": "q3",
+          "quote": "- 9/11 上线的 K2.8 Preview 贡献约 40–45%，旗舰 K3 只有 30–35%"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "作者称世界杯后预测市场分化，Predict Fun短时涨跌用户份额由5月末约2%升至与Polymarket五五开，并称其为首个15分钟股票涨跌市场。",
+      "author": "defioasis",
+      "id": "2108836201818210315",
+      "sources": [
+        {
+          "id": "2108836201818210315",
+          "author": "defioasis",
+          "url": "https://x.com/defioasis/status/2108836201818210315",
+          "published_at": "Sat Oct 10 08:25:05 +0000 2026"
+        }
+      ],
+      "icon": "🔮",
+      "resonance": false,
+      "event": "预测市场赛后方向分化",
+      "new_information": "作者称Predict Fun短时涨跌用户份额升至与Polymarket五五开",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108836201818210315"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108836201818210315",
+          "passage_id": "t0",
+          "quote": "世界杯后，头部预测市场发展方向已然逐渐分化"
+        },
+        {
+          "source_id": "2108836201818210315",
+          "passage_id": "t7",
+          "quote": "无论是 5min 还是 15min 涨跌市场，Polymarket 的用户都在流向 Predict Fun：从 5 月末仅占 2% 的用户市场份额，到现在已与 Polymarket 维持 55 开"
+        },
+        {
+          "source_id": "2108836201818210315",
+          "passage_id": "t8",
+          "quote": "除了 Crypto 涨跌外，Predict Fun 同时在重点发展股票预测市场，成为首个上线 15min 股票涨跌预测市场"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据MSBIntel，美国资产第四大银行富国银行正基于Cosmos构建代币化存款引擎，今秋先向企业客户推出美元-英镑24/7转账。",
+      "author": "MSBIntel",
+      "id": "2108739295603270051",
+      "sources": [
+        {
+          "id": "2108739295603270051",
+          "author": "MSBIntel",
+          "url": "https://x.com/MSBIntel/status/2108739295603270051",
+          "published_at": "Sat Oct 10 02:00:01 +0000 2026"
+        }
+      ],
+      "icon": "🌐",
+      "resonance": false,
+      "event": "富国银行建Cosmos存款引擎",
+      "new_information": "美国资产第四大银行今秋推美元英镑24/7企业转账",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108739295603270051",
+          "passage_id": "t0",
+          "quote": "Wells Fargo, the 4th largest US bank by assets, is building its tokenized deposit engine on Cosmos, starting with 24/7 dollar to pound transfers for corporate clients this fall."
+        },
+        {
+          "source_id": "2108739295603270051",
+          "passage_id": "t1",
+          "quote": "@cosmos https://t.co/rX3O5ymwoq"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Buckmaster称OpenAI数学论文摧毁年轻学者职业，并称已听说至少3人研究计划被冲垮，3篇因符号错误撤回；警示基金评审或把未公开方案输入大模型。",
+      "author": "oragnes",
+      "id": "2108850746124857645",
+      "sources": [
+        {
+          "id": "2108850746124857645",
+          "author": "oragnes",
+          "url": "https://x.com/oragnes/status/2108850746124857645",
+          "published_at": "Sat Oct 10 09:22:53 +0000 2026"
+        }
+      ],
+      "icon": "📐",
+      "resonance": false,
+      "event": "OpenAI论文冲击数学研究者",
+      "new_information": "Buckmaster称至少3人研究计划被冲垮，并警示未公开基金方案或被输入模型",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108850746124857645"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108850746124857645",
+          "passage_id": "t2",
+          "quote": "这批论文摧毁了年轻数学家的职业生涯。他甚至已经听说，至少 3 名研究者的整个研究计划被冲垮。"
+        },
+        {
+          "source_id": "2108850746124857645",
+          "passage_id": "t9",
+          "quote": "数学家申请科研经费，需要提前提交尚未公开的研究方案，而评审员可能直接把这些方案丢进大模型生成摘要。"
+        },
+        {
+          "source_id": "2108850746124857645",
+          "passage_id": "t12",
+          "quote": "其中 3 篇已经因为符号错误被撤回。人类数学协会 AHM 更直接公开抵制，称一次释放 700 多份文件，是一次权力展示。连菲尔兹奖得主陶哲轩的博客都转载了这份抵制声明。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "字节早期员工郭宇对谈：用Claude Code搭CRM数分钟可成，超级应用内置Agent后单功能App失去分发意义；仅2-3%的人能成Pro User，AI Slop越多真人出镜越值钱，并警示中心化Agent通道是巨大安全单点。",
+      "author": "roger9949",
+      "id": "2108846781937393989",
+      "sources": [
+        {
+          "id": "2108846781937393989",
+          "author": "roger9949",
+          "url": "https://x.com/roger9949/status/2108846781937393989",
+          "published_at": "Sat Oct 10 09:07:07 +0000 2026"
+        },
+        {
+          "id": "2108850230640963721",
+          "author": "roger9949",
+          "url": "https://x.com/roger9949/status/2108850230640963721",
+          "published_at": "Sat Oct 10 09:20:50 +0000 2026"
+        }
+      ],
+      "icon": "🎙️",
+      "resonance": false,
+      "event": "郭宇论AI时代软件交付",
+      "new_information": "Agent内置吃掉单功能App，仅2-3%人能成Pro User",
+      "urgency_reason": "",
+      "attention_source_ids": [],
+      "evidence": [
+        {
+          "source_id": "2108846781937393989",
+          "passage_id": "t5",
+          "quote": "- 用 Claude Code、Codex 搭一个 CRM「两分钟、五分钟、十分钟的事」，做好软件放进应用市场分发「已经有点失去意义了」"
+        },
+        {
+          "source_id": "2108846781937393989",
+          "passage_id": "t7",
+          "quote": "- 郭宇自己就被这样「吃掉」过：今年三四月他做了一个替人打电话的产品，不少葡萄牙语、西班牙语用户在用；后来又做了一个把电话、邮件和各种沟通全交给 Agent 管理的产品。结果到了快十月，超级应用已经把这些基础功能内置了，这类专门做某一件事的小软件，单独分发已经没必要了"
+        },
+        {
+          "source_id": "2108846781937393989",
+          "passage_id": "t9",
+          "quote": "- 只有 2% 到 3% 的人能成为 Pro User，一个人「相当于过去五六十人的公司」；AI 对社会和商业的影响「可能只完成了 2%、3%」"
+        },
+        {
+          "source_id": "2108846781937393989",
+          "passage_id": "t11",
+          "quote": "- 「Software is media, everything is media」，抖音字幕故意写错别字，完播率大幅提高；AI Slop 越多，真人出镜越值钱"
+        },
+        {
+          "source_id": "2108850230640963721",
+          "passage_id": "t14",
+          "quote": "但郭宇也提醒了一个暗面：如果所有人都通过Agent管理电脑，中心化的Agent通道本身就会成为一个巨大的安全单点。“如果OpenAI被攻击了，或者它的连接被劫持了，其实就变成世界上最大的肉鸡集群。”"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Meteora披露DBC钩子发射代币累计成交9420万美元、6月3日以来6136次发射，近30天贡献98%成交，单日峰值10月2日1990万美元。",
+      "author": "MeteoraEco",
+      "id": "2108842041417625838",
+      "sources": [
+        {
+          "id": "2108842041417625838",
+          "author": "MeteoraEco",
+          "url": "https://x.com/MeteoraEco/status/2108842041417625838",
+          "published_at": "Sat Oct 10 08:48:17 +0000 2026"
+        }
+      ],
+      "icon": "🧲",
+      "resonance": false,
+      "event": "Meteora DBC钩子成交数据",
+      "new_information": "累计成交9420万美元，近30天贡献98%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108842041417625838"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108842041417625838",
+          "passage_id": "t0",
+          "quote": "$94.2M in cumulative volume on hook-launched tokens on meteora DBC."
+        },
+        {
+          "source_id": "2108842041417625838",
+          "passage_id": "t1",
+          "quote": "→ 6,136 launches since june 3"
+        },
+        {
+          "source_id": "2108842041417625838",
+          "passage_id": "t2",
+          "quote": "→ 98% of the volume in the last 30 days"
+        },
+        {
+          "source_id": "2108842041417625838",
+          "passage_id": "t3",
+          "quote": "→ biggest day: $19.9M on 2 oct"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Injective的Trench Treasury宣布购入Solana上NINJACAT代币10%供应，该币持有者可赚INJ。",
+      "author": "BSCNews",
+      "id": "2108841716442886253",
+      "sources": [
+        {
+          "id": "2108841716442886253",
+          "author": "BSCNews",
+          "url": "https://x.com/BSCNews/status/2108841716442886253",
+          "published_at": "Sat Oct 10 08:47:00 +0000 2026"
+        }
+      ],
+      "icon": "😺",
+      "resonance": false,
+      "event": "Injective财库购NINJACAT",
+      "new_information": "Trench Treasury买入该Solana memecoin 10%供应",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108841716442886253"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108841716442886253",
+          "passage_id": "t0",
+          "quote": "Injective just bought 10% of a memecoin's supply!"
+        },
+        {
+          "source_id": "2108841716442886253",
+          "passage_id": "t1",
+          "quote": "The @injective Trench Treasury has announced it has acquired a staggering 1 in 10 @NinjaCatSF $NINJACAT tokens."
+        },
+        {
+          "source_id": "2108841716442886253",
+          "passage_id": "t2",
+          "quote": "Though NinjaCat was launched on @Solana through @LaunchOnSF, it let's holders earn $INJ."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "OG_Branxi给出PAPER挖矿参数：100-300倍多空同开，约1%波动时手动平仓、勿被清算，铸出后立即质押（初期不可转让）；LP不足时盈利可能进FIFO队列。shaundadevens提醒，若众人抢着亏损，早进场比控成本更重要：累计亏损500万美元前入场者到1350万时已回本。",
+      "author": "OG_Branxi",
+      "id": "2108856160539574744",
+      "sources": [
+        {
+          "id": "2108856160539574744",
+          "author": "OG_Branxi",
+          "url": "https://x.com/OG_Branxi/status/2108856160539574744",
+          "published_at": "Sat Oct 10 09:44:23 +0000 2026"
+        },
+        {
+          "id": "2108907069340594255",
+          "author": "shaundadevens",
+          "url": "https://x.com/shaundadevens/status/2108907069340594255",
+          "published_at": "Sat Oct 10 13:06:41 +0000 2026"
+        }
+      ],
+      "icon": "🎯",
+      "resonance": false,
+      "event": "Papertrade PAPER挖矿参数与早进场反方提醒",
+      "new_information": "具体杠杆与平仓参数、FIFO风险，以及抢跑情形下早进场优先的反方观点",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108856160539574744",
+        "2108907069340594255"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t5",
+          "quote": "best way is just running long + short at the same time"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t17",
+          "quote": "- High leverage (500-1000×) is fast but easy to get liquidated, 100-300× is more practical"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t18",
+          "quote": "- Profits can go into a FIFO queue if the LP is short, margin is always returned immediately"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t19",
+          "quote": "- $PAPER is non-transferable at launch (stake/unstake only)"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t21",
+          "quote": "- Aim to close around 1% move"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t22",
+          "quote": "- Don’t get liquidated (that’s expensive)"
+        },
+        {
+          "source_id": "2108856160539574744",
+          "passage_id": "t24",
+          "quote": "- Stake the PAPER right away"
+        },
+        {
+          "source_id": "2108907069340594255",
+          "passage_id": "t0",
+          "quote": "I did want to point out that, while these strategies maximize expected returns, in the case that traders rush to take on losses, pure loss farming could be preferable, because getting size in early >> optimizing for costs."
+        },
+        {
+          "source_id": "2108907069340594255",
+          "passage_id": "t1",
+          "quote": "For example, if everyone rushes in to maximize losses, anyone who got in before $5M already broke even by $13.5M of losses."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "thedefiedge列出10月解锁：PUMP 10/11约4150万美元（约占供应1.5%），STRK 10/15约占3.4%，ZRO 10/20约5400万美元（约占4%）。作者称9月解锁后的上涨很大程度来自大盘，应看解锁占比、接收方、是否转入交易所及市场环境。",
+      "author": "thedefiedge",
+      "id": "2108908966675624335",
+      "sources": [
+        {
+          "id": "2108908966675624335",
+          "author": "thedefiedge",
+          "url": "https://x.com/thedefiedge/status/2108908966675624335",
+          "published_at": "Sat Oct 10 13:14:13 +0000 2026"
+        }
+      ],
+      "icon": "🗓️",
+      "resonance": false,
+      "event": "10月代币解锁观察",
+      "new_information": "列出PUMP、STRK、ZRO解锁规模，并给出四项判断解锁抛压的标准",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108908966675624335"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t2",
+          "quote": "- $PUMP (Oct 11): ~$41.5M unlocking, around 1.5% of supply. Up roughly 12% over the 7 days after its previous unlock on Sep 11."
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t4",
+          "quote": "- $STRK (Oct 15): ~$6.2M unlocking, around 3.4% of supply."
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t7",
+          "quote": "- $ZRO (Oct 20): ~$54M unlocking, around 4% of supply. Its Sep 19 unlock was followed by roughly a 45% gain over the next 7 days."
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t9",
+          "quote": "A lot of that was the market. $BTC went from ~$63k in mid-August to the high $80s by Mid-September, sentiment flipped bullish, and alts caught the wave right as these unlocks were hitting."
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t12",
+          "quote": "That’s why I’d care more about:"
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t13",
+          "quote": "1. how big the unlock is vs supply"
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t14",
+          "quote": "2. who receives it"
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t15",
+          "quote": "3. whether those tokens move to exchanges"
+        },
+        {
+          "source_id": "2108908966675624335",
+          "passage_id": "t16",
+          "quote": "4. what the market is doing at the same time"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "一篇被0xGeeGee引用的研究指出，Sentora策展的USDe/sUSDe借贷市场使用市场价预言机：即使USDe足额支撑，DEX上的短暂脱锚也可能清算高杠杆循环仓位。0xGeeGee持中间立场，认为策展人可以定性接受抵押品并让贷方承担风险。",
+      "author": "0xGeeGee",
+      "id": "2108878344381177889",
+      "sources": [
+        {
+          "id": "2108878344381177889",
+          "author": "0xGeeGee",
+          "url": "https://x.com/0xGeeGee/status/2108878344381177889",
+          "published_at": "Sat Oct 10 11:12:33 +0000 2026"
+        }
+      ],
+      "icon": "⚠️",
+      "resonance": false,
+      "event": "Sentora USDe市场预言机风险",
+      "new_information": "短暂脱锚即可触发高杠杆循环仓位清算",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108878344381177889"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108878344381177889",
+          "passage_id": "t0",
+          "quote": "I’m kind of in the middle ground on this stuff, hardcoded and fundamental oracles have clearly tradeoffs, in my opinion it’s okay to do a qualitative call by the curator and say “I’m 100% okay with this collateral and I’ll protect the borrowers and put the risk on the lenders”"
+        },
+        {
+          "source_id": "2108878344381177889",
+          "passage_id": "q2",
+          "quote": "Sentora is the curator behind the markets I covered that rely on market price oracles."
+        },
+        {
+          "source_id": "2108878344381177889",
+          "passage_id": "q5",
+          "quote": "Highly leveraged loopers in the USDe markets curated by Sentora would be liquidated in a scenario like this, even if USDe remains fully backed."
+        },
+        {
+          "source_id": "2108878344381177889",
+          "passage_id": "q6",
+          "quote": "Is USDe dropping to $0.85 on DEXs a likely scenario? Definitely not. But even a 5x smaller temporary depeg could be very bad for highly leveraged loopers."
+        },
+        {
+          "source_id": "2108878344381177889",
+          "passage_id": "q7",
+          "quote": "Depegs like this can happen even if USDe works completely fine. They can happen to any stablecoin, not just USDe."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "币安USD1空投活动续期4周，奖池1.5亿枚WLFI，第二阶段最多另加250万USD1，上周APR最高5.17%（浮动）。作者称第一阶段约5天后结束，第二阶段参与细则待公布。",
+      "author": "keyahayek",
+      "id": "2108820169548337541",
+      "sources": [
+        {
+          "id": "2108820169548337541",
+          "author": "keyahayek",
+          "url": "https://x.com/keyahayek/status/2108820169548337541",
+          "published_at": "Sat Oct 10 07:21:23 +0000 2026"
+        }
+      ],
+      "icon": "💵",
+      "resonance": false,
+      "event": "币安USD1空投活动续期",
+      "new_information": "续期4周，分两阶段，第二阶段追加最多250万USD1",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108820169548337541"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "t0",
+          "quote": "币安 $USD1 又续杯一个月，变化就是这个月分两阶段进行。第一阶段 420 万 U 左右，第二阶段增加最多 250 万的 $USD1 奖励。第一阶段还有五天结束，等第二阶段通知，看会不会有变化。"
+        },
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "q0",
+          "quote": "The USD1 airdrop campaign is back for another 4 weeks, with:"
+        },
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "q1",
+          "quote": "• 150M WLFI"
+        },
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "q2",
+          "quote": "• 2.5M additional USD1"
+        },
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "q3",
+          "quote": "• Up to 5.17% APR last week (variable)"
+        },
+        {
+          "source_id": "2108820169548337541",
+          "passage_id": "q4",
+          "quote": "Stage 2 participation details coming soon. https://t.co/W517QCCRiR"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Axis Robotics公布AXIS代币经济：TGE流通16.5%，团队与投资者31.67%锁定12个月；空投占10%，第一季4%在TGE解锁一半、余下T+3和T+6等额解锁，币安钱包活动奖励TGE全解锁。",
+      "author": "zaijin338191",
+      "id": "2108907068837265845",
+      "sources": [
+        {
+          "id": "2108907068837265845",
+          "author": "zaijin338191",
+          "url": "https://x.com/zaijin338191/status/2108907068837265845",
+          "published_at": "Sat Oct 10 13:06:41 +0000 2026"
+        },
+        {
+          "id": "2108908867447067064",
+          "author": "iamyourchaos",
+          "url": "https://x.com/iamyourchaos/status/2108908867447067064",
+          "published_at": "Sat Oct 10 13:13:50 +0000 2026"
+        },
+        {
+          "id": "2108905526902063599",
+          "author": "axisrobotics",
+          "url": "https://x.com/axisrobotics/status/2108905526902063599",
+          "published_at": "Sat Oct 10 13:00:33 +0000 2026"
+        },
+        {
+          "id": "2108909199023571066",
+          "author": "0xsexybanana",
+          "url": "https://x.com/0xsexybanana/status/2108909199023571066",
+          "published_at": "Sat Oct 10 13:15:09 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": true,
+      "event": "Axis Robotics发布AXIS代币经济",
+      "new_information": "公布TGE流通量、团队锁仓与空投解锁安排",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108907068837265845",
+        "2108908867447067064",
+        "2108905526902063599",
+        "2108909199023571066"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108907068837265845",
+          "passage_id": "t2",
+          "quote": "空投占总供应量的 10%"
+        },
+        {
+          "source_id": "2108907068837265845",
+          "passage_id": "t4",
+          "quote": "▪️第一季度（TGE 前，模拟）：40,000,000（4%）"
+        },
+        {
+          "source_id": "2108907068837265845",
+          "passage_id": "t6",
+          "quote": "➡️第一季度在 TGE 时解锁 50%"
+        },
+        {
+          "source_id": "2108907068837265845",
+          "passage_id": "t7",
+          "quote": "剩余 50% 在 T+3 和 T+6 分两期等额解锁"
+        },
+        {
+          "source_id": "2108907068837265845",
+          "passage_id": "t8",
+          "quote": "➡️币安钱包活动的奖励在 TGE 时完全解锁"
+        },
+        {
+          "source_id": "2108908867447067064",
+          "passage_id": "t0",
+          "quote": "$AXIS TGE 时流通 16.5%。"
+        },
+        {
+          "source_id": "2108908867447067064",
+          "passage_id": "t1",
+          "quote": "团队 + 投资者 31.67% 份额有 12 个月锁定，TGE 0 解锁。"
+        },
+        {
+          "source_id": "2108905526902063599",
+          "passage_id": "t0",
+          "quote": "Introducing $AXIS, the native token of Axis Robotics."
+        },
+        {
+          "source_id": "2108909199023571066",
+          "passage_id": "t2",
+          "quote": "bn钱包的活动参与者全解锁，希望bn钱包也满意。🤣"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据0xBeyondLee转述，渣打Geoff Kendrick 9月30日首次覆盖ENA，目标价为2026年底0.42、2027年底1.10、2028年底2美元，核心假设是USDe在2028年底由约50亿扩至400亿。",
+      "author": "0xBeyondLee",
+      "id": "2108892139660967992",
+      "sources": [
+        {
+          "id": "2108892139660967992",
+          "author": "0xBeyondLee",
+          "url": "https://x.com/0xBeyondLee/status/2108892139660967992",
+          "published_at": "Sat Oct 10 12:07:22 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "渣打首次覆盖ENA目标价",
+      "new_information": "至2028年的分年目标价及USDe规模假设",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108892139660967992"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108892139660967992",
+          "passage_id": "q5",
+          "quote": "但就在 9 月 30 日，渣打银行全球数字资产研究主管 Geoff Kendrick 首次覆盖 ENA，给了一组有模型、有时间表的目标价："
+        },
+        {
+          "source_id": "2108892139660967992",
+          "passage_id": "q6",
+          "quote": "2026 年底 $0.42"
+        },
+        {
+          "source_id": "2108892139660967992",
+          "passage_id": "q7",
+          "quote": "2027 年底 $1.10"
+        },
+        {
+          "source_id": "2108892139660967992",
+          "passage_id": "q8",
+          "quote": "2028 年底 $2"
+        },
+        {
+          "source_id": "2108892139660967992",
+          "passage_id": "q12",
+          "quote": "1/ USDe 还要做大，渣打看到 2028 年底从约 50 亿扩到 400 亿，大约 8 倍，Ethena 已经是全球第四大稳定币发行方"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Aerodrome与Velodrome合并定于10月21日，届时美东时间晚8点停止旧代币排放。流动性需迁至Aero池才能继续获得奖励，持仓不会自动转换。",
+      "author": "DefiantNews",
+      "id": "2108674616403366110",
+      "sources": [
+        {
+          "id": "2108674616403366110",
+          "author": "DefiantNews",
+          "url": "https://x.com/DefiantNews/status/2108674616403366110",
+          "published_at": "Fri Oct 09 21:43:00 +0000 2026"
+        }
+      ],
+      "icon": "✈️",
+      "resonance": false,
+      "event": "Aero合并日期与迁移规则",
+      "new_information": "10/21停止旧排放，流动性需手动迁移",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108674616403366110"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108674616403366110",
+          "passage_id": "t0",
+          "quote": "AERODROME–VELODROME MERGER SET FOR OCT. 21"
+        },
+        {
+          "source_id": "2108674616403366110",
+          "passage_id": "t1",
+          "quote": "@AerodromeFi and Velodrome will stop legacy token emissions at 8 p.m. ET. Liquidity must move to Aero pools to keep earning token rewards; holdings will not convert automatically."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "韩国FSC委员长李亿远在国会称，推进加密交易所大股东持股比例限制“绝非受外部授意”，主因是交易所正由申报制转为牌照许可制，需具备相应公共性与责任。",
+      "author": "wublockchain12",
+      "id": "2108887650601959511",
+      "sources": [
+        {
+          "id": "2108887650601959511",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2108887650601959511",
+          "published_at": "Sat Oct 10 11:49:31 +0000 2026"
+        }
+      ],
+      "icon": "🇰🇷",
+      "resonance": false,
+      "event": "韩国FSC交易所大股东持股限制",
+      "new_information": "持股限制的理由是交易所转向牌照许可制",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108887650601959511"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108887650601959511",
+          "passage_id": "t0",
+          "quote": "据韩联社报道，韩国金融委员会（FSC）委员长李亿远在国会国政监查中表示，就推进虚拟资产交易所主要股东持股比例限制一事回应质询，明确表示“这绝非受到任何外部人员的授意或指示”。主因是交易所正由申报制转为牌照许可制，需具备相匹配的公共性与责任。李亿远同时透露，跨部门针对《数字资产基本法》的协调磋商已进入最后收尾阶段，金融委将加快立法推进，并在兼顾韩元稳定币发展及国际监管趋势（如美欧标准）的前提下构建稳健合规的加密生态。https://t.co/788btavnmn"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Anza CEO在GitHub讨论中提议，把Solana区块计算上限从5000万CU分五步提高到1亿CU；配合200ms slot，每秒可达5亿CU。该提议仍处构想阶段，尚无SIMD和激活日期。",
+      "author": "toly",
+      "id": "2108907880019837316",
+      "sources": [
+        {
+          "id": "2108907880019837316",
+          "author": "toly",
+          "url": "https://x.com/toly/status/2108907880019837316",
+          "published_at": "Sat Oct 10 13:09:54 +0000 2026"
+        }
+      ],
+      "icon": "⚡",
+      "resonance": false,
+      "event": "Solana区块CU上限翻倍提议",
+      "new_information": "提议分五步从5000万升至1亿CU，尚无SIMD",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108907880019837316"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108907880019837316",
+          "passage_id": "q0",
+          "quote": "A day after Solana's 200ms slots went live, Anza CEO @bw_solana has proposed doubling how much work each block can hold."
+        },
+        {
+          "source_id": "2108907880019837316",
+          "passage_id": "q1",
+          "quote": "His post would raise the block compute limit from 50M to 100M compute units in five steps: 60M, 70M, 80M, 90M, 100M."
+        },
+        {
+          "source_id": "2108907880019837316",
+          "passage_id": "q2",
+          "quote": "By our arithmetic, a 100M block every 200ms allows 500M compute units per second, twice the ceiling Solana had before the slot-time cuts began."
+        },
+        {
+          "source_id": "2108907880019837316",
+          "passage_id": "q3",
+          "quote": "It is a GitHub discussion at the idea stage. No formal improvement proposal (SIMD) had been opened when we checked on October 10, and the post names no activation date."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "bread_解读Backpack设计称BP可随时间转换为股权，按此BP约10亿美元估值对应约30亿美元股权价值。Armani回应称转换时销毁代币在考虑之列，目标是让代币在IPO后继续存续。",
+      "author": "bread_",
+      "id": "2108903886820098144",
+      "sources": [
+        {
+          "id": "2108903886820098144",
+          "author": "bread_",
+          "url": "https://x.com/bread_/status/2108903886820098144",
+          "published_at": "Sat Oct 10 12:54:02 +0000 2026"
+        },
+        {
+          "id": "2108905560292888853",
+          "author": "armaniferrante",
+          "url": "https://x.com/armaniferrante/status/2108905560292888853",
+          "published_at": "Sat Oct 10 13:00:41 +0000 2026"
+        }
+      ],
+      "icon": "🎒",
+      "resonance": false,
+      "event": "Backpack代币转股估值",
+      "new_information": "推算BP对应约3倍股权价值，转换时销毁在考虑中",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108903886820098144",
+        "2108905560292888853"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108903886820098144",
+          "passage_id": "t1",
+          "quote": "Both equity and tokens exist transparently, with the ability to convert tokens for equity over time (where enterprise value is driven)."
+        },
+        {
+          "source_id": "2108903886820098144",
+          "passage_id": "t2",
+          "quote": "Token value prop is a liquid vehicle for trading on enterprise value (at least until ipo) and by my read implies a ~3x enterprise value against token FDV. Also as incentive mechanism for using the actual platform."
+        },
+        {
+          "source_id": "2108903886820098144",
+          "passage_id": "t4",
+          "quote": "So $BP trading at ~$1B implies a ~$3B Backpack equity value based on conversion."
+        },
+        {
+          "source_id": "2108903886820098144",
+          "passage_id": "t5",
+          "quote": "One question Armani: when the tokens are given to foundation on conversion are there plans to just removed from supply?"
+        },
+        {
+          "source_id": "2108905560292888853",
+          "passage_id": "t0",
+          "quote": "Burning on conversion is definitely on the table but we’re going to stay open to do whatever is optimal. The intention is for the token to live on and continue to grow beyond an IPO. Imagine Arc or the inevitable Base token but issued to the most active users before the actual IPOs. The beauty of the business is there’s an infinite number of things for us to"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Rocky_Bitcoin称Polymarket显示民主党夺众议院概率91%；过去5次总统所属党失去众议院时美债收益率平均降78基点，他据此看好BTC，但承认样本少、仍以核心通胀为重点。",
+      "author": "Rocky_Bitcoin",
+      "id": "2108909592721908214",
+      "sources": [
+        {
+          "id": "2108909592721908214",
+          "author": "Rocky_Bitcoin",
+          "url": "https://x.com/Rocky_Bitcoin/status/2108909592721908214",
+          "published_at": "Sat Oct 10 13:16:43 +0000 2026"
+        }
+      ],
+      "icon": "🗳️",
+      "resonance": false,
+      "event": "中期选举与美债收益率",
+      "new_information": "5次历史样本平均降78基点，作者据此看好BTC",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108909592721908214"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108909592721908214",
+          "passage_id": "t3",
+          "quote": "目前Polymarket上，民主党夺得众议员的概率为91%，随着中期选举越来越近，这么高的概率，市场其实已经开始计价！如👇图1。"
+        },
+        {
+          "source_id": "2108909592721908214",
+          "passage_id": "t4",
+          "quote": "图2数据显示，过去16次中期选举中，其中有5次总统所属党派失去了众议院，分别在1994、2006、2010、2018 和 2022 年，五次收益率变化分别为－208、－33、－63、－126、＋40个基点，平均下降 78个基点，中位数下降 63个基点。"
+        },
+        {
+          "source_id": "2108909592721908214",
+          "passage_id": "t6",
+          "quote": "以现在10年期美债收益率5.24%作为参照，机械套用历史平均下降78个基点的数据，会得到约 4.46%，一旦市场利率走低，#BTC 上冲到10万，应该指日可待！"
+        },
+        {
+          "source_id": "2108909592721908214",
+          "passage_id": "t7",
+          "quote": "但整体来说，依旧还是重点观察美国核心通胀的数据，这个仅仅作为一个样本参考，毕竟5次的样本参数，也不太足以说明问题，但保持乐观！"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据zerokn0wledge_统计，ECDSA恐慌一周内STRK因Starknet考虑转L1抗量子涨65%，QRL涨41%，已上线后量子签名的NEAR涨12%，BTC、ETH、ZEC下跌；作者称公告比已交付代码更受追捧。",
+      "author": "zerokn0wledge_",
+      "id": "2108900295317356795",
+      "sources": [
+        {
+          "id": "2108900295317356795",
+          "author": "zerokn0wledge_",
+          "url": "https://x.com/zerokn0wledge_/status/2108900295317356795",
+          "published_at": "Sat Oct 10 12:39:46 +0000 2026"
+        }
+      ],
+      "icon": "🧮",
+      "resonance": false,
+      "event": "ECDSA恐慌下的币价分化",
+      "new_information": "STRK周涨65%、QRL涨41%，BTC/ETH/ZEC下跌",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108900295317356795"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108900295317356795",
+          "passage_id": "t41",
+          "quote": "- $STRK is up 65% in a week. The catalyst was Starknet saying it is \"actively considering becoming an L1\" to be fully quantum-resistant by 2027. There is no proposal and no vote yet."
+        },
+        {
+          "source_id": "2108900295317356795",
+          "passage_id": "t42",
+          "quote": "- $QRL, hash-based since 2018, is up 41%."
+        },
+        {
+          "source_id": "2108900295317356795",
+          "passage_id": "t43",
+          "quote": "- $NEAR, which actually has post-quantum signing live on mainnet, is up 12%."
+        },
+        {
+          "source_id": "2108900295317356795",
+          "passage_id": "t44",
+          "quote": "- BTC, ETH and ZEC are all down."
+        },
+        {
+          "source_id": "2108900295317356795",
+          "passage_id": "t45",
+          "quote": "Announcements got paid more than shipped code tho for now."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Vitalik Buterin在Network State Conference上称，按当前目标，若没有AI，Lean Ethereum路线图可能要到2040甚至2050年才能完成；AI已参与大量研究与编码，显著加快了进度。",
+      "author": "WuBlockchain",
+      "id": "2108893481259458967",
+      "sources": [
+        {
+          "id": "2108893481259458967",
+          "author": "WuBlockchain",
+          "url": "https://x.com/WuBlockchain/status/2108893481259458967",
+          "published_at": "Sat Oct 10 12:12:41 +0000 2026"
+        },
+        {
+          "id": "2108893226300330071",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2108893226300330071",
+          "published_at": "Sat Oct 10 12:11:41 +0000 2026"
+        }
+      ],
+      "icon": "🧠",
+      "resonance": false,
+      "event": "Vitalik谈AI加速Lean Ethereum",
+      "new_information": "称无AI路线图或拖至2040-2050年",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108893481259458967",
+        "2108893226300330071"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108893481259458967",
+          "passage_id": "t1",
+          "quote": "Ethereum co-founder Vitalik Buterin @VitalikButerin   said in an October 9 interview with Balaji Srinivasan @balajis   at the Network State Conference 2026 that AI has become an important factor in advancing the Lean Ethereum roadmap."
+        },
+        {
+          "source_id": "2108893481259458967",
+          "passage_id": "t2",
+          "quote": "Buterin said that given the roadmap's current goals and level of ambition, without AI, the work might have taken until 2040 or even 2050 to complete. He added that AI is now contributing to a significant amount of research and coding, substantially accelerating progress on the roadmap."
+        },
+        {
+          "source_id": "2108893226300330071",
+          "passage_id": "t2",
+          "quote": "Vitalik 称，按照目前路线图的目标和雄心，如果没有 AI，相关工作可能需要一直持续到 2040 年甚至 2050 年。如今 AI 已经能够参与大量研究与代码开发，使整个路线图的推进速度显著加快。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据Andrew Cuomo在OKX活动上表示，OKX与NYSE母公司ICE合资的代币化股票交易平台约30天后上线。",
+      "author": "CoinDesk",
+      "id": "2108583031221158051",
+      "sources": [
+        {
+          "id": "2108583031221158051",
+          "author": "CoinDesk",
+          "url": "https://x.com/CoinDesk/status/2108583031221158051",
+          "published_at": "Fri Oct 09 15:39:04 +0000 2026"
+        }
+      ],
+      "icon": "🏛️",
+      "resonance": false,
+      "event": "OKX与ICE代币化股票平台",
+      "new_information": "预计约30天后上线",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108583031221158051"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108583031221158051",
+          "passage_id": "t0",
+          "quote": "CUOMO: OKX’s tokenized stock trading venue with NYSE parent ICE to go live in about 30 days."
+        },
+        {
+          "source_id": "2108583031221158051",
+          "passage_id": "t1",
+          "quote": "Former NY Gov. @andrewcuomo called the joint venture \"a marriage of the titans.\" Onstage at @okx Now."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "10月2-8日发射台毕业前成交额环比：Robinhood Chain的Pons V2降47.8%至9590万美元，Solana的pump.fun升10.5%至12.4亿美元，BSC的Flap等两平台升20.6%至1.729亿美元。",
+      "author": "Hyperbotai",
+      "id": "2108905929005510657",
+      "sources": [
+        {
+          "id": "2108905929005510657",
+          "author": "Hyperbotai",
+          "url": "https://x.com/Hyperbotai/status/2108905929005510657",
+          "published_at": "Sat Oct 10 13:02:09 +0000 2026"
+        }
+      ],
+      "icon": "🚀",
+      "resonance": false,
+      "event": "三链MEME发射台周成交",
+      "new_information": "Pons V2成交近腰斩，pump.fun与BSC平台增长",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108905929005510657"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108905929005510657",
+          "passage_id": "t2",
+          "quote": "Bonding-curve trading volume for Oct. 2–8, compared with the previous seven days:"
+        },
+        {
+          "source_id": "2108905929005510657",
+          "passage_id": "t3",
+          "quote": "• Robinhood Chain — Pons V2: $95.9M, down 47.8%"
+        },
+        {
+          "source_id": "2108905929005510657",
+          "passage_id": "t4",
+          "quote": "• Solana — https://t.co/aLReWscgcK: $1.24B, up 10.5%"
+        },
+        {
+          "source_id": "2108905929005510657",
+          "passage_id": "t5",
+          "quote": "• BSC — Flap + https://t.co/MWPBd82Pi5: $172.9M, up 20.6%"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据TechFlowPost统计，10/10一周年之际，市值前300代币中仅约10个高于去年10月高点。ZEC涨392%领先，其后为JST、QNT、HYPE（+95%）、NEAR、XMR等，集中在隐私、真实收入和老牌DeFi方向。",
+      "author": "TechFlowPost",
+      "id": "2108884686835753399",
+      "sources": [
+        {
+          "id": "2108884686835753399",
+          "author": "TechFlowPost",
+          "url": "https://x.com/TechFlowPost/status/2108884686835753399",
+          "published_at": "Sat Oct 10 11:37:45 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "10/10一周年幸存代币",
+      "new_information": "前300中仅约10个高于去年高点，ZEC涨392%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108884686835753399"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t0",
+          "quote": "截止到今天，加密市场市值排行前300的代币里，只有10个左右还站在去年10月10日高点之上。"
+        },
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t2",
+          "quote": "1 Zcash（ $ZEC ）+392.2%"
+        },
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t4",
+          "quote": "2 JUST（ just:native）+336.3%"
+        },
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t6",
+          "quote": "3 Quant（ $QNT ）+149.2%"
+        },
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t9",
+          "quote": "4 Hyperliquid（$HYPE）+95.3%"
+        },
+        {
+          "source_id": "2108884686835753399",
+          "passage_id": "t22",
+          "quote": "一年过去，还能回来的基本就剩隐私、企业级互操作、真实收入驱动的 DEX、AI 基础设施和老牌 DeFi 这几条线了。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "StarkWare的Stwo证明器在Pixel 11上用51秒、2.41GiB内存为一笔真实Starknet主网交易生成完整STARK证明；评测机峰值内存两周内由13.9GiB降至2.1GiB。作者称这可让隐私交易证明留在手机端。",
+      "author": "EliBenSasson",
+      "id": "2108903276603449845",
+      "sources": [
+        {
+          "id": "2108903276603449845",
+          "author": "EliBenSasson",
+          "url": "https://x.com/EliBenSasson/status/2108903276603449845",
+          "published_at": "Sat Oct 10 12:51:37 +0000 2026"
+        }
+      ],
+      "icon": "📱",
+      "resonance": false,
+      "event": "Stwo手机端生成STARK证明",
+      "new_information": "手机51秒出证，评测机峰值内存降至2.1GiB",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108903276603449845"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108903276603449845",
+          "passage_id": "t0",
+          "quote": "A full STARK proof for a real Starknet mainnet transaction, generated on a Pixel 11 in just 51 seconds, using 2.41 GiB of RAM."
+        },
+        {
+          "source_id": "2108903276603449845",
+          "passage_id": "q2",
+          "quote": "The question was how small and fast @StarkWareLtd Stwo prover could get. In under two weeks, peak memory for a full proof on our evaluator fell from 13.9 GiB to 2.1 GiB without dropping below the original speed"
+        },
+        {
+          "source_id": "2108903276603449845",
+          "passage_id": "q3",
+          "quote": "This is useful for a lot of stuff for here think about privacy. In the private transaction flow proving still happens on a server that can see who you pay and how much. A phone sized prover lets those details stay on the phone"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "纳斯达克上市公司SVRN收购NEAR的RPC服务商FastNEAR（月请求超35亿次），FastNEAR联合创始人Evgeny Kuzyakov与Mike Purvis加入SVRN。",
+      "author": "MSBIntel",
+      "id": "2108845000855597420",
+      "sources": [
+        {
+          "id": "2108845000855597420",
+          "author": "MSBIntel",
+          "url": "https://x.com/MSBIntel/status/2108845000855597420",
+          "published_at": "Sat Oct 10 09:00:03 +0000 2026"
+        }
+      ],
+      "icon": "🔗",
+      "resonance": false,
+      "event": "SVRN收购FastNEAR",
+      "new_information": "收购月请求超35亿次的NEAR RPC商",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108845000855597420"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108845000855597420",
+          "passage_id": "t0",
+          "quote": "Nasdaq-listed SVRN acquired FastNEAR, the RPC provider that serves more than 3.5 billion requests a month for wallets and apps on NEAR. FastNEAR co-founders Evgeny Kuzyakov and Mike Purvis join SVRN."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "中共中央、国务院发布关于发展新质生产力的意见，提出建设全国一体化算力网与国家区块链网络，并健全数据产权制度和数据跨境流动机制。",
+      "author": "ChainCatcher_",
+      "id": "2108886470417371627",
+      "sources": [
+        {
+          "id": "2108886470417371627",
+          "author": "ChainCatcher_",
+          "url": "https://x.com/ChainCatcher_/status/2108886470417371627",
+          "published_at": "Sat Oct 10 11:44:50 +0000 2026"
+        }
+      ],
+      "icon": "🇨🇳",
+      "resonance": false,
+      "event": "国务院意见提国家区块链网络",
+      "new_information": "新质生产力意见纳入国家区块链网络建设",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108886470417371627"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108886470417371627",
+          "passage_id": "t1",
+          "quote": "据新华社 10 月 10 日报道，中共中央、国务院近日发布关于发展新质生产力的意见。"
+        },
+        {
+          "source_id": "2108886470417371627",
+          "passage_id": "t2",
+          "quote": "意见提出促进实体经济和数字经济深度融合，建设全国一体化算力网与国家区块链网络，健全数据产权归属认定、市场交易、权益分配和利益保护制度，实施数据要素试点示范，优化国家数据基础设施布局建设与运营。"
+        },
+        {
+          "source_id": "2108886470417371627",
+          "passage_id": "t3",
+          "quote": "意见还提出，健全开放、共享、安全的数据要素市场，探索数据跨境高效流动机制，完善数字产业化和产业数字化政策体系，打造具有国际竞争力的数字产业集群，并建立未来产业投入增长和风险分担机制，壮大投资于前沿硬科技的长期资本。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "USDai一位创始人以tradexyz与Hyperliquid为例，提出公司持续增持网络代币而非回购销毁的“Commit & Compound”结构；Daveeemor总结称USDai团队专注CHIP价值捕获，具体方式未定。",
+      "author": "Daveeemor",
+      "id": "2108908170772975841",
+      "sources": [
+        {
+          "id": "2108908170772975841",
+          "author": "Daveeemor",
+          "url": "https://x.com/Daveeemor/status/2108908170772975841",
+          "published_at": "Sat Oct 10 13:11:04 +0000 2026"
+        }
+      ],
+      "icon": "🪐",
+      "resonance": false,
+      "event": "USDai谈CHIP价值捕获",
+      "new_information": "提出公司增持网络代币的模式，CHIP方案待定",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108908170772975841"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "t0",
+          "quote": "TLDR is @USDai_Official team is fully focused on value accrual to $CHIP, a matter of when not if."
+        },
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "t1",
+          "quote": "What that looks like is still unclear but any innovation will imo be rewarded by the market similar to @AskVenice introducing inference-as-an-asset via $VVV staking for $DIEM"
+        },
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "q2",
+          "quote": "The reason was more selfish: I wanted to understand which models work when your business has to interact with the \"real world,\" namely for how we want to take  @usdai_official for the most alignemnt"
+        },
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "q3",
+          "quote": "As a founder, I’ve had doors literally shut on my face when we started because we’re “crypto” (literally left in the waiting room like a tv show). I still believe tokenization is one of the most important technologies we have today. But the institutions we need to work with often want a equity counterparty, a board, and a contract. You just wont get around"
+        },
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "q10",
+          "quote": "could just invest in this equity, as it is not burning the HYPE it buys, but is increasing its share of it. so instead of buyback-n-burn, its closer to commit-n-compound."
+        },
+        {
+          "source_id": "2108908170772975841",
+          "passage_id": "q43",
+          "quote": "It has changed how I’m thinking about USDAI and CHIP. More on that in the next post"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Illia称NEAR交易网络刚加入股票，覆盖Nasdaq与NYSE上市股，可在交易所买入后代币化送至用户钱包；他将NEAR定位为“market of markets”。",
+      "author": "ilblackdragon",
+      "id": "2108866378740662684",
+      "sources": [
+        {
+          "id": "2108866378740662684",
+          "author": "ilblackdragon",
+          "url": "https://x.com/ilblackdragon/status/2108866378740662684",
+          "published_at": "Sat Oct 10 10:25:00 +0000 2026"
+        }
+      ],
+      "icon": "🌐",
+      "resonance": false,
+      "event": "NEAR Intents接入美股",
+      "new_information": "Illia称已加入Nasdaq与NYSE股票",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108866378740662684"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108866378740662684",
+          "passage_id": "t0",
+          "quote": "Market of markets: one account, trade anything, go confidential on near(dot)com with @near_intents."
+        },
+        {
+          "source_id": "2108866378740662684",
+          "passage_id": "q1",
+          "quote": "He says NEAR's trading network can now hold NYSE and Nasdaq-listed stocks too."
+        },
+        {
+          "source_id": "2108866378740662684",
+          "passage_id": "q2",
+          "quote": "\"We just added stocks.\""
+        },
+        {
+          "source_id": "2108866378740662684",
+          "passage_id": "q3",
+          "quote": "\"You actually now have Nasdaq and New York Stock Exchange.\""
+        },
+        {
+          "source_id": "2108866378740662684",
+          "passage_id": "q4",
+          "quote": "\"I'll buy it on Nasdaq, tokenize it, and bring it to your wallet.\""
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Chamath在All-In节目中称，有人反编译并开源了Adobe的五大核心产品；加上软件普遍走向headless、可经MCP接入agent，他认为软件IP的价值已近乎归零。",
+      "author": "theallinpod",
+      "id": "2108897316086095923",
+      "sources": [
+        {
+          "id": "2108897316086095923",
+          "author": "theallinpod",
+          "url": "https://x.com/theallinpod/status/2108897316086095923",
+          "published_at": "Sat Oct 10 12:27:56 +0000 2026"
+        },
+        {
+          "id": "2108761607857992104",
+          "author": "firesidealpha",
+          "url": "https://x.com/firesidealpha/status/2108761607857992104",
+          "published_at": "Sat Oct 10 03:28:40 +0000 2026"
+        }
+      ],
+      "icon": "💾",
+      "resonance": false,
+      "event": "Chamath称软件IP价值归零",
+      "new_information": "以Adobe产品被反编译开源为例",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108897316086095923",
+        "2108761607857992104"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108897316086095923",
+          "passage_id": "t1",
+          "quote": "“I think that IP and software was effectively rendered worthless two days ago."
+        },
+        {
+          "source_id": "2108897316086095923",
+          "passage_id": "t3",
+          "quote": "Adobe has five very, very important products in their product suite, and these folks basically decompiled it, distilled it, and published open source versions of these things."
+        },
+        {
+          "source_id": "2108897316086095923",
+          "passage_id": "t5",
+          "quote": "If you think about it, when everything is headless, so when Elon makes his services headless, Benioff made Salesforce headless a few months earlier, when all of these things are headless and you can wrap them in agent tools and you can connect them via MCP to other experiences, the value of IP no longer exists in software. It doesn't exist.”"
+        },
+        {
+          "source_id": "2108761607857992104",
+          "passage_id": "t3",
+          "quote": "\"And these folks decompiled it, distilled it, and published open source versions of these things. And Rust, yeah. And I was so shocked, because I was like, hold on a second, these are like profound products that have existed and have had moats for years, and now they're just open source versions.\""
+        },
+        {
+          "source_id": "2108761607857992104",
+          "passage_id": "t6",
+          "quote": "\"I think that IP and software was effectively rendered worthless two days ago.\""
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "coinbureau称中国开发者一个月内发布16个新AI模型，由DeepSeek和小米领跑，DeepSeek接近一轮120亿美元融资；作者认为廉价开源模型或压缩美国AI巨头的定价权。",
+      "author": "coinbureau",
+      "id": "2108890300244791777",
+      "sources": [
+        {
+          "id": "2108890300244791777",
+          "author": "coinbureau",
+          "url": "https://x.com/coinbureau/status/2108890300244791777",
+          "published_at": "Sat Oct 10 12:00:03 +0000 2026"
+        }
+      ],
+      "icon": "🐉",
+      "resonance": false,
+      "event": "中国AI模型密集发布",
+      "new_information": "一个月内发布16个新模型，DeepSeek接近120亿美元融资",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2108890300244791777"
+      ],
+      "evidence": [
+        {
+          "source_id": "2108890300244791777",
+          "passage_id": "t1",
+          "quote": "Chinese developers unleashed 16 NEW AI models in just ONE MONTH, turning up the AI race heat on U.S. AI giants OpenAI, Anthropic, and Google."
+        },
+        {
+          "source_id": "2108890300244791777",
+          "passage_id": "t2",
+          "quote": "Led by DeepSeek and Xiaomi, Chinese firms are accelerating development and pushing cheaper, open-weight models into the market."
+        },
+        {
+          "source_id": "2108890300244791777",
+          "passage_id": "t7",
+          "quote": "Moonshot AI reportedly reached a $50 BILLION valuation, while DeepSeek is nearing a $12 BILLION funding round."
+        },
+        {
+          "source_id": "2108890300244791777",
+          "passage_id": "t8",
+          "quote": "China's cheaper, increasingly capable AI models could UNDERCUT U.S. giants, putting pressure on their pricing power and profit margins."
+        }
+      ],
+      "editorial_version": 2
+    }
+  ],
+  "last_updated": "2026-10-10"
+}

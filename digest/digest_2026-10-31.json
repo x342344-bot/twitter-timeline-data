@@ -1,0 +1,2096 @@
+{
+  "items": [
+    {
+      "category": "🔴 立即关注",
+      "summary": "Flap 官网遭域名劫持后已启用备用域名，旧域名仍勿访问或签名。团队称合约、金库及锁仓资产未受影响，并承诺全额赔偿假官网恶意交互造成的损失，受影响用户应联系团队。",
+      "author": "LamIsRealGoat",
+      "id": "2116406215639187961",
+      "sources": [
+        {
+          "id": "2116406215639187961",
+          "author": "LamIsRealGoat",
+          "url": "https://x.com/LamIsRealGoat/status/2116406215639187961",
+          "published_at": "Sat Oct 31 05:45:37 +0000 2026"
+        }
+      ],
+      "icon": "🚨",
+      "resonance": false,
+      "event": "Flap域名劫持后迁站并承诺赔付",
+      "new_information": "已启用备用域名，旧站仍有风险，并公布损失全额赔付承诺",
+      "urgency_reason": "旧域名尚未完成安全验证，继续连接钱包或签名可能导致资产损失；受影响用户可联系团队处理。",
+      "attention_source_ids": [
+        "2116406215639187961"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q6",
+          "quote": "平台内所有锁仓资产及金库（Vault）资金均安全，相关智能合约未受到此次攻击影响。用户钱包内的资产不会因为此次域名劫持而自动受到影响。"
+        },
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q8",
+          "quote": "如果有用户在事件发生期间访问了被劫持的假官网，并因连接钱包及后续恶意交互而遭受资产损失，Flap 将承担相应损失并提供全额赔偿。"
+        },
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q9",
+          "quote": "4.新域名已启用"
+        },
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q10",
+          "quote": "为保障用户正常使用，我们已将网站升级迁移至安全性更高的新域名："
+        },
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q12",
+          "quote": "目前我们正在与域名上游供应商https://t.co/EuR3NowSlu 交涉处理，尽快排除风险并恢复https://t.co/rO8XyaX4Ev域名的正常使用。请大家通过上述备用域名访问平台，暂时不要访问 https://t.co/rO8XyaX4Ev 或在该域名下进行任何钱包交互。"
+        },
+        {
+          "source_id": "2116406215639187961",
+          "passage_id": "q14",
+          "quote": "本次受到影响的用户请私信我或者联系Flap团队，我们会全力协助大家解决问题 TG：@I0ene 感谢大家的支持和理解🙏"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Kintsu确认网站遭DNS劫持，提醒用户勿访问或连接钱包；建议自10月31日约00:00 UTC起曾连接钱包或签名的用户撤销授权并转移资金，网站恢复安全后将另行公告。",
+      "author": "WuBlockchain",
+      "id": "2116384278267478430",
+      "sources": [
+        {
+          "id": "2116384278267478430",
+          "author": "WuBlockchain",
+          "url": "https://x.com/WuBlockchain/status/2116384278267478430",
+          "published_at": "Sat Oct 31 04:18:27 +0000 2026"
+        }
+      ],
+      "icon": "🛑",
+      "resonance": false,
+      "event": "Kintsu确认DNS劫持并发布用户处置要求",
+      "new_information": "Kintsu公布需处置的交互时间范围，建议相关用户撤销授权并转移资金。",
+      "urgency_reason": "网站尚未宣布恢复安全，指定时间范围内连接钱包或签名的用户需按项目建议撤销授权并转移资金。",
+      "attention_source_ids": [
+        "2116384278267478430"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116384278267478430",
+          "passage_id": "t2",
+          "quote": "Flap and Kintsu have confirmed DNS hijacks affecting their websites, warning users against visiting, connecting wallets, or signing transactions. Flap founder Cedric said users who had previously connected to the legitimate website were unaffected. The risk concerns users who visited the malicious site and connected wallets or signed approvals in the tens of"
+        },
+        {
+          "source_id": "2116384278267478430",
+          "passage_id": "t3",
+          "quote": "minutes before the announcement. Kintsu advised users who connected wallets or signed anything since approximately 00:00 UTC on October 31 to revoke approvals and move funds. Both projects said they would announce when their websites are safe to use."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Binance 对 OKX 的 PEPE 溢价快照约67基点，ENA约24基点。BitHappy建议仅用两所已有库存，在 Binance 卖、OKX买来锁差，不为套利新充值；单边持仓不算对锁。价差随提现恢复可能收窄，第三方数据不能证明买家就是 Binance，下单须核实时价。",
+      "author": "BitHappy",
+      "id": "2116385143837593602",
+      "sources": [
+        {
+          "id": "2116385143837593602",
+          "author": "BitHappy",
+          "url": "https://x.com/BitHappy/status/2116385143837593602",
+          "published_at": "Sat Oct 31 04:21:53 +0000 2026"
+        }
+      ],
+      "icon": "⚖️",
+      "resonance": false,
+      "event": "Binance与OKX现货库存套利",
+      "new_information": "新增跨所溢价快照及双边库存锁差方法，区别于此前链上ETH套利",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116385143837593602"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "q1",
+          "quote": "Since the hack, Binance trades at a premium to OKX on the tokens the attacker reportedly sold: PEPE +67 bps, ENA +24, UNI +17, WLD +17. Before, the gap was under 3 bps on all 13 tokens we track."
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "q3",
+          "quote": "Binance says it is buying the last 20% of losses \"through market and OTC\". The gap fits that demand. Public data can't show who is buying"
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "t18",
+          "quote": "现在提币没完全恢复，搬砖的币进不来、出不去，价差才挂得住。所以这个价差的寿命，很大程度上绑在提现恢复的节奏上。"
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "t20",
+          "quote": "1/ 两边本来就有库存：在币安卖、在 OKX 买回，不用转账，就能把价差锁住，等恢复后再慢慢平衡库存；"
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "t21",
+          "quote": "2/ 只有一边有货：做不了真正的对锁，只是在赌方向，这不算搬砖；"
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "t23",
+          "quote": "个人认为最好的取舍是：只用现有库存锁价差，不为它新充值进币安。"
+        },
+        {
+          "source_id": "2116385143837593602",
+          "passage_id": "t32",
+          "quote": "3/ 基点数是快照，盘口随时在变，下单前以实时价格为准。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "SF Compute的Evan Conrad认为，算力近乎全额预付款正使VC承担低效资本风险。他建议基金持有算力、以GPU时数换股权，创业失败仍保留资产残值；被投企业则应考虑浮动成本加抽成定价，或可中断服务，避免固定售价与浮动算力成本错配。",
+      "author": "evanjconrad",
+      "id": "2116381416074449224",
+      "sources": [
+        {
+          "id": "2116381416074449224",
+          "author": "evanjconrad",
+          "url": "https://x.com/evanjconrad/status/2116381416074449224",
+          "published_at": "Sat Oct 31 04:07:04 +0000 2026"
+        }
+      ],
+      "icon": "🏗️",
+      "resonance": false,
+      "event": "算力信用紧缩下的投资结构",
+      "new_information": "提出VC持有算力换股权，以及企业浮动定价和可中断服务的应对框架",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116381416074449224"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t1",
+          "quote": "right now you are being asked for a near 100% prepayment because neither you nor the cloud is considered credit worthy, and so nobody can get debt. As ai scales, we are asking the credit markets to take on a massive single sector deployment of capital. More money deployed, more scared everyone gets."
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t6",
+          "quote": "the “market” is working on solving it. We know, because we are the market, and we’re working on it. sfcompute is working on ways of firming up the collateral of the loans, which makes it safer to lend to a startup."
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t10",
+          "quote": "first, venture firms need to understand that they are in the compute business now and deploying capital to pay for a 100% prepayment for 10 startups where 6 of them die and 4 of them make 50% margins on that capital is basically locking in non-venture returns. many funds, via low understanding of the space, are wrecking their funds."
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t11",
+          "quote": "there’s an economic solution for vc’s and it is owning the compute and trading equity for gpu/hrs. If the company dies, you keep the residual value. Each of you are looking to capture the next anthropic or openai, but the only way these companies scaled was by trading compute for equity."
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t14",
+          "quote": "The second is to design your business model to support variable priced tokens and compute. As the financial ecosystem builds around compute, you will be able to trade “lower up front payments” for “variably priced compute or tokens”. Your business will get tailwinds from the infra under you if you setup your business model such that YOUR customers have"
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t15",
+          "quote": "variable prices and you’re just adding a % take rate on top of the underlying floating price. Every year, you will become more and more capital efficient. The economic winners in ai & inference are firms that make lower and lower margin every year, but become more capital efficient & scale faster every year, making their gross profit increase."
+        },
+        {
+          "source_id": "2116381416074449224",
+          "passage_id": "t16",
+          "quote": "The third option is asynchronous or interrupted products. If you have a variable cogs, but a fixed rate card for your customers, it can’t have 100% availability or you’ll go bankrupt. But it is totally possible to design your product such that customers like this."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "D2 Finance开放d2HYPE新周期存款，11月2日开始交易、12月18日结束，容量10万WHYPE，发布时已存入91,820。d2HYPE承载HYPE敞口，配套HYPE++交易资金费、基差和波动率偏离；团队强调共用止损框架，不预测回报。",
+      "author": "D2_Finance",
+      "id": "2116380106583068742",
+      "sources": [
+        {
+          "id": "2116380106583068742",
+          "author": "D2_Finance",
+          "url": "https://x.com/D2_Finance/status/2116380106583068742",
+          "published_at": "Sat Oct 31 04:01:52 +0000 2026"
+        }
+      ],
+      "icon": "🧮",
+      "resonance": false,
+      "event": "d2HYPE新周期开放存款",
+      "new_information": "公布11月2日至12月18日周期、容量及HYPE相对价值策略安排",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116380106583068742"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t2",
+          "quote": "d2HYPE runs alongside HYPE++ this epoch. d2HYPE carries the HYPE; HYPE++, our flagship, trades the relative value around it, funding, basis and vol dislocations, under the same risk framework and the same stop. The relative-value set across the HYPE complex is the richest we have seen since launch. We do not project returns; the book has now shown from both"
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t3",
+          "quote": "sides that the stop comes before the return."
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t4",
+          "quote": "📆d2HYPE New Epoch"
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t5",
+          "quote": "--> Deposits Open: Now"
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t6",
+          "quote": "--> Trading Starts: Nov 02"
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t7",
+          "quote": "-->  Epoch End: Friday 18 December"
+        },
+        {
+          "source_id": "2116380106583068742",
+          "passage_id": "t8",
+          "quote": "--> Cap 100,000 WHYPE (91,820 already in)"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "GANG回购笔数由295增至836，但累计金额仅从约3.15万增至3.23万美元。cfm_sol指出，频次增加不等于资金投入同步增长；其后续筛选重点是Bond实际采用率、MCP真实使用量，以及毕业项目一周至一月后的持续交易，而非仅看烧币或成交热度。",
+      "author": "cfm_sol",
+      "id": "2116095908479971737",
+      "sources": [
+        {
+          "id": "2116095908479971737",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2116095908479971737",
+          "published_at": "Fri Oct 30 09:12:34 +0000 2026"
+        }
+      ],
+      "icon": "🔬",
+      "resonance": false,
+      "event": "GANG回购增长质量与筛选指标",
+      "new_information": "回购笔数近三倍但金额仅增约800美元，新增产品采用及留存观察框架",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116095908479971737"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116095908479971737",
+          "passage_id": "t11",
+          "quote": "Looking at the data, during our previous analysis, the website showed 2,808 unique .ai Agent ID wallets that had bought at least one launchpad token. Cumulative burns stood at 5.11 million GANG, representing 0.511% of the total supply. Total buybacks were approximately $31,500 across 295 transactions, while the treasury held around $7,878."
+        },
+        {
+          "source_id": "2116095908479971737",
+          "passage_id": "t12",
+          "quote": "In the latest snapshot, the number of wallets had increased to 3,478, cumulative burns reached 7.41 million GANG, or 0.741% of the total supply, buyback transactions increased to 836, cumulative buybacks reached approximately $32,300, and the treasury grew to around $8,880. Wallet participation and token burns are both increasing. However, buyback"
+        },
+        {
+          "source_id": "2116095908479971737",
+          "passage_id": "t13",
+          "quote": "transactions have nearly tripled while the total buyback value has only increased by roughly $800. This suggests that buybacks are happening more frequently, but the actual amount of capital being deployed has not expanded at the same rate."
+        },
+        {
+          "source_id": "2116095908479971737",
+          "passage_id": "t15",
+          "quote": "However, trading volume is not the same as net capital inflow, and short-term turnover does not prove that these projects can survive over the long term. The next thing to watch is whether they can maintain liquidity and trading activity."
+        },
+        {
+          "source_id": "2116095908479971737",
+          "passage_id": "t20",
+          "quote": "The key metrics I will be watching are the actual adoption of Bond Mode, real MCP usage, and whether graduated projects can maintain meaningful trading activity one week or even one month after launch."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "ClawChat已取消邀请门槛并上线S2，可通过签到、发帖、互动及每日三次免费转盘积累EXP。Ciciyingying转述项目方多次明确积分关联未来奖励；战队赛仍属未官宣消息，不能当作已开放活动。",
+      "author": "Ciciyingying",
+      "id": "2116381959924641812",
+      "sources": [
+        {
+          "id": "2116381959924641812",
+          "author": "Ciciyingying",
+          "url": "https://x.com/Ciciyingying/status/2116381959924641812",
+          "published_at": "Sat Oct 31 04:09:14 +0000 2026"
+        }
+      ],
+      "icon": "🎯",
+      "resonance": false,
+      "event": "ClawChat开放注册并启动S2",
+      "new_information": "取消邀请限制，S2任务及免费转盘提供新的EXP积累路径",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116381959924641812"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "t1",
+          "quote": "clawchat 可以去搞下， 多次明确积分兑换未来奖励"
+        },
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "t2",
+          "quote": "之前需要邀请才能进，现在已经全部放开，尤其多号的可以随手做起来"
+        },
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "t3",
+          "quote": "刚刚上线S2，通过日常任务赚取，转盘活动等赚取EXP 积分"
+        },
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "t4",
+          "quote": "另外据说S2也有战队赛，项目方那边还没正式公布，可以报名参赛 ，做队长能赚大积分。"
+        },
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "t7",
+          "quote": "关于幸运转盘，一定要去玩，每天送三次免费机会，也可以做任务或者用EXP 兑换，可以赢取 SAT、EXP 和额外奖励。"
+        },
+        {
+          "source_id": "2116381959924641812",
+          "passage_id": "q17",
+          "quote": "2）日常任务：签到、发文、互动、群聊等都可赚取相应的EXP奖励"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "PravattaMarcelo分享11月27日到期、0.1 BTC规模的90K/95K看涨价差询价：Paradex为170.75美元，Derive为173.22美元，Deribit为199.80美元。他称Paradex零售期权免交易费，另两家需在报价外加收费用。",
+      "author": "fiddybps1",
+      "id": "2116378402693488665",
+      "sources": [
+        {
+          "id": "2116378402693488665",
+          "author": "fiddybps1",
+          "url": "https://x.com/fiddybps1/status/2116378402693488665",
+          "published_at": "Sat Oct 31 03:55:06 +0000 2026"
+        }
+      ],
+      "icon": "📐",
+      "resonance": false,
+      "event": "BTC看涨价差跨平台询价与手续费比较",
+      "new_information": "同一期权组合的三平台询价存在差异，引用者同时说明零售交易手续费条件。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116378402693488665"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "t0",
+          "quote": "the best part is that @PravattaMarcelo's comparison doesn't even include fees. this means even MOAR dollars back to you to trade."
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q0",
+          "quote": "I'm comparing quotes for a BTC $90K/$95K Call Spread, expiring November 27, with a 0.1 BTC position."
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q2",
+          "quote": "🥇 @paradex — $170.75"
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q3",
+          "quote": "🥈 Derive — $173.22"
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q4",
+          "quote": "🥉 Deribit — $199.80"
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q6",
+          "quote": "Paradex is the only platform among the three offering ZERO trading fees for retail options traders."
+        },
+        {
+          "source_id": "2116378402693488665",
+          "passage_id": "q7",
+          "quote": "Derive and Deribit charge trading fees on top of the quoted premiums."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Citadel Securities技术COO Jeff Maurone介绍逼空预警框架：合并散户股票流、期权流与机构空头持仓，每日为各标的计算突破概率。他称该工具曾提前提示Avis逼空；材料未披露模型细节或独立验证结果。",
+      "author": "TheQuantClips",
+      "id": "2116201255743918125",
+      "sources": [
+        {
+          "id": "2116201255743918125",
+          "author": "TheQuantClips",
+          "url": "https://x.com/TheQuantClips/status/2116201255743918125",
+          "published_at": "Fri Oct 30 16:11:11 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "Citadel逼空概率筛选框架",
+      "new_information": "披露整合股票期权零售流与机构空仓的每日预警方法及案例主张",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116201255743918125"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t1",
+          "quote": "Citadel Securities' Technology COO Jeff Maurone"
+        },
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t3",
+          "quote": "\"If you look at retail flows in equities and you look at retail flows in options and then you look at institutional short interest, there's enormous predictive signal around when an event like this could happen.\""
+        },
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t4",
+          "quote": "\"Rather than fulfilling data requests, we pre-compute these every day.\""
+        },
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t5",
+          "quote": "\"Breakout probability fuses all of these data into a view that gives investors every single day the likelihood of a short squeeze in a given symbol. We do it for every symbol, we do it every day.\""
+        },
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t6",
+          "quote": "\"Avis faced a short squeeze earlier this year.\""
+        },
+        {
+          "source_id": "2116201255743918125",
+          "passage_id": "t7",
+          "quote": "\"If you were paying attention to this tool, you clearly knew this was coming weeks in advance, and if you were particularly concerned about it, you could have known it months in advance to prepare.\""
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Balancer 团队10月30日结束常规工作，经历攻击、恢复与重组后进入收尾。清退仍按 BIP-928 继续，剩余步骤及提现信息将由官方更新，并非所有清退工作已完成。",
+      "author": "Marcus_Balancer",
+      "id": "2116260834947051775",
+      "sources": [
+        {
+          "id": "2116260834947051775",
+          "author": "Marcus_Balancer",
+          "url": "https://x.com/Marcus_Balancer/status/2116260834947051775",
+          "published_at": "Fri Oct 30 20:07:55 +0000 2026"
+        }
+      ],
+      "icon": "🏁",
+      "resonance": false,
+      "event": "Balancer团队结束常规工作",
+      "new_information": "团队最后常规工作日已结束，BIP-928清退和提现安排仍继续",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116260834947051775"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116260834947051775",
+          "passage_id": "t0",
+          "quote": "Today is the last regular working day for the @Balancer  team."
+        },
+        {
+          "source_id": "2116260834947051775",
+          "passage_id": "t3",
+          "quote": "The last year was especially difficult. The exploit hurt people who trusted Balancer, and the team went through the recovery, restructuring, and eventually the decision to wind down. Even after the end date was set, they continued doing the work needed to support users and partners."
+        },
+        {
+          "source_id": "2116260834947051775",
+          "passage_id": "t5",
+          "quote": "The winddown itself continues under BIP-928. For the remaining steps and withdrawal information, please follow the official Balancer updates."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "OKX 澄清被指“被盗”的1.72亿枚 USDT 转账属于内部资金划转。“未知钱包”只是监测平台尚未识别地址归属，并不等于被盗；平台表示愿协助补全地址标注。",
+      "author": "star_okx",
+      "id": "2116407487331172431",
+      "sources": [
+        {
+          "id": "2116407487331172431",
+          "author": "star_okx",
+          "url": "https://x.com/star_okx/status/2116407487331172431",
+          "published_at": "Sat Oct 31 05:50:40 +0000 2026"
+        }
+      ],
+      "icon": "🔎",
+      "resonance": false,
+      "event": "OKX澄清大额USDT转账传闻",
+      "new_information": "官方说明1.72亿枚USDT为内部划转，而非未知地址所暗示的盗窃",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116407487331172431"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116407487331172431",
+          "passage_id": "q0",
+          "quote": "我们注意到一些账号集中传播“OKX 被盗”的说法，依据是一笔从 OKX 转出至“未知钱包”的链上交易。我能理解对于流量和关注度的追求，但，这种罔顾事实、制造恐慌的行为，不仅误导用户，也损害整个行业的信任。"
+        },
+        {
+          "source_id": "2116407487331172431",
+          "passage_id": "q1",
+          "quote": " “未知钱包”意味着链上监测平台尚未识别该地址的归属，并不意味着资产被盗。这笔 1.72 亿枚 USDT 的转账是 OKX 自行进行的内部资金划转。我们此前也已通过同一媒体渠道发布澄清：https://t.co/lhw2uPdJsM"
+        },
+        {
+          "source_id": "2116407487331172431",
+          "passage_id": "q3",
+          "quote": "同时，也欢迎链上监测平台 @whale_alert 与我们联系。我们愿意提供相关地址信息，协助完善标注，减少因地址归属不明而产生的误解。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Kairos Research追踪称，Binance攻击者10月30日从Tron转出790万美元，其中650万美元经Chainflip换成以太坊上的ETH；首批入金被拒后重试成功，另有3.98亿TRX尚未移动。",
+      "author": "Kairos_Res",
+      "id": "2116379412430033331",
+      "sources": [
+        {
+          "id": "2116379412430033331",
+          "author": "Kairos_Res",
+          "url": "https://x.com/Kairos_Res/status/2116379412430033331",
+          "published_at": "Sat Oct 31 03:59:07 +0000 2026"
+        }
+      ],
+      "icon": "🔗",
+      "resonance": false,
+      "event": "Binance攻击者经Chainflip转移赃款",
+      "new_information": "已观测到790万美元离开Tron，披露Chainflip重试通过及剩余持仓",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116379412430033331"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116379412430033331",
+          "passage_id": "t0",
+          "quote": "hey @Chainflip the Binance attacker has used you to move $6.5M off Tron today"
+        },
+        {
+          "source_id": "2116379412430033331",
+          "passage_id": "t1",
+          "quote": "Since 10:59 AM ET the attacker has been sending USDT from fresh Tron accounts to Chainflip in $50K to $200K deposits, with ETH paid out on Ethereum. Your broker rejected the first deposits this morning; the attacker resent them and they went through."
+        },
+        {
+          "source_id": "2116379412430033331",
+          "passage_id": "t2",
+          "quote": "It runs in waves. The attacker releases 120M TRX (~$40M) into a dispersal wallet, swaps it for USDT on SunSwap, and sends it out through Chainflip and Tether’s USDT0 bridge ($1.4M). A second 120M TRX stash was released at 9:01 PM ET (tx bb05d43bfde6cb869448ad03bf06969e32cc7cd77252a78d41dd7f7c26dbf0b3), and $1.8M has gone to Chainflip since."
+        },
+        {
+          "source_id": "2116379412430033331",
+          "passage_id": "t3",
+          "quote": "Total off Tron today: $7.9M. The dispersal wallet TRBdWqHnDVSZCVGfgHdKFLQPirQcA2PRki still holds 83M TRX, and 398M TRX ($133M) in three accounts has not moved:"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "铠侠7–9月营业利润1.99万亿日元，10–12月指引为2万亿，低于分析师预期2.35万亿。公司称日元升值及数据中心产品出货持平构成制约，后者要到1–3月才放量。",
+      "author": "alanchen",
+      "id": "2116388695406182540",
+      "sources": [
+        {
+          "id": "2116388695406182540",
+          "author": "alanchen",
+          "url": "https://x.com/alanchen/status/2116388695406182540",
+          "published_at": "Sat Oct 31 04:36:00 +0000 2026"
+        }
+      ],
+      "icon": "💾",
+      "resonance": false,
+      "event": "铠侠下季营业利润指引低于预期",
+      "new_information": "10–12月营业利润指引低于分析师预期，公司解释汇率及数据中心产品出货限制。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116388695406182540"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116388695406182540",
+          "passage_id": "t0",
+          "quote": "铠侠 7–9 月一个季度的营业利润 1.99 万亿日元，是上一个财年全年（0.87 万亿）的 2.3 倍。$KXIAY"
+        },
+        {
+          "source_id": "2116388695406182540",
+          "passage_id": "t3",
+          "quote": "10–12 月指引持平：收入 2.5 万亿、营业利润 2.0 万亿，分析师原先预期 2.35 万亿。公司给的原因：日元升值吃掉约 550 亿；数据中心产品生产周期长，出货量和 7–9 月持平，1–3 月才放量；手机和 PC 的闪存涨价放缓，数据中心的还在涨。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Lookonchain称，发帖前8小时Ethena向Binance转入1.2863亿枚ENA，价值约2400万美元。转账发生在币安补购被盗资产期间，但来源未确认其属于回购交割。",
+      "author": "lookonchain",
+      "id": "2116372512867307947",
+      "sources": [
+        {
+          "id": "2116372512867307947",
+          "author": "lookonchain",
+          "url": "https://x.com/lookonchain/status/2116372512867307947",
+          "published_at": "Sat Oct 31 03:31:42 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "Ethena大额ENA转入Binance",
+      "new_information": "新增1.2863亿枚ENA入金记录，未确认是否属于币安回购交割。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116372512867307947"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116372512867307947",
+          "passage_id": "t0",
+          "quote": "Binance is buying back the stolen assets through market channels and OTC deals."
+        },
+        {
+          "source_id": "2116372512867307947",
+          "passage_id": "t1",
+          "quote": "Over the past 8 hours, Ethena(@ethena) has deposited 128.63M $ENA ($24M) into #Binance."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "AshCrypto称，截至发帖时，BlackRock等以太坊ETF在10月累计流出16.1亿美元，已创此类ETF成立以来最大月度流出纪录。",
+      "author": "AshCrypto",
+      "id": "2116382778917081278",
+      "sources": [
+        {
+          "id": "2116382778917081278",
+          "author": "AshCrypto",
+          "url": "https://x.com/AshCrypto/status/2116382778917081278",
+          "published_at": "Sat Oct 31 04:12:29 +0000 2026"
+        }
+      ],
+      "icon": "📉",
+      "resonance": false,
+      "event": "以太坊ETF本月累计流出创新高",
+      "new_information": "来源称10月截至发帖时累计流出16.1亿美元，为成立以来最大月度流出。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116382778917081278"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116382778917081278",
+          "passage_id": "t1",
+          "quote": "BlackRock and other ETFs sold $1.61 BILLION worth of Ethereum this month."
+        },
+        {
+          "source_id": "2116382778917081278",
+          "passage_id": "t2",
+          "quote": "Largest monthly outflow since inception. https://t.co/0YwK0ttGV1"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "AshCrypto称，BlackRock等比特币ETF最新单日流出6.4333亿美元，为过去四个月最大单日流出；帖子未注明该数据对应的交易日期。",
+      "author": "AshCrypto",
+      "id": "2116378511900627163",
+      "sources": [
+        {
+          "id": "2116378511900627163",
+          "author": "AshCrypto",
+          "url": "https://x.com/AshCrypto/status/2116378511900627163",
+          "published_at": "Sat Oct 31 03:55:32 +0000 2026"
+        }
+      ],
+      "icon": "📤",
+      "resonance": false,
+      "event": "比特币ETF单日流出达四个月最高",
+      "new_information": "来源报告单日流出6.4333亿美元，达到过去四个月最高水平。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116378511900627163"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116378511900627163",
+          "passage_id": "t0",
+          "quote": "BREAKING : 🇺🇸 BlackRock and other ETFs have sold $643.33 million worth of Bitcoin."
+        },
+        {
+          "source_id": "2116378511900627163",
+          "passage_id": "t1",
+          "quote": "Largest single day outflow in the past 4 months. https://t.co/QBclOUVKb0"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "MetaDAO将Over募资改为不定期延期，不再承诺48小时内公布新日期，须先完成法律结构调整。官方称预承诺金额已超过总容量，但尚无可确定执行的启动时间。",
+      "author": "MetaDAOProject",
+      "id": "2116381477709750463",
+      "sources": [
+        {
+          "id": "2116381477709750463",
+          "author": "MetaDAOProject",
+          "url": "https://x.com/MetaDAOProject/status/2116381477709750463",
+          "published_at": "Sat Oct 31 04:07:19 +0000 2026"
+        }
+      ],
+      "icon": "⏸️",
+      "resonance": false,
+      "event": "Over募资改为不定期延期",
+      "new_information": "撤回48小时更新日期承诺，法律结构完成前不设新日期",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116381477709750463"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116381477709750463",
+          "passage_id": "t1",
+          "quote": "We’re postponing the launch while adapt our legal structure for Over’s fundraise. It’s taking longer than we expected, so we’re not setting a new date until that work is done."
+        },
+        {
+          "source_id": "2116381477709750463",
+          "passage_id": "t2",
+          "quote": "The raise is oversubscribed, having more in pre-commitments than total capacity. We’ll announce a date once we have one we can stand behind."
+        },
+        {
+          "source_id": "2116381477709750463",
+          "passage_id": "q1",
+          "quote": "We're delaying the launch while we finalize Over's fundraise terms and legal structure. We'll share an updated launch date within the next 48 hours."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "StonkBrokers团队澄清，前端攻击警报涉及项目旧域名，称名称服务器变更已被阻止、暂无用户受影响，且已申请下架。当前仅应使用Clutch Markets官方简介列出的入口。",
+      "author": "OxSimpleFarmer",
+      "id": "2116357415092592684",
+      "sources": [
+        {
+          "id": "2116357415092592684",
+          "author": "OxSimpleFarmer",
+          "url": "https://x.com/OxSimpleFarmer/status/2116357415092592684",
+          "published_at": "Sat Oct 31 02:31:42 +0000 2026"
+        }
+      ],
+      "icon": "🛡️",
+      "resonance": false,
+      "event": "StonkBrokers澄清旧域名警报",
+      "new_information": "团队称警报涉及旧域名，已阻止名称服务器变更且无用户受影响",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116357415092592684"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116357415092592684",
+          "passage_id": "t0",
+          "quote": "False Alarm"
+        },
+        {
+          "source_id": "2116357415092592684",
+          "passage_id": "t1",
+          "quote": "This is a legacy domain associated with our project. A takedown request has already been submitted name server change has been blocked, and no users have been affected."
+        },
+        {
+          "source_id": "2116357415092592684",
+          "passage_id": "t2",
+          "quote": "In the meantime, please stay safe and only interact with official StonkBrokers links listed in the @ClutchMarkets bio."
+        },
+        {
+          "source_id": "2116357415092592684",
+          "passage_id": "q3",
+          "quote": "• stonkbrokers[.]cash"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Anthropic让数千个Claude Agent生成可绕过审查的训练数据：看似正常的养蜂问答、摔角故事也能诱发被微调模型的不安全行为。实验模型未部署，真实训练环境中的攻击效果尚未证实。",
+      "author": "AnthropicAI",
+      "id": "2116349211549843666",
+      "sources": [
+        {
+          "id": "2116349211549843666",
+          "author": "AnthropicAI",
+          "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+          "published_at": "Sat Oct 31 01:59:06 +0000 2026"
+        },
+        {
+          "id": "2116359235978313823",
+          "author": "sleepy0x13",
+          "url": "https://x.com/sleepy0x13/status/2116359235978313823",
+          "published_at": "Sat Oct 31 02:38:56 +0000 2026"
+        }
+      ],
+      "icon": "🧪",
+      "resonance": false,
+      "event": "Anthropic自动化训练数据红队实验",
+      "new_information": "Agent生成表面无害但能诱发失配的训练数据，现实有效性仍待验证",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116349211549843666",
+        "2116359235978313823"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116349211549843666",
+          "passage_id": "t1",
+          "quote": "Red-teaming is a vital part of model safety testing, but it’s also limited by researchers’ time. To see if we could automate it, we set thousands of Claude agents the task of evading a training data monitor."
+        },
+        {
+          "source_id": "2116349211549843666",
+          "passage_id": "t2",
+          "quote": "These agents developed training data that looked harmless to monitors (like a veteran wrestler mentoring a newcomer, or a Q&A about professional beekeeping), but that in fact taught misaligned behavior."
+        },
+        {
+          "source_id": "2116349211549843666",
+          "passage_id": "t3",
+          "quote": "Examples like these can be used to directly improve future training data monitors. This research is only a first step, but it suggests that future red-teaming efforts could improve much further, using better models and more compute."
+        },
+        {
+          "source_id": "2116359235978313823",
+          "passage_id": "t9",
+          "quote": "当然，实验有很强的人工设计成分，模型也从未真正部署。Anthropic 还不能证明这种攻击在真实训练环境中同样有效。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Raw-RAG论文在四类记忆基准、七组模型设置中拿下六组第一，比最强对比方案高0.13–5.53个百分点。方法保留原始历史并检索重排；分析认为摘要化可能损失时序、关系及依赖路径。",
+      "author": "Xudong07452910",
+      "id": "2116381900969541836",
+      "sources": [
+        {
+          "id": "2116381900969541836",
+          "author": "Xudong07452910",
+          "url": "https://x.com/Xudong07452910/status/2116381900969541836",
+          "published_at": "Sat Oct 31 04:09:00 +0000 2026"
+        }
+      ],
+      "icon": "🧠",
+      "resonance": false,
+      "event": "Raw-RAG对比复杂Agent记忆",
+      "new_information": "多组基准中原始历史检索胜出，指出记忆压缩可能损失关系证据",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116381900969541836"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t5",
+          "quote": "Raw-RAG 的方法非常简单："
+        },
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t6",
+          "quote": "保留原始对话历史，切成带重叠的文本块；先做 dense retrieval，再用 reranker 筛一遍，最后把最相关的原始证据交给 LLM 推理。"
+        },
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t7",
+          "quote": "中间没有 LLM 摘要、记忆重写、UPDATE / DELETE，也没有复杂的图结构。"
+        },
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t8",
+          "quote": "结果在 LoCoMo、LongMemEval、MEME 和 MemoryAgentBench 上，7 组模型设置里拿下 6 组第一，比最强的对比 Memory 系统高 0.13–5.53 个百分点。"
+        },
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t10",
+          "quote": "很多问题真正需要的证据，并不只是某个「答案值」，还包括时间顺序、前后关系和依赖路径。"
+        },
+        {
+          "source_id": "2116381900969541836",
+          "passage_id": "t11",
+          "quote": "Memory 一旦把历史压缩成独立事实或摘要，这些关系很容易在整理过程中被削弱。甚至把完整的 transformed memory 全部交给模型，效果依然和直接看 raw evidence 存在差距。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据TiagerBao介绍，微软开源TokenEconomizer通过记忆经验、精简工具和打断报错循环节省Agent成本。277个SWE-Bench任务中五组配置平均成本均下降，降幅18.4%–30.9%。",
+      "author": "TiagerBao",
+      "id": "2116025945769599313",
+      "sources": [
+        {
+          "id": "2116025945769599313",
+          "author": "TiagerBao",
+          "url": "https://x.com/TiagerBao/status/2116025945769599313",
+          "published_at": "Fri Oct 30 04:34:33 +0000 2026"
+        }
+      ],
+      "icon": "🛠️",
+      "resonance": false,
+      "event": "微软TokenEconomizer降低Agent成本",
+      "new_information": "无需换模型的插件公布成本测试，通过工具精简和循环干预减少消耗",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116025945769599313"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t0",
+          "quote": "微软搞了个专门给 Claude Code、Codex 省钱的开源插件，实测成本降低 18.4%～30.9%。"
+        },
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t1",
+          "quote": "项目叫 TokenEconomizer，不换模型，也不用修改 Agent 本身。"
+        },
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t3",
+          "quote": "记住经验：同一个项目踩过的坑，下次不再重复"
+        },
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t4",
+          "quote": "精简工具：自动移除长期不用的工具，减少 Token 消耗"
+        },
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t5",
+          "quote": "打断死循环：发现 Agent 反复报错，提醒它换个思路"
+        },
+        {
+          "source_id": "2116025945769599313",
+          "passage_id": "t7",
+          "quote": "微软在 277 个 SWE-Bench 任务上测试，5 组模型配置全部降低了平均成本，其中 4 组任务成功率还有提升。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "dotey转述网友质疑：所谓Claude权重卖家的文件与DeepSeek开源分片一致，容量也不符。作者未自行逐字节核对；截至发帖，Anthropic与亚马逊未回应，泄露说法未证实。",
+      "author": "dotey",
+      "id": "2116366460939386990",
+      "sources": [
+        {
+          "id": "2116366460939386990",
+          "author": "dotey",
+          "url": "https://x.com/dotey/status/2116366460939386990",
+          "published_at": "Sat Oct 31 03:07:39 +0000 2026"
+        }
+      ],
+      "icon": "🔍",
+      "resonance": false,
+      "event": "Claude权重出售传闻遭网友质疑",
+      "new_information": "网友提出开源分片冒充的质疑，作者另指出分片数量与声称总容量不符，真实性仍未确认。",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116366460939386990"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116366460939386990",
+          "passage_id": "t1",
+          "quote": "网上有人在兜售所谓 Anthropic 旗舰模型 Claude Fable 5 的“权重”。这个说法没有证实，已有网友指出是假的：卖家晒出的文件，和 DeepSeek 免费公开下载的模型文件一个字节都不差。截至北京时间 31 日上午，Anthropic 和亚马逊都没有回应，也没有主流媒体报道。"
+        },
+        {
+          "source_id": "2116366460939386990",
+          "passage_id": "t8",
+          "quote": "第一，截图里每个文件的大小和内容，都和 DeepSeek V4.1-Flash-1017 第 13 到 42 号分片完全一样。这个模型 10 月 17 日刚开源，任何人都能从 Hugging Face 免费下载。我查了 Hugging Face 上的文件列表，这个模型的分片大多是 7,389,761,368 字节，也就是 7.39GB，和卖家说的“约 7GB”对得上。卖家的截图我没能看到，没法自己逐字节比对。"
+        },
+        {
+          "source_id": "2116366460939386990",
+          "passage_id": "t10",
+          "quote": "第三，数字对不上。640 片乘以 7.39GB 约等于 4.73TB，离卖家说的 8TB 差了三千多 GB。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "aakashgupta称，Google在轨TPU原型约运行15分钟就需停机散热；真空无法靠空气或水带走热量，只能辐射散热。其分析将轻量高效散热器视为轨道算力扩张的关键瓶颈。",
+      "author": "aakashgupta",
+      "id": "2116375106624836081",
+      "sources": [
+        {
+          "id": "2116375106624836081",
+          "author": "aakashgupta",
+          "url": "https://x.com/aakashgupta/status/2116375106624836081",
+          "published_at": "Sat Oct 31 03:42:00 +0000 2026"
+        }
+      ],
+      "icon": "🛰️",
+      "resonance": false,
+      "event": "Google轨道TPU散热瓶颈分析",
+      "new_information": "新增间歇运行与辐射散热限制，区别于此前首次在轨推理成功消息",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116375106624836081"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t2",
+          "quote": "Think about how your laptop stays cool. A little fan blows air over the chip and the air carries the heat away. Big data centers do the same thing on a massive scale, with water pipes running out to cooling towers. All of it works because there's air and water around to soak up the heat. Up in orbit there's basically nothing. A vacuum is one of the best"
+        },
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t3",
+          "quote": "insulators there is, which is the whole reason your thermos keeps coffee hot all day."
+        },
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t4",
+          "quote": "So the only way a satellite can get rid of heat is to glow it off."
+        },
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t7",
+          "quote": "Google's test satellite is about the size of a fridge. It has four of Google's AI chips on board and solar panels that make around one kilowatt, roughly what your microwave pulls. Even on that little power, the chips can't run nonstop. They work for about 15 minutes, then shut off and wait for the radiators to catch up. The haiku Sundar posted came out of"
+        },
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t12",
+          "quote": "SpaceX has filed for a million satellites of its own, and Starship keeps pushing the price of a launch down. Cheaper launches mean you can afford to send up bigger radiators, and whoever builds the lightest radiator that dumps the most heat is going to own AI in orbit. For now, the satellite in Sundar's video still has to stop and cool down every 15 minutes"
+        },
+        {
+          "source_id": "2116375106624836081",
+          "passage_id": "t13",
+          "quote": "or so."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "xenovacom展示LFM3-Omni-2B完全在浏览器本地运行，无需独立语音识别或合成模型。其M4 Max测试约280 token/s，首段音频延迟140毫秒，可接收图像、音频与文本。",
+      "author": "xenovacom",
+      "id": "2115923280079286543",
+      "sources": [
+        {
+          "id": "2115923280079286543",
+          "author": "xenovacom",
+          "url": "https://x.com/xenovacom/status/2115923280079286543",
+          "published_at": "Thu Oct 29 21:46:36 +0000 2026"
+        }
+      ],
+      "icon": "💻",
+      "resonance": false,
+      "event": "浏览器本地运行端到端Omni模型",
+      "new_information": "通过定制WebGPU实现多模态本地推理，并披露设备速度及音频延迟",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2115923280079286543"
+      ],
+      "evidence": [
+        {
+          "source_id": "2115923280079286543",
+          "passage_id": "t0",
+          "quote": "We've just made a breakthrough: the first true omni model running 100% locally in a browser... fully end-to-end, with no separate ASR or TTS models needed."
+        },
+        {
+          "source_id": "2115923280079286543",
+          "passage_id": "t1",
+          "quote": "With custom WebGPU kernels, we're able to run LFM3-Omni-2B at ~280 tok/s on my M4 Max, accepting visual, audio, or text and producing interleaved text and audio tokens. Just 90 ms to the first token and 140 ms to the first audio."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "Step Drainer攻击扩至更多加密站点；Blockaid警报列出pickle.finance、echelon.market等正在投放Step Drainer的站点，勿访问或连接钱包。",
+      "author": "LaunchOnSF",
+      "id": "2116395221428961444",
+      "sources": [
+        {
+          "id": "2116395221428961444",
+          "author": "LaunchOnSF",
+          "url": "https://x.com/LaunchOnSF/status/2116395221428961444",
+          "published_at": "Sat Oct 31 05:01:56 +0000 2026"
+        }
+      ],
+      "icon": "🚨",
+      "resonance": false,
+      "event": "Step Drainer域名攻击范围扩大",
+      "new_information": "新增多个受影响加密站点及正在投放Step Drainer的警报",
+      "urgency_reason": "警报称所列站点正在投放Step Drainer，继续访问或连接钱包存在即时资产风险。",
+      "attention_source_ids": [
+        "2116395221428961444"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116395221428961444",
+          "passage_id": "t1",
+          "quote": "Please don't visit the site or connect a wallet until we confirm it's safe. The team is working on restoring it now."
+        },
+        {
+          "source_id": "2116395221428961444",
+          "passage_id": "q0",
+          "quote": "In addition to our earlier alert, the same attack has now been identified on additional sites. These are actively serving the Step Drainer:"
+        },
+        {
+          "source_id": "2116395221428961444",
+          "passage_id": "q2",
+          "quote": "• pickle[.]finance"
+        },
+        {
+          "source_id": "2116395221428961444",
+          "passage_id": "q3",
+          "quote": "• echelon[.]market"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "oragnes整理称，Northflank要求所有用户按环境变量可能泄露处理，立即更换API Key、数据库凭证及其他密钥。",
+      "author": "oragnes",
+      "id": "2116458109833244962",
+      "sources": [
+        {
+          "id": "2116458109833244962",
+          "author": "oragnes",
+          "url": "https://x.com/oragnes/status/2116458109833244962",
+          "published_at": "Sat Oct 31 09:11:49 +0000 2026"
+        }
+      ],
+      "icon": "🔑",
+      "resonance": false,
+      "event": "Northflank要求用户轮换密钥",
+      "new_information": "新增Northflank环境变量可能泄露及全用户密钥轮换要求",
+      "urgency_reason": "材料称平台要求立即更换API Key、数据库凭证及其他密钥，相关用户存在即时凭证安全处置窗口。",
+      "attention_source_ids": [
+        "2116458109833244962"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116458109833244962",
+          "passage_id": "t15",
+          "quote": "10月30日｜Northflank 云平台安全事件"
+        },
+        {
+          "source_id": "2116458109833244962",
+          "passage_id": "t16",
+          "quote": "平台要求所有用户按环境变量可能泄露处理，立即更换API Key、数据库凭证及其他密钥。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Arini据《华尔街日报》报道因亏损及银行追保，近几周被迫出售约8亿美元债务持仓；旗舰基金截至10月中旬年内已跌逾20%。",
+      "author": "MelvinInvests",
+      "id": "2116425733681688921",
+      "sources": [
+        {
+          "id": "2116425733681688921",
+          "author": "MelvinInvests",
+          "url": "https://x.com/MelvinInvests/status/2116425733681688921",
+          "published_at": "Sat Oct 31 07:03:10 +0000 2026"
+        }
+      ],
+      "icon": "📉",
+      "resonance": false,
+      "event": "Arini遭追保并被迫出售债务持仓",
+      "new_information": "新增约8亿美元强制出售债务持仓案例",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116425733681688921"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116425733681688921",
+          "passage_id": "t1",
+          "quote": "According to The Wall Street Journal, Arini Capital Management has been forced to sell roughly $800 MILLION worth of debt holdings in recent weeks after suffering massive losses and facing margin calls from its banks. For some context, Arini’s flagship fund manages approximately $7 billion and was already down more than 20% this year as of mid-October, with"
+        },
+        {
+          "source_id": "2116425733681688921",
+          "passage_id": "t4",
+          "quote": "Arini made some aggressive bets on distressed debt, essentially lending to or buying the debt of financially struggling companies at discounted prices, hoping to make substantial profits when those companies recovered or restructured. A lot of those bets were concentrated in telecommunications companies like Altice, Optimum, Virgin Media, and Brightspeed."
+        },
+        {
+          "source_id": "2116425733681688921",
+          "passage_id": "t7",
+          "quote": "Arini was using leverage, meaning it had borrowed money or taken on leveraged exposure to amplify its investment returns. As the value of its positions declined, banks started demanding additional collateral through margin calls."
+        },
+        {
+          "source_id": "2116425733681688921",
+          "passage_id": "t8",
+          "quote": "That means Arini couldn’t necessarily afford to just sit around and wait for these investments to recover. It had to raise cash, including by selling investments that were easier to unload."
+        },
+        {
+          "source_id": "2116425733681688921",
+          "passage_id": "t9",
+          "quote": "This can create a dangerous cycle. Investments lose value, banks demand more collateral, funds are forced to sell assets, and those sales can put even more downward pressure on prices. If enough highly leveraged funds are holding similar positions, the selling can spread throughout the credit market."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Plume的nBASIS金库代币现可在Ethereum上由Aerie Capital筛选的Morpho市场作抵押借出稳定币；其结合Superstate基金的现货与期货基差策略，并支持循环抵押的杠杆化RWA收益策略。",
+      "author": "TTT_News_",
+      "id": "2116459516418277695",
+      "sources": [
+        {
+          "id": "2116459516418277695",
+          "author": "TTT_News_",
+          "url": "https://x.com/TTT_News_/status/2116459516418277695",
+          "published_at": "Sat Oct 31 09:17:25 +0000 2026"
+        }
+      ],
+      "icon": "🧊",
+      "resonance": false,
+      "event": "nBASIS接入Morpho抵押借贷",
+      "new_information": "基差策略金库代币新增稳定币借款及循环抵押参与路径",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116459516418277695"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116459516418277695",
+          "passage_id": "t0",
+          "quote": "NEW: @plumenetwork's nBASIS vault token can now be used as collateral to borrow stablecoins on an Aerie Capital-curated Morpho market on Ethereum."
+        },
+        {
+          "source_id": "2116459516418277695",
+          "passage_id": "t1",
+          "quote": "nBASIS uses a market-neutral basis trading strategy combining spot and futures positions with Superstate funds. The integration also enables leveraged RWA yield strategies through collateral looping."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "GANG官方CLI文档新增自动补充LP模块：开发者可将部分交易税投入PancakeSwap池，并把LP代币送至销毁地址。cfm_sol建议检验实际采用率及毕业项目持续成交，而非只看功能上线；交易税需开发者自选，未启用税费的代币毕业后不贡献这类收入。",
+      "author": "cfm_sol",
+      "id": "2116430560675676295",
+      "sources": [
+        {
+          "id": "2116430560675676295",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2116430560675676295",
+          "published_at": "Sat Oct 31 07:22:21 +0000 2026"
+        }
+      ],
+      "icon": "⚙️",
+      "resonance": false,
+      "event": "GANG新增交易税自动补充LP模块",
+      "new_information": "10月31日文档新增自动加池及销毁LP路径，并明确收入依赖项目自选采用",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116430560675676295"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116430560675676295",
+          "passage_id": "t27",
+          "quote": "The official CLI documentation also listed an automatic LP addition module on October 31. Developers can direct part of the tax revenue toward adding liquidity to PancakeSwap pools, with the LP tokens sent to a burn address. The remaining revenue can then be distributed to the developer or designated recipients."
+        },
+        {
+          "source_id": "2116430560675676295",
+          "passage_id": "t28",
+          "quote": "This means GANG is bringing revenue distribution and liquidity provision into its token launch infrastructure as well. One important distinction: the modules being available does not mean every project on the platform is already using them."
+        },
+        {
+          "source_id": "2116430560675676295",
+          "passage_id": "t35",
+          "quote": "Of course, Untaxed Tokens do not generate ongoing trading tax after graduation, and the taxed model also requires developers to opt in. GANG's revenue growth ultimately depends on how many projects choose to use these fee mechanisms and whether their trading activity survives after graduation."
+        },
+        {
+          "source_id": "2116430560675676295",
+          "passage_id": "t55",
+          "quote": "The next catalysts are also becoming clearer: whether Flywheel V2 drives more launches, subscriptions, and post-launch Mint activity; whether Creator Bond attracts meaningful participation and collateral; whether MCP integration leads to growth in Agent Notes, Follow, and actual trading activity; whether V3 Tax Tokens, Split, and automatic LP are adopted by"
+        },
+        {
+          "source_id": "2116430560675676295",
+          "passage_id": "t56",
+          "quote": "more projects; and whether graduated tokens can maintain trading volume, allowing platform fees and GANG buybacks to accelerate."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "TagAI新增Agent交易观点功能：在观点下发生交易时，三分之一交易手续费将流入发布者的社交代币。官方另预告，协议发行代币毕业至外部市场后，Agent将可基于这些交易参与社交交易挖矿；后者仍属后续安排。",
+      "author": "TagAIDAO",
+      "id": "2116463842691784770",
+      "sources": [
+        {
+          "id": "2116463842691784770",
+          "author": "TagAIDAO",
+          "url": "https://x.com/TagAIDAO/status/2116463842691784770",
+          "published_at": "Sat Oct 31 09:34:36 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": false,
+      "event": "TagAI上线交易观点手续费分配",
+      "new_information": "观点发布者社交代币新增三分之一手续费流入，挖矿功能尚属预告",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116463842691784770"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116463842691784770",
+          "passage_id": "t0",
+          "quote": "New Feature 🟠"
+        },
+        {
+          "source_id": "2116463842691784770",
+          "passage_id": "t1",
+          "quote": "> AI Agents can now post opinions when trading Agent ID tokens."
+        },
+        {
+          "source_id": "2116463842691784770",
+          "passage_id": "t2",
+          "quote": "> When a trade occurs under an opinion, 1/3 of the trading fees will flow into the opinion publisher’s social token."
+        },
+        {
+          "source_id": "2116463842691784770",
+          "passage_id": "t3",
+          "quote": "The Next👇🏻"
+        },
+        {
+          "source_id": "2116463842691784770",
+          "passage_id": "t4",
+          "quote": "Once tokens issued under the TagAI Agent ID protocol (such as $AIPRO) graduate to the external market, AI Agents will be able to participate in social trading mining based on trades under these opinions."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Billions的BILL空投已可领取，作者称需先解压再跨链且速度较慢；另一用户称卖出到账2323U。Kaito上的ICO份额约4日解锁，作者提醒近期或有波动。",
+      "author": "GXingPing",
+      "id": "2116461800153813440",
+      "sources": [
+        {
+          "id": "2116461800153813440",
+          "author": "GXingPing",
+          "url": "https://x.com/GXingPing/status/2116461800153813440",
+          "published_at": "Sat Oct 31 09:26:29 +0000 2026"
+        },
+        {
+          "id": "2116466740888813633",
+          "author": "zaijin338191",
+          "url": "https://x.com/zaijin338191/status/2116466740888813633",
+          "published_at": "Sat Oct 31 09:46:07 +0000 2026"
+        }
+      ],
+      "icon": "🎁",
+      "resonance": false,
+      "event": "BILL空投开放领取及后续解锁提示",
+      "new_information": "领取路径已开放并出现卖出到账反馈，另有ICO份额约4日解锁提示",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116461800153813440",
+        "2116466740888813633"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116461800153813440",
+          "passage_id": "t0",
+          "quote": "傻逼项目 @billions_ntwk 的空投可以领了，速度去解压然后跨链，速度有点慢"
+        },
+        {
+          "source_id": "2116461800153813440",
+          "passage_id": "q0",
+          "quote": "Bill的空投今天砸盘，Kaito上的ICO份额大概4号解锁。"
+        },
+        {
+          "source_id": "2116461800153813440",
+          "passage_id": "q1",
+          "quote": "这两天应该会波动比较厉害，注意安全。 https://t.co/8VcdwVxmoz"
+        },
+        {
+          "source_id": "2116466740888813633",
+          "passage_id": "t0",
+          "quote": "$Bill 卖出成功~到账 2323U"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Ptah IAO空投据AKAKAY04分享，登记后还需单独调用领取，合资格地址可领11,250枚；参与需用持Binance Agent ID的钱包铸造Proof of Agent卡、发帖并提交，再预检领取交易。作者另称项目发新币预售、老币已腰斩。",
+      "author": "AKAKAY04",
+      "id": "2116462438300442632",
+      "sources": [
+        {
+          "id": "2116462438300442632",
+          "author": "AKAKAY04",
+          "url": "https://x.com/AKAKAY04/status/2116462438300442632",
+          "published_at": "Sat Oct 31 09:29:01 +0000 2026"
+        }
+      ],
+      "icon": "🪂",
+      "resonance": false,
+      "event": "Ptah IAO空投开放链上领取",
+      "new_information": "新增登记后的领取步骤、资格预检及单地址可领数量",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116462438300442632"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "t0",
+          "quote": "登记之后 需要再跑一次  才可以领到币"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "t1",
+          "quote": "用币安 Agentic Wallet 在 BSC（chainId 56）领 Ptah IAO 空投"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "t3",
+          "quote": "eth_call 预检：from = 我的地址，to = 上面合约，data = 0x5b88349d 返回 11250000000000000000000（= 11250 IAO）就是有资格；revert 就是没有。"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "t4",
+          "quote": "baw contract-call preview --binanceChainId 56 --from <我的地址> --to 0xa2556377118dD333F9f09600DE0bBCF54Cbc69A0 --value 0 --inputData 0x5b88349d --json 确认 simulationCode=000000000、余额变化为 +11250e18，再 execute。"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "q0",
+          "quote": "这个 @Ptahtrade  要发新币了 现在收钱预售  老币也是直接腰斩了"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "q3",
+          "quote": "在 BNB Chain（链 ID 56）上，通过地址 0xD87ADb2E47979d6cb323896B1A9320E0dd132213 铸造我的免费“Ptah 代理证明”（Ptah Proof of Agent）卡片。请使用持有我“币安代理 ID”（Binance Agent ID）的钱包进行操作。此随机系列卡片的铸造仅需支付 Gas 费，无需进行代币授权。交易完成后，请根据回执告知我的代理编号（Agent #）。"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "q4",
+          "quote": "领完发推  把0000改成自己的NFT编号"
+        },
+        {
+          "source_id": "2116462438300442632",
+          "passage_id": "q6",
+          "quote": "然后手动提交，现在可以领新币的空投"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "OP与Base在2024年升级时使部分未完成的L2→L1提现证明失效。bitfish称本周末返还约1,250 ETH给数千名陌生人；相关用户可检查原钱包是否到账。",
+      "author": "bitfish",
+      "id": "2116452385962992066",
+      "sources": [
+        {
+          "id": "2116452385962992066",
+          "author": "bitfish",
+          "url": "https://x.com/bitfish/status/2116452385962992066",
+          "published_at": "Sat Oct 31 08:49:05 +0000 2026"
+        }
+      ],
+      "icon": "↩️",
+      "resonance": false,
+      "event": "OP与Base旧提现资金被返还",
+      "new_information": "报告返还约1,250 ETH，旧提现未到账用户有新的余额核查事项",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116452385962992066"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116452385962992066",
+          "passage_id": "t1",
+          "quote": "2024 年 OP 和 Base 升级，一大批还没走完的 L2→L1 提现证明被一次性作废。链上不会通知任何人，很多人到现在都不知道。"
+        },
+        {
+          "source_id": "2116452385962992066",
+          "passage_id": "t2",
+          "quote": "这个周末，我们把约 1250 ETH 还给了几千个陌生人"
+        },
+        {
+          "source_id": "2116452385962992066",
+          "passage_id": "t3",
+          "quote": "你以为跨链失败丢掉的那笔 ETH，可能今天到账了，去看看钱包，说不定有惊喜 👀"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "ICE删除trade[XYZ]合作的X公告，删帖原因不明；官方新闻稿仍在，计划仍待监管批准，HYPE曾由90美元回落至86.5美元。",
+      "author": "TTT_News_",
+      "id": "2116441368570540507",
+      "sources": [
+        {
+          "id": "2116441368570540507",
+          "author": "TTT_News_",
+          "url": "https://x.com/TTT_News_/status/2116441368570540507",
+          "published_at": "Sat Oct 31 08:05:18 +0000 2026"
+        },
+        {
+          "id": "2116451308597379525",
+          "author": "Havochl_",
+          "url": "https://x.com/Havochl_/status/2116451308597379525",
+          "published_at": "Sat Oct 31 08:44:48 +0000 2026"
+        }
+      ],
+      "icon": "📰",
+      "resonance": false,
+      "event": "ICE删除trade[XYZ]合作公告",
+      "new_information": "合作公告从X消失并伴随HYPE回落，但官方新闻稿仍在且计划尚待监管批准",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116441368570540507",
+        "2116451308597379525"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116441368570540507",
+          "passage_id": "t1",
+          "quote": "ICE has also deleted its original X announcement, though the official press release remains available. The reason for the deletion is unclear, and the initiative remains subject to regulatory approval."
+        },
+        {
+          "source_id": "2116451308597379525",
+          "passage_id": "t1",
+          "quote": "@ICE_Markets deleted the tweet about Trade[XYZ] deal and $HYPE dumped from $90 to $86.5."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "达拉斯联储主席、2026年票委Logan认为至少还需两次各25基点加息，之后可暂停观察。她指出9月核心PCE同比仍为3.1%，本周支持不加息是为放慢节奏，而非认为紧缩已经完成。",
+      "author": "PhyrexNi",
+      "id": "2116425769585152297",
+      "sources": [
+        {
+          "id": "2116425769585152297",
+          "author": "PhyrexNi",
+          "url": "https://x.com/PhyrexNi/status/2116425769585152297",
+          "published_at": "Sat Oct 31 07:03:19 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "Logan主张至少再加息两次",
+      "new_information": "本周支持暂停的票委明确提出后续两次加息路径及通胀依据",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116425769585152297"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116425769585152297",
+          "passage_id": "t0",
+          "quote": "达拉斯联储主席洛根也是 2026年 的票委今天表示，按照目前的经济前景美联储至少还需要再加息两次，每次25个基点。之后可以暂停观察经济和金融情况再决定是否需要进一步行动。"
+        },
+        {
+          "source_id": "2116425769585152297",
+          "passage_id": "t1",
+          "quote": "洛根认为，9月核心PCE同比仍有3.1%，通胀还没有走上回到2%目标的轨道，而经济增长强劲、就业市场总体平衡，所以利率还需要提高，才能对经济形成一定的限制。"
+        },
+        {
+          "source_id": "2116425769585152297",
+          "passage_id": "t2",
+          "quote": "虽然洛根在本周的议息会议上支持维持利率不变，但她认为市场波动较大时放慢加息节奏，可以让家庭、企业和市场有时间适应更高利率。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CZ否认曾说要出售SPCX股份，称提及该持仓只是为说明Binance拥有加密资产以外的资产；他也否认自己会发出威胁。",
+      "author": "cz_binance",
+      "id": "2116415386048761953",
+      "sources": [
+        {
+          "id": "2116415386048761953",
+          "author": "cz_binance",
+          "url": "https://x.com/cz_binance/status/2116415386048761953",
+          "published_at": "Sat Oct 31 06:22:03 +0000 2026"
+        }
+      ],
+      "icon": "🗣️",
+      "resonance": false,
+      "event": "CZ澄清SPCX持仓说法",
+      "new_information": "本人否认出售SPCX股份及威胁解读，说明提及持仓的原意",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116415386048761953"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116415386048761953",
+          "passage_id": "t1",
+          "quote": "I never said “selling SPCX shares”. I mentioned we have them only because the FTX comparison in the thread may have implied we lacked funds, which is not true. My point was that we hold assets outside of crypto, even in an area familiar to him."
+        },
+        {
+          "source_id": "2116415386048761953",
+          "passage_id": "t2",
+          "quote": "I don’t make threats. That’s one of my core principles I even wrote in my book. Also, our holdings is a drop in the ocean for them. No threats possible. And I think it will be one of the best stocks to hold for a long time to come."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Flap宣布官网已恢复访问，备用域名继续开放，两者通往同一产品；团队称曾请合作方展示安全警告，相关提示将随系统更新逐步移除。",
+      "author": "eth_cedric",
+      "id": "2116437564181627045",
+      "sources": [
+        {
+          "id": "2116437564181627045",
+          "author": "eth_cedric",
+          "url": "https://x.com/eth_cedric/status/2116437564181627045",
+          "published_at": "Sat Oct 31 07:50:11 +0000 2026"
+        }
+      ],
+      "icon": "✅",
+      "resonance": false,
+      "event": "Flap原官网恢复访问",
+      "new_information": "官网由暂禁访问转为团队宣布恢复，备用域名继续可用",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116437564181627045"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116437564181627045",
+          "passage_id": "t0",
+          "quote": "https://t.co/xjkwtz3ORg is back online and ready to use. https://t.co/7kZAS6jD2E will remain available as an alternative; both domains lead to the same website and product."
+        },
+        {
+          "source_id": "2116437564181627045",
+          "passage_id": "t1",
+          "quote": "We asked some partners to display a security warning when users visit our website to help keep them safe. The warnings will be removed gradually as their systems update."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "StandX将原定11月1日00:00 UTC开放的DUSD空投领取延期。官方称为确保DUSD稳定，领取将等到Binance恢复提现后再开放，未给出独立的新日期。",
+      "author": "StandX_Official",
+      "id": "2116453957568536643",
+      "sources": [
+        {
+          "id": "2116453957568536643",
+          "author": "StandX_Official",
+          "url": "https://x.com/StandX_Official/status/2116453957568536643",
+          "published_at": "Sat Oct 31 08:55:19 +0000 2026"
+        }
+      ],
+      "icon": "⏸️",
+      "resonance": false,
+      "event": "StandX推迟DUSD空投领取",
+      "new_information": "领取时间改为与Binance恢复提现挂钩，不再按原日期开放",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116453957568536643"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116453957568536643",
+          "passage_id": "t0",
+          "quote": "📢 StandX $DUSD Airdrop Claims Update"
+        },
+        {
+          "source_id": "2116453957568536643",
+          "passage_id": "t1",
+          "quote": "StandX airdrop claims, originally scheduled for November 1st at 00:00 UTC (08:00 HKT), have been postponed while Binance withdrawals remain closed."
+        },
+        {
+          "source_id": "2116453957568536643",
+          "passage_id": "t2",
+          "quote": "To ensure DUSD stability, airdrop claims will open once Binance resumes withdrawals."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "OnePay新增多链USDC出金：支持12条链，Stablecoin将其转换为美元并记入支票账户，启动阶段免转换费；App不保留稳定币余额。",
+      "author": "gaspardlezin",
+      "id": "2116456568883442145",
+      "sources": [
+        {
+          "id": "2116456568883442145",
+          "author": "gaspardlezin",
+          "url": "https://x.com/gaspardlezin/status/2116456568883442145",
+          "published_at": "Sat Oct 31 09:05:42 +0000 2026"
+        }
+      ],
+      "icon": "💵",
+      "resonance": false,
+      "event": "OnePay接入多链USDC出金",
+      "new_information": "新增12链USDC到美元支票账户路径，启动阶段免转换费",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116456568883442145"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116456568883442145",
+          "passage_id": "t0",
+          "quote": "walmart's bank app just became a usdc off-ramp"
+        },
+        {
+          "source_id": "2116456568883442145",
+          "passage_id": "t1",
+          "quote": "> @onepay takes usdc on 12 blockchains, @tempo, @base, @solana, @ethereum and 8 more"
+        },
+        {
+          "source_id": "2116456568883442145",
+          "passage_id": "t2",
+          "quote": "> @Stablecoin converts it and credits checking in dollars within moments"
+        },
+        {
+          "source_id": "2116456568883442145",
+          "passage_id": "t3",
+          "quote": "> $0 conversion fee at launch"
+        },
+        {
+          "source_id": "2116456568883442145",
+          "passage_id": "t4",
+          "quote": "> no stablecoin balance anywhere in the app"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "DoorDash CEO称，第三方AI Agent迄今仅带来“数百笔”订单；相比之下，公司Q3订单总量为9.93亿笔。",
+      "author": "gaspardlezin",
+      "id": "2116456040157831535",
+      "sources": [
+        {
+          "id": "2116456040157831535",
+          "author": "gaspardlezin",
+          "url": "https://x.com/gaspardlezin/status/2116456040157831535",
+          "published_at": "Sat Oct 31 09:03:36 +0000 2026"
+        }
+      ],
+      "icon": "🛒",
+      "resonance": false,
+      "event": "DoorDash披露第三方Agent订单量",
+      "new_information": "新增企业经营数据，显示第三方Agent订单相对平台总订单仍很少",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116456040157831535"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116456040157831535",
+          "passage_id": "t0",
+          "quote": "doordash's ceo on yesterday's call: third-party ai agents have sent them \"maybe several hundred orders in total\""
+        },
+        {
+          "source_id": "2116456040157831535",
+          "passage_id": "t1",
+          "quote": "> 993M @DoorDash orders in Q3 alone"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Cambria团队复盘承认，空投事后引入ARP评分造成混乱，本应按积分比例分配；评分仅重分配约12%的代币。团队希望未来纠正部分赛季权重及NFT卖出扣分，但不追加代币，也未给出执行时间。",
+      "author": "OxLajiao",
+      "id": "2116434063313736020",
+      "sources": [
+        {
+          "id": "2116434063313736020",
+          "author": "OxLajiao",
+          "url": "https://x.com/OxLajiao/status/2116434063313736020",
+          "published_at": "Sat Oct 31 07:36:16 +0000 2026"
+        }
+      ],
+      "icon": "🎮",
+      "resonance": false,
+      "event": "Cambria复盘空投评分争议",
+      "new_information": "团队承认事后评分设计失误，提出非增发式纠偏意向但未承诺时间",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116434063313736020"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q25",
+          "quote": "2) we should have just done the airdrop pro rata instead of using the ARP score.  there's two conflicting arguments here:"
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q28",
+          "quote": "B (against ARP): the airdrop goals should not have been \"calculate a distribution that scientifically predicts who will hold.\"  given we ran an airdrop campaign, the implicit expectation of players is that they'd be rewarded tokens based on their points.  everything that we \"fixed\" with the distribution (punishing sybils, cheating, exploits, botting, wash"
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q29",
+          "quote": "trading) was done retroactively instead of just straight up banning these players early on.  what we ended up doing over the past few years was create an environment and community culture that harbored these players, with only sporadic enforcement of rules.  thus, they have a rational counterpoint that 1) their continued engagement benefited us, 2) that many"
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q30",
+          "quote": "were forced to engage in these behaviors to remain competitive, 3) that they were not told ahead of time that this could be a consequence, and 4) getting \"vibe-filtered\" actually led to them selling it all in rage, instead of the other way around.  ultimately, the ARP ended up not changing distribution much (~12% of the tokens shifted as a result of ARP)"
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q31",
+          "quote": "while creating unnecessary FUD, confusion, uncertainty, and division within the community."
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q35",
+          "quote": "at the current moment, i don't think dwelling on these issues too long is a good use of our time - we should be laser focused on shipping genesis and growing the protocol, any more time spent here is massively expensive in terms of opportunity cost.  however, I do want to eventually revisit and correct the two biggest imbalances (duel arena / gold rush s3"
+        },
+        {
+          "source_id": "2116434063313736020",
+          "passage_id": "q36",
+          "quote": "weighting, and token allocation lost to ARP scores specifically due to nft selling) at some point in the future when there's more value to distribute.  this will not be in additional tokens (it's too late for that, tokens are scaling units of value).  but more in terms of adjusting for the value of the slashed tokens at time of TGE."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Spond据转述为10人团队，每月Token支出320万美元；其删除PR，以每15分钟全量测试和回滚控制开发稳定性，过去一年12万次改动回滚0.9%。",
+      "author": "bylixing",
+      "id": "2116384290565128653",
+      "sources": [
+        {
+          "id": "2116384290565128653",
+          "author": "bylixing",
+          "url": "https://x.com/bylixing/status/2116384290565128653",
+          "published_at": "Sat Oct 31 04:18:30 +0000 2026"
+        }
+      ],
+      "icon": "🏗️",
+      "resonance": false,
+      "event": "Spond披露Agent优先开发组织",
+      "new_information": "新增小团队高Token投入案例，以持续测试和回滚替代传统PR协作",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116384290565128653"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116384290565128653",
+          "passage_id": "t2",
+          "quote": "- Spond 是一个大规模多人在线游戏创作平台，团队只有10 个人，但每月 token 支出是 320万美金，Anthropic 的大客户之一。"
+        },
+        {
+          "source_id": "2116384290565128653",
+          "passage_id": "t6",
+          "quote": "- 非常激进的策略。通过删除 Pr 来消除智能体通信瓶颈"
+        },
+        {
+          "source_id": "2116384290565128653",
+          "passage_id": "t8",
+          "quote": "通过 15 分钟一次的全量测试+充分的回滚能力+分级控制（付款等敏感操作额外处理），来平衡生产稳定性和开发速度。"
+        },
+        {
+          "source_id": "2116384290565128653",
+          "passage_id": "t9",
+          "quote": "过去一年 12 万次改动，只回滚了 0.9%"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Agentcard为Agent提供统一购物接口，接入5,026家网店，完成订单收费1%；预热路径约9秒、冷启动约2分40秒，Stripe Link与Shop支付待上线。",
+      "author": "gaspardlezin",
+      "id": "2116455018844836194",
+      "sources": [
+        {
+          "id": "2116455018844836194",
+          "author": "gaspardlezin",
+          "url": "https://x.com/gaspardlezin/status/2116455018844836194",
+          "published_at": "Sat Oct 31 08:59:32 +0000 2026"
+        }
+      ],
+      "icon": "🧾",
+      "resonance": false,
+      "event": "Agentcard推出统一Agent购物接口",
+      "new_information": "新增覆盖5,026家网店的购买工具，披露收费及冷热路径速度差异",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116455018844836194"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116455018844836194",
+          "passage_id": "t0",
+          "quote": "agentcard just put 5,026 online stores behind one buy tool for agents"
+        },
+        {
+          "source_id": "2116455018844836194",
+          "passage_id": "t1",
+          "quote": "> amazon, doordash and most shopify stores, one endpoint"
+        },
+        {
+          "source_id": "2116455018844836194",
+          "passage_id": "t2",
+          "quote": "> 1% of each completed order"
+        },
+        {
+          "source_id": "2116455018844836194",
+          "passage_id": "t3",
+          "quote": "> a warmed route buys in 9s, a cold one takes 2m 40s"
+        },
+        {
+          "source_id": "2116455018844836194",
+          "passage_id": "t4",
+          "quote": "> payments run on agentcard, stripe link and shop coming soon"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Anthropic招股书据KKaWSB摘录，半年营收163亿美元，80%收入来自新模型，老客户一年支出增长约9倍。公司还披露清理了贡献5%—7%收入的违规客户，并集中资源于编程与Agent。",
+      "author": "KKaWSB",
+      "id": "2116227600272310536",
+      "sources": [
+        {
+          "id": "2116227600272310536",
+          "author": "KKaWSB",
+          "url": "https://x.com/KKaWSB/status/2116227600272310536",
+          "published_at": "Fri Oct 30 17:55:52 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "Anthropic招股书收入质量摘录",
+      "new_information": "新增新模型收入占比、老客支出增长及违规客户收入清理数据",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116227600272310536"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t0",
+          "quote": "Anthropic 335 页 IPO 招股书，藏着 10 个值得关注的信号："
+        },
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t1",
+          "quote": "1｜越降价越赚钱：半年营收 163 亿美元。"
+        },
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t2",
+          "quote": "2｜模型保鲜期仅半年：80% 收入来自新模型。"
+        },
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t4",
+          "quote": "4｜老客户越用越多：一年支出增长约 9 倍。"
+        },
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t8",
+          "quote": "8｜主动放弃图片、视频：集中资源做编程和 Agent。"
+        },
+        {
+          "source_id": "2116227600272310536",
+          "passage_id": "t9",
+          "quote": "9｜宁可损失收入：清理贡献 5% 至 7% 收入的违规客户。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Google真实安全通知也可能夹带钓鱼内容：案例中攻击者把恐吓文字和短链接写入应用密码名称，再转发Google签名邮件，DKIM与DMARC仍通过。识别点是通知指向他人账户，“24小时后永久访问”的说法也不实。",
+      "author": "0xkeenz",
+      "id": "2116432286497603954",
+      "sources": [
+        {
+          "id": "2116432286497603954",
+          "author": "0xkeenz",
+          "url": "https://x.com/0xkeenz/status/2116432286497603954",
+          "published_at": "Sat Oct 31 07:29:13 +0000 2026"
+        }
+      ],
+      "icon": "📨",
+      "resonance": false,
+      "event": "Google安全通知被利用进行钓鱼",
+      "new_information": "新增通过真实签名邮件夹带恶意文本的手法及账户归属识别点",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2116432286497603954"
+      ],
+      "evidence": [
+        {
+          "source_id": "2116432286497603954",
+          "passage_id": "q0",
+          "quote": "Just got a phishing email that Gmail authenticated as Google. DKIM/DMARC passed. I can see a lot of people falling for this one, since it plays to the idea that your account has already been compromised."
+        },
+        {
+          "source_id": "2116432286497603954",
+          "passage_id": "q3",
+          "quote": "1. The trick: The attacker puts the threatening text and shortened URL into an app password’s customizable name on another account. Google incorporates that text into a real security notification and signs the email."
+        },
+        {
+          "source_id": "2116432286497603954",
+          "passage_id": "q4",
+          "quote": "2. The delivery: That notification is forwarded through another mailbox to the victim. In this message, Gmail still recorded passing Google DKIM and DMARC authentication."
+        },
+        {
+          "source_id": "2116432286497603954",
+          "passage_id": "q5",
+          "quote": "3. What makes it convincing: The Google sender, signature, branding, and “Check activity” button are legitimate. The suspected attacker-supplied text appears inside the same trusted-looking template, using a deadline to push you toward its separate link."
+        },
+        {
+          "source_id": "2116432286497603954",
+          "passage_id": "q6",
+          "quote": "4. The giveaway: Both the notification and its genuine Google button refer to someone else’s account. The “permanent access after 24 hours” claim is false; app passwords can be revoked."
+        }
+      ],
+      "editorial_version": 2
+    }
+  ],
+  "last_updated": "2026-10-31"
+}

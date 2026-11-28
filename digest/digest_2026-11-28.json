@@ -1,0 +1,2106 @@
+{
+  "items": [
+    {
+      "category": "🔴 立即关注",
+      "summary": "据UnicornBitcoin，币安WLFI永续已禁开新单、只能减仓。资金费率-0.59%/4小时，若维持空头每日付约3.54%。交易员熬鹰称盈利空单被强平；YeruiZhang称系币安接管多头后ADL空仓，与做市商无关。",
+      "author": "BlockBeatsAsia",
+      "id": "2126565495545717039",
+      "sources": [
+        {
+          "id": "2126565495545717039",
+          "author": "BlockBeatsAsia",
+          "url": "https://x.com/BlockBeatsAsia/status/2126565495545717039",
+          "published_at": "Sat Nov 28 06:34:58 +0000 2026"
+        },
+        {
+          "id": "2126552697113624896",
+          "author": "UnicornBitcoin",
+          "url": "https://x.com/UnicornBitcoin/status/2126552697113624896",
+          "published_at": "Sat Nov 28 05:44:07 +0000 2026"
+        },
+        {
+          "id": "2126569158267834716",
+          "author": "YeruiZhang",
+          "url": "https://x.com/YeruiZhang/status/2126569158267834716",
+          "published_at": "Sat Nov 28 06:49:31 +0000 2026"
+        }
+      ],
+      "icon": "⚠️",
+      "resonance": true,
+      "event": "币安WLFI永续限制新开仓与ADL",
+      "new_information": "禁开新单只能减仓，资金费-0.59%/4h，YeruiZhang对ADL成因给出反向解释",
+      "urgency_reason": "WLFI永续持仓者无法新开仓，空头按当前费率每4小时付0.59%资金费，并面临ADL减仓",
+      "attention_source_ids": [
+        "2126565495545717039",
+        "2126552697113624896",
+        "2126569158267834716"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126565495545717039",
+          "passage_id": "t1",
+          "quote": "熬鹰 @thankUcrypto 发文称，自己并未主动平仓，且合约机器人一直在分时开空，但 WLFI 空头仓位却被系统强制平仓，原本约 5 万美元的盈利，在币价继续下跌的过程中反而减少了约 2 万美元。"
+        },
+        {
+          "source_id": "2126565495545717039",
+          "passage_id": "t4",
+          "quote": "与此同时，Binance 平台 WLFI 永续合约资金费率已降至 -0.59%，每 4 小时结算一次。若维持当前费率，空头每日需支付相当于仓位名义价值 3.54% 的资金费用，简单年化高达 1292%。"
+        },
+        {
+          "source_id": "2126552697113624896",
+          "passage_id": "t1",
+          "quote": "已经不能下单了，只能减仓"
+        },
+        {
+          "source_id": "2126552697113624896",
+          "passage_id": "t3",
+          "quote": "多单、空单都不可以下新订单 https://t.co/B5Rn8UvOkT"
+        },
+        {
+          "source_id": "2126569158267834716",
+          "passage_id": "t0",
+          "quote": "其实不是，和做市商无关。是bn在0.038-0.028接管了做多的仓位，那一笔是在0.06-0.05补过保证金的（仓位很大名义价值超过100M），然后就adl了大部分的空仓把自己敞口做平，从0.028之后一直是自动化程序接管双向平仓，一个小时不到只剩下20M不到的名义价值。后面就是市场自然博弈了，后面20M的合约很难影响到2B的市值就震荡阴跌走势了。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔴 立即关注",
+      "summary": "ChainPort称12月1日是最后桥接日，之后提款不保证。Chiliz敦促把经ChainPort桥接的USDC移出Chiliz链，仅列Arbitrum、BNB Chain、Avalanche三条路径。",
+      "author": "DefiantNews",
+      "id": "2126548893957841038",
+      "sources": [
+        {
+          "id": "2126548893957841038",
+          "author": "DefiantNews",
+          "url": "https://x.com/DefiantNews/status/2126548893957841038",
+          "published_at": "Sat Nov 28 05:29:00 +0000 2026"
+        }
+      ],
+      "icon": "🌉",
+      "resonance": false,
+      "event": "Chiliz链ChainPort USDC撤离",
+      "new_information": "12月1日为最后桥接日，Chiliz列出仅剩三条路径",
+      "urgency_reason": "12月1日为最后桥接日，之后提款不保证",
+      "attention_source_ids": [
+        "2126548893957841038"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126548893957841038",
+          "passage_id": "t0",
+          "quote": "CHILIZ URGES HOLDERS TO MOVE CHAINPORT-BRIDGED $USDC OFF ITS CHAIN"
+        },
+        {
+          "source_id": "2126548893957841038",
+          "passage_id": "t1",
+          "quote": "ChainPort says Dec. 1, 2026, is the last day to bridge and withdrawals aren’t guaranteed after that. Chiliz lists @arbitrum, @BNBCHAIN and @avax as the only routes left."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "WLFI闪崩近50%，15分钟内一度跌超35%。BroLeon称项目方在Dolomite抵押约51亿枚WLFI，早间卖ETH补保证金后清算价由0.021降至0.0118，仍有约50%跌幅空间。",
+      "author": "BroLeon",
+      "id": "2126550883484004363",
+      "sources": [
+        {
+          "id": "2126550883484004363",
+          "author": "BroLeon",
+          "url": "https://x.com/BroLeon/status/2126550883484004363",
+          "published_at": "Sat Nov 28 05:36:54 +0000 2026"
+        },
+        {
+          "id": "2126551288519487825",
+          "author": "UnicornBitcoin",
+          "url": "https://x.com/UnicornBitcoin/status/2126551288519487825",
+          "published_at": "Sat Nov 28 05:38:31 +0000 2026"
+        },
+        {
+          "id": "2126548562288971955",
+          "author": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2126548562288971955",
+          "published_at": "Sat Nov 28 05:27:41 +0000 2026"
+        }
+      ],
+      "icon": "📉",
+      "resonance": true,
+      "event": "WLFI闪崩与Dolomite清算线",
+      "new_information": "BroLeon测算补保证金后Dolomite清算价降至0.0118",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126550883484004363",
+        "2126551288519487825",
+        "2126548562288971955"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126550883484004363",
+          "passage_id": "t1",
+          "quote": "他们在Dolomite里的51亿 $Wlfi 顶格借贷爆仓价在0.021，如果没有补进去那1000多万，现在就不是跌个48%，而是直接跌98%了。"
+        },
+        {
+          "source_id": "2126550883484004363",
+          "passage_id": "t2",
+          "quote": "在早上补完保证金后他们借贷清算价格已经到了0.0118，也就是还有50%的跌幅容纳空间，暂时还算安全。"
+        },
+        {
+          "source_id": "2126551288519487825",
+          "passage_id": "t0",
+          "quote": "WLFI 这个刚暴跌了 50%，"
+        },
+        {
+          "source_id": "2126551288519487825",
+          "passage_id": "t30",
+          "quote": "Dolomite 里存着 50.94 亿枚 WLFI 和 23.41 亿枚 WLFIcx 做抵押"
+        },
+        {
+          "source_id": "2126548562288971955",
+          "passage_id": "t0",
+          "quote": "JUST IN: Trump family's World Liberty Financial $WLFI cryptocurrency crashes over 35% in 15 minutes. https://t.co/QumAhBFlip"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "WLFI闪崩后，USD1在币安USD1/USDT轻微脱锚至0.9981，其流通量30天缩水约27%至28.28亿美元。BlockBeats称储备由BitGo持有或管理，暂无兑付危机证据，后续需关注多平台折价及1:1赎回是否畅通。",
+      "author": "BlockBeatsAsia",
+      "id": "2126553413043531940",
+      "sources": [
+        {
+          "id": "2126553413043531940",
+          "author": "BlockBeatsAsia",
+          "url": "https://x.com/BlockBeatsAsia/status/2126553413043531940",
+          "published_at": "Sat Nov 28 05:46:57 +0000 2026"
+        }
+      ],
+      "icon": "🪙",
+      "resonance": false,
+      "event": "USD1轻微脱锚",
+      "new_information": "报0.9981，30天流通缩水约27%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126553413043531940"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126553413043531940",
+          "passage_id": "t1",
+          "quote": "Binance 平台 USD1/USDT 交易对近 1 小时下跌 0.26%，现报 0.9981 美元。与此同时，USD1 过去 30 天流通规模已缩水约 27%，最新市值降至 28.28 亿美元，一个月蒸发超 10 亿美元。"
+        },
+        {
+          "source_id": "2126553413043531940",
+          "passage_id": "t3",
+          "quote": "不过，WLFI 的投资亏损与 USD1 的兑付储备是两回事。根据官方披露，USD1 的储备资产包括美元存款、短期美国国债及政府货币市场基金，由 @BitGo 持有或管理。项目方抛售 ETH 亏损，并不意味着稳定币储备出现缺口。"
+        },
+        {
+          "source_id": "2126553413043531940",
+          "passage_id": "t5",
+          "quote": "目前尚无证据表明 USD1 存在兑付危机，但在流通规模持续收缩、治理代币闪崩、项目方大额亏损抛售的背景下，市场信心正在面临考验。"
+        },
+        {
+          "source_id": "2126553413043531940",
+          "passage_id": "t6",
+          "quote": "接下来需要关注的是，USD1 是否会在多个交易平台持续出现折价，以及 BitGo 的 1:1 赎回渠道能否保持畅通。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "au_xbt的12月美股节奏：周一偏空；之后到12月18日OPEX前有空头回补和回购流入，可逢低买入；SPX到7450附近时转空，预期12月收跌。关键位为7200与7400，跌破7200不要接刀。",
+      "author": "au_xbt",
+      "id": "2126546690983563347",
+      "sources": [
+        {
+          "id": "2126546690983563347",
+          "author": "au_xbt",
+          "url": "https://x.com/au_xbt/status/2126546690983563347",
+          "published_at": "Sat Nov 28 05:20:15 +0000 2026"
+        }
+      ],
+      "icon": "📆",
+      "resonance": false,
+      "event": "au_xbt的12月SPX交易框架",
+      "new_information": "OPEX前偏多、7450转空，关键位7200/7400",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126546690983563347"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126546690983563347",
+          "passage_id": "t1",
+          "quote": "Once Monday's dip is over, it is a good time to buy, though I lean short on Monday."
+        },
+        {
+          "source_id": "2126546690983563347",
+          "passage_id": "t3",
+          "quote": "Barring any surprises, once SPX reaches around 7450 before December 18, I can sell and flip short, with December closing in the red."
+        },
+        {
+          "source_id": "2126546690983563347",
+          "passage_id": "t8",
+          "quote": "Right now, the key levels are 7200 and 7400. If 7200 breaks, you have to wait for the next key level and not try to catch it on the way down."
+        },
+        {
+          "source_id": "2126546690983563347",
+          "passage_id": "q0",
+          "quote": "No, I am only bearish on Monday. Actually, once Monday is over and before December 18, there will be strong short covering along with heavy corporate buyback flows ahead of the earnings blackout period. Before December 18, aside from hedging ahead of FOMC and the Nvidia hearing, the bias is bullish. After December 18, with rebalancing, institutions opening"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "FLOP测试网11月24日上线，最长运行90天。矿工、验证者、Agent三类角色各有12亿枚空投池：矿工按GPU实际推理量计，验证者无需GPU且前1000名获主网席位，Agent按购买算力计。持币无奖励，质押由官方赞助，快照暂定2027年2月底。",
+      "author": "flop_labs",
+      "id": "2126547742914740448",
+      "sources": [
+        {
+          "id": "2126547742914740448",
+          "author": "flop_labs",
+          "url": "https://x.com/flop_labs/status/2126547742914740448",
+          "published_at": "Sat Nov 28 05:24:25 +0000 2026"
+        },
+        {
+          "id": "2126565980063269222",
+          "author": "flop_labs",
+          "url": "https://x.com/flop_labs/status/2126565980063269222",
+          "published_at": "Sat Nov 28 06:36:53 +0000 2026"
+        }
+      ],
+      "icon": "🖥️",
+      "resonance": false,
+      "event": "FLOP测试网空投规则",
+      "new_information": "三类角色各12亿枚空投池，快照暂定2月底",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126547742914740448",
+        "2126565980063269222"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126547742914740448",
+          "passage_id": "t1",
+          "quote": "Miners register with any consumer or enterprise GPU, and what counts is the verified AI inference those GPUs deliver. Validators run a node with no GPU at all. For them it's testnet earnings after a 14-day grace period, and the top 1,000 win mainnet seats. Agents need a DID and a wallet, then it's the compute your agent pays for. Holding tokens earns"
+        },
+        {
+          "source_id": "2126547742914740448",
+          "passage_id": "t3",
+          "quote": "Each has a 1.2 billion $ FLOP airdrop pool. KOL partners draw on an 800 million ecosystem reserve, counted on the compute bought by agents who join through your link. No sign-up, and the weekly leaderboard starts at mainnet."
+        },
+        {
+          "source_id": "2126547742914740448",
+          "passage_id": "t4",
+          "quote": "Stake is sponsored on testnet, so you don't need any $ FLOP to start. Testnet went live on 24 Nov and runs for up to 90 days. The snapshot is tentatively end of Feb 2027, with mainnet and the airdrop in Feb/Mar."
+        },
+        {
+          "source_id": "2126565980063269222",
+          "passage_id": "t0",
+          "quote": "Seeing a lot of replies saying agents can't buy compute on Testnet yet. They can. The gateway is up right now."
+        },
+        {
+          "source_id": "2126565980063269222",
+          "passage_id": "t2",
+          "quote": "It lists 8 models served by calibrated miners and it takes OpenAI style requests, so your agent can call it the way it calls any other model API."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "cfm_sol称HEY已宣布扩展至Base，计划再覆盖Ethereum与Solana；持有约500美元HEY可解锁Research Terminal，付费安全审查计划2027年1月1日上线、1000美元起。作者提醒记录数不等于研究质量，重点看付费单量、Terminal留存和外部MCP用量。",
+      "author": "cfm_sol",
+      "id": "2126557334994587679",
+      "sources": [
+        {
+          "id": "2126557334994587679",
+          "author": "cfm_sol",
+          "url": "https://x.com/cfm_sol/status/2126557334994587679",
+          "published_at": "Sat Nov 28 06:02:32 +0000 2026"
+        }
+      ],
+      "icon": "🔎",
+      "resonance": false,
+      "event": "HEY多链扩展与付费化",
+      "new_information": "Terminal持币门槛、付费审查计划，及作者的风险与跟踪指标",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126557334994587679"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t21",
+          "quote": "According to the official update, holding approximately $500 worth of HEY unlocks Terminal access, with a minimum holding value of $450 required afterward and a one-day grace period. This makes the token an access pass to a premium research product, rather than just a payment method."
+        },
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t22",
+          "quote": "More importantly, HEY is beginning to monetize its research services directly. The team plans to launch paid Security Reviews on January 1, 2027. Free reviews will remain available until then, with free requests closing on December 15 to allow the team to clear its existing queue. Paid reviews will start at $1,000. Holders receive priority in the queue, and"
+        },
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t27",
+          "quote": "Multichain expansion is another important development. HEY initially tracked only RH Chain, but it has now announced an expansion to Base. Notably, the team did not wait for the official Base launch to start working. It had already been tracking project Releases, Deploys, and Changelogs for weeks. The official launch simply makes those records public."
+        },
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t28",
+          "quote": "Ethereum Mainnet and Solana are planned next."
+        },
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t43",
+          "quote": "There are still meaningful risks. First, 8,190 Ships do not represent 8,190 high-quality projects, and a growing number of records does not guarantee that research quality is improving at the same pace. Second, multichain expansion increases the cost of data collection, verification, and maintenance, and coverage across Base, Ethereum, and Solana will need"
+        },
+        {
+          "source_id": "2126557334994587679",
+          "passage_id": "t49",
+          "quote": "The four metrics I care about most are the actual number of paid Security Review orders, Terminal holder addresses and renewal retention, external MCP usage, and the growth and evidence quality of Verified Builders across different chains. These are much better indicators of a sustainable business than project listing counts or X engagement alone."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "gkisokay按Hyperliquid precompiles在Elysium可实现的六类场景筛币，买入Tokos、Symbolon（symb）与Implied。他称无法核实团队、池子小，故仓位较小；precompiles上线前这些功能都无法运作，他在等其上测试网。",
+      "author": "gkisokay",
+      "id": "2126543966388752471",
+      "sources": [
+        {
+          "id": "2126543966388752471",
+          "author": "gkisokay",
+          "url": "https://x.com/gkisokay/status/2126543966388752471",
+          "published_at": "Sat Nov 28 05:09:25 +0000 2026"
+        }
+      ],
+      "icon": "🧪",
+      "resonance": false,
+      "event": "gkisokay的Elysium生态选币",
+      "new_information": "按precompiles场景筛出三币及小仓位理由",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126543966388752471"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t3",
+          "quote": "PropAMMs, 0DTE options, lending sized by how deep the books are, credit against your Hyperliquid positions, free oracles and strategy vaults."
+        },
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t4",
+          "quote": "None of it works until the precompiles are live, but the projects building the right thing now have a head start when they are."
+        },
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t6",
+          "quote": "• $Tokos puts Hyperliquid funding onchain every hour and lets you trade it as a fixed or floating rate. That makes it the oracle slot and a product on top of it"
+        },
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t7",
+          "quote": "• Symbolon $symb gives every perp-only coin on Hyperliquid a spot leg backed 1:1 by the real coin, and runs a basis vault that earns the funding."
+        },
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t8",
+          "quote": "• Implied sells options on BTC, ETH, HYPE and NVIDIA, filled on Derive and paid on Elysium. It's the loosest fit to Hyperliquid, but it's in the same lane."
+        },
+        {
+          "source_id": "2126543966388752471",
+          "passage_id": "t9",
+          "quote": "I couldn't verify the teams, and these pools are small, so I sized them that way. If the precompiles hit testnet these are the best technical fits I found, and the desk is watching for that date."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "币安称，按监管对储备结构的新要求，已把SAFU中7,500枚BTC转回自有资本账户，并注入5亿USDC。币安称这是内部划转，未在市场出售BTC，SAFU仍由ADGM监管的Nest托管。",
+      "author": "wublockchain12",
+      "id": "2126558491099926725",
+      "sources": [
+        {
+          "id": "2126558491099926725",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2126558491099926725",
+          "published_at": "Sat Nov 28 06:07:08 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "币安SAFU资产结构调整",
+      "new_information": "转出7,500枚BTC，注入5亿USDC",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126558491099926725"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126558491099926725",
+          "passage_id": "t0",
+          "quote": "吴说获悉，币安于 11 月 28 日发布公告称，根据监管对储备资产结构的最新要求，已将用户安全资产基金（SAFU）中的 7,500 枚 BTC 转回币安自有资本账户，并从自有资本中向 SAFU 注入 5 亿 USDC。币安强调，此次调整在内部账户之间完成，不涉及任何 BTC 市场出售或交易，后续将根据市场及储备结构情况持续补充 SAFU，不改变其对 BTC 的长期配置立场。SAFU 仍由受阿布扎比全球市场（ADGM）监管的认可清算机构 Nest Clearing and Custody Limited 持有并管理。https://t.co/cDPn25izbd"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Anthropic否认训练Claude破坏工作，承认Fable 5发布首两日曾对部分LLM研究施加不可见限制，6月10日已撤回；称部分报告更像长任务中的“过度谨慎”。",
+      "author": "edwinarbus",
+      "id": "2126507795642187855",
+      "sources": [
+        {
+          "id": "2126507795642187855",
+          "author": "edwinarbus",
+          "url": "https://x.com/edwinarbus/status/2126507795642187855",
+          "published_at": "Sat Nov 28 02:45:41 +0000 2026"
+        },
+        {
+          "id": "2126535741803315563",
+          "author": "AndrewCurran_",
+          "url": "https://x.com/AndrewCurran_/status/2126535741803315563",
+          "published_at": "Sat Nov 28 04:36:44 +0000 2026"
+        },
+        {
+          "id": "2126547116763783377",
+          "author": "ivan_bezdomny",
+          "url": "https://x.com/ivan_bezdomny/status/2126547116763783377",
+          "published_at": "Sat Nov 28 05:21:56 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": true,
+      "event": "Anthropic回应Claude破坏争议",
+      "new_information": "承认曾短暂施加不可见限制，部分报告归因于过度谨慎",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126507795642187855",
+        "2126535741803315563",
+        "2126547116763783377"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126507795642187855",
+          "passage_id": "t0",
+          "quote": "Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage."
+        },
+        {
+          "source_id": "2126507795642187855",
+          "passage_id": "t1",
+          "quote": "There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-visible safeguards to some LLM research. This was a mistake, and we reversed it on June 10. These safeguards now clearly block the request or fall back, with a message users can see"
+        },
+        {
+          "source_id": "2126507795642187855",
+          "passage_id": "t4",
+          "quote": "As far as we can tell, some reports look like what we call \"overcaution\" in model behavior, where Claude gets overly attached to rules it makes for itself during long-running tasks. This isn’t specific to ML research, and we see it in models without these training changes (including Opus 5.5) and in our own work too. You can ask Claude to review and remove"
+        },
+        {
+          "source_id": "2126535741803315563",
+          "passage_id": "t0",
+          "quote": "A response from Anthropic on the sabotage debate that has been dominating my feed for the last 48 hours."
+        },
+        {
+          "source_id": "2126547116763783377",
+          "passage_id": "t0",
+          "quote": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "美国监管机构关闭资产59亿美元的United Fidelity Bank，为2024年4月以来最大银行倒闭，First Citizens承接全部54亿美元存款。HormuzLetter称预计逾31%资产将损失。",
+      "author": "DegenerateNews",
+      "id": "2126538559385477584",
+      "sources": [
+        {
+          "id": "2126538559385477584",
+          "author": "DegenerateNews",
+          "url": "https://x.com/DegenerateNews/status/2126538559385477584",
+          "published_at": "Sat Nov 28 04:47:56 +0000 2026"
+        },
+        {
+          "id": "2126532564051718525",
+          "author": "HormuzLetter",
+          "url": "https://x.com/HormuzLetter/status/2126532564051718525",
+          "published_at": "Sat Nov 28 04:24:06 +0000 2026"
+        },
+        {
+          "id": "2126547353033380204",
+          "author": "vonzz6",
+          "url": "https://x.com/vonzz6/status/2126547353033380204",
+          "published_at": "Sat Nov 28 05:22:52 +0000 2026"
+        }
+      ],
+      "icon": "🏚️",
+      "resonance": true,
+      "event": "United Fidelity Bank倒闭",
+      "new_information": "59亿美元资产银行倒闭，存款由First Citizens承接",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126538559385477584",
+        "2126532564051718525",
+        "2126547353033380204"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126538559385477584",
+          "passage_id": "t0",
+          "quote": "🚨 BREAKING: US REGULATORS SHUT DOWN UNITED FIDELITY BANK - A $5.9 BILLION LENDER WITH 22 BRANCHES - IN THE BIGGEST US BANK FAILURE SINCE REPUBLIC FIRST BANK IN APRIL 2024"
+        },
+        {
+          "source_id": "2126538559385477584",
+          "passage_id": "t1",
+          "quote": "FIRST CITIZENS IS TAKING OVER ALL $5.4 BILLION IN DEPOSITS https://t.co/hIdMiSb5wp"
+        },
+        {
+          "source_id": "2126532564051718525",
+          "passage_id": "t2",
+          "quote": "The bank has $5.9 billion assets, and more than 31% of that is expected to be lost, an unusually high rate."
+        },
+        {
+          "source_id": "2126547353033380204",
+          "passage_id": "q0",
+          "quote": "🚨 BREAKING: US REGULATORS SHUT DOWN UNITED FIDELITY BANK - A $5.9 BILLION LENDER WITH 22 BRANCHES - IN THE BIGGEST US BANK FAILURE SINCE REPUBLIC FIRST BANK IN APRIL 2024"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "标普11月25日将NVDA的AA发行人及优先无担保债评级列入负面观察，称若90天内仍认为治理缺陷存在可能下调一档；同日穆迪维持Aa1、展望稳定。",
+      "author": "shicao_PI",
+      "id": "2126286302425600143",
+      "sources": [
+        {
+          "id": "2126286302425600143",
+          "author": "shicao_PI",
+          "url": "https://x.com/shicao_PI/status/2126286302425600143",
+          "published_at": "Fri Nov 27 12:05:33 +0000 2026"
+        }
+      ],
+      "icon": "💳",
+      "resonance": false,
+      "event": "标普将NVDA评级列入负面观察",
+      "new_information": "标普90天负面观察窗口，穆迪结论不同",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126286302425600143"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126286302425600143",
+          "passage_id": "t5",
+          "quote": "11月25日，标普全球把$NVDA的AA发行人评级和优先无担保债评级列入CreditWatch负面观察。路透引述标普：部分董事任职过长，独立性可能受损；先辞后复，并不足以回答董事会对高管行为准则的监督问题。若未来90天内仍认为治理缺陷还在，可能下调一档；除非调查或披露伤及声誉或前景，否则不预期更大幅度下调。"
+        },
+        {
+          "source_id": "2126286302425600143",
+          "passage_id": "t6",
+          "quote": "同一天，穆迪维持Aa1和稳定展望不变，称复职降低了近期执行层面的不确定性，但治理和监管不确定性并未完全消除。两家机构结论并不相同。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "前白宫加密顾问Patrick Witt称，Trump对战略比特币储备（SBR）及购入BTC“非常感兴趣”，他认为不久会就法律基础和托管发布公告。",
+      "author": "CoinMarketCap",
+      "id": "2126548398417264803",
+      "sources": [
+        {
+          "id": "2126548398417264803",
+          "author": "CoinMarketCap",
+          "url": "https://x.com/CoinMarketCap/status/2126548398417264803",
+          "published_at": "Sat Nov 28 05:27:02 +0000 2026"
+        }
+      ],
+      "icon": "🇺🇸",
+      "resonance": false,
+      "event": "美国SBR可能有新公告",
+      "new_information": "Witt认为不久将有关于SBR法律基础与托管的公告",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126548398417264803"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126548398417264803",
+          "passage_id": "t0",
+          "quote": "LATEST: 🇺🇸 Former White House crypto adviser Patrick Witt says Trump is \"very interested in the SBR and acquiring Bitcoin,\" telling Cointelegraph he thinks \"some announcements will come out soon\" on the legal footing and custody. https://t.co/oAiGcy60uP"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CZ称Trust Wallet、Binance Wallet等应用将对iOS 18.4–18.7用户弹窗警告；DarkSword与Coruna漏洞工具可经恶意网站读取旧版iOS上的钱包数据，建议升级或开锁定模式。",
+      "author": "cz_binance",
+      "id": "2126567714625880064",
+      "sources": [
+        {
+          "id": "2126567714625880064",
+          "author": "cz_binance",
+          "url": "https://x.com/cz_binance/status/2126567714625880064",
+          "published_at": "Sat Nov 28 06:43:47 +0000 2026"
+        }
+      ],
+      "icon": "📱",
+      "resonance": false,
+      "event": "币安生态应用对旧版iOS弹窗警告",
+      "new_information": "生态应用将弹窗，及两种漏洞工具的受影响版本",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126567714625880064"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126567714625880064",
+          "passage_id": "t0",
+          "quote": "Users on affected iOS versions (18.4–18.7) will see this warning pop up across most of our ecosystem apps and websites where OS detection is possible, including @TrustWallet, @CoinMarketCap, @PancakeFi, @BnbChain, @BinanceWallet..."
+        },
+        {
+          "source_id": "2126567714625880064",
+          "passage_id": "q2",
+          "quote": "Recently, security researchers have identified two exploit kits, Coruna and DarkSword, which target devices on older iOS versions. These kits exploit flaws in iOS itself. They don’t rely on a flaw in any wallet app, but once a device is compromised they can access wallet data stored on it."
+        },
+        {
+          "source_id": "2126567714625880064",
+          "passage_id": "q5",
+          "quote": "- DarkSword (iOS 18.4–18.7): Uses malicious websites to get around built-in iOS security protections and access sensitive information."
+        },
+        {
+          "source_id": "2126567714625880064",
+          "passage_id": "q7",
+          "quote": "1️⃣ Update to the most recent iOS version available for your device."
+        },
+        {
+          "source_id": "2126567714625880064",
+          "passage_id": "q8",
+          "quote": "2️⃣ If updating isn’t possible right now, turn on Lockdown Mode for an added layer of security."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "币安获不丹Gelephu Mindfulness City（GMC）原则性批准，可设立受监管的数字资产业务，并计划在不丹建立亚洲枢纽。",
+      "author": "binance",
+      "id": "2126541221937971514",
+      "sources": [
+        {
+          "id": "2126541221937971514",
+          "author": "binance",
+          "url": "https://x.com/binance/status/2126541221937971514",
+          "published_at": "Sat Nov 28 04:58:31 +0000 2026"
+        },
+        {
+          "id": "2126552231881425045",
+          "author": "_RichardTeng",
+          "url": "https://x.com/_RichardTeng/status/2126552231881425045",
+          "published_at": "Sat Nov 28 05:42:16 +0000 2026"
+        }
+      ],
+      "icon": "🇧🇹",
+      "resonance": false,
+      "event": "币安获不丹GMC原则批准",
+      "new_information": "可设受监管业务并建亚洲枢纽",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126541221937971514",
+        "2126552231881425045"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126541221937971514",
+          "passage_id": "t1",
+          "quote": "Together, we’re working towards establishing regulated digital asset operations in GMC, with plans to establish an Asia hub in Bhutan 🇧🇹"
+        },
+        {
+          "source_id": "2126541221937971514",
+          "passage_id": "q1",
+          "quote": "@binance has secured in-principle approval to establish regulated digital asset operations in Gelephu Mindfulness City (GMC) with plans to establish an Asia hub in Bhutan."
+        },
+        {
+          "source_id": "2126552231881425045",
+          "passage_id": "t1",
+          "quote": "That’s why I’m excited about our partnership with @gmcbhutan, and the plans to build together in Bhutan."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "AshCrypto称，本周BlackRock等BTC ETF合计卖出约16.4亿美元BTC。",
+      "author": "AshCrypto",
+      "id": "2126546852959093033",
+      "sources": [
+        {
+          "id": "2126546852959093033",
+          "author": "AshCrypto",
+          "url": "https://x.com/AshCrypto/status/2126546852959093033",
+          "published_at": "Sat Nov 28 05:20:53 +0000 2026"
+        }
+      ],
+      "icon": "💸",
+      "resonance": false,
+      "event": "BTC ETF本周卖出",
+      "new_information": "本周合计约16.4亿美元",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126546852959093033"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126546852959093033",
+          "passage_id": "t1",
+          "quote": "🇺🇸 BlackRock and other ETFs sold $1.64 Billion worth of Bitcoin this week https://t.co/7vMApeMSNY"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "何一在曼谷BNB Demo Night称Perp DEX是生态补充，不会简单替代CEX。sanyuanVC补充称近30天Perp DEX成交约7,637亿美元，占全网永续约12%，2023年1月仅0.11%。",
+      "author": "sanyuanVC",
+      "id": "2126543392071168345",
+      "sources": [
+        {
+          "id": "2126543392071168345",
+          "author": "sanyuanVC",
+          "url": "https://x.com/sanyuanVC/status/2126543392071168345",
+          "published_at": "Sat Nov 28 05:07:08 +0000 2026"
+        }
+      ],
+      "icon": "📊",
+      "resonance": false,
+      "event": "何一谈Perp DEX定位",
+      "new_information": "何一定位Perp DEX为补充，及作者引用的份额数据",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126543392071168345"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126543392071168345",
+          "passage_id": "t2",
+          "quote": "她的回答很明确：看好它的价值，但定位是生态补充，不会简单替代。"
+        },
+        {
+          "source_id": "2126543392071168345",
+          "passage_id": "t3",
+          "quote": "近 30 天 Perp DEX 成交约 7,637 亿美元，占全网永续的 12 % 左右，而 2023 年 1 月只有 0.11 %，短短几年涨了约 100 倍，发展得很迅速。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Wuhuoqiu据币安ECM招聘关键词推断其将进入一级市场，可能性依次为美股IPO配售代币化、未上市公司链上IPO、私募股权代币化。他认为SpaceX打新卡在拿不到一级配售份额。",
+      "author": "Wuhuoqiu",
+      "id": "2126559581849763948",
+      "sources": [
+        {
+          "id": "2126559581849763948",
+          "author": "Wuhuoqiu",
+          "url": "https://x.com/Wuhuoqiu/status/2126559581849763948",
+          "published_at": "Sat Nov 28 06:11:28 +0000 2026"
+        }
+      ],
+      "icon": "🏛️",
+      "resonance": false,
+      "event": "币安代币化IPO路径分析",
+      "new_information": "三种路径的可能性排序及配售份额瓶颈",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126559581849763948"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t1",
+          "quote": "首先，最重要的 - 单从招聘广告，以及目前所披露出来的信息，无法确定币安要做的，是下面三件事的哪一件"
+        },
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t2",
+          "quote": "1. A轮B轮等私募股权的代币化"
+        },
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t3",
+          "quote": "2. 美股IPO的公司的承销/分销代币化"
+        },
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t4",
+          "quote": "3. 未上市公司的链上IPO"
+        },
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t6",
+          "quote": "上次SpaceX的打新，币安被各种吐槽，就说明二级代币化映射解决了，但一级配售那边卡住了，拿不到份额"
+        },
+        {
+          "source_id": "2126559581849763948",
+          "passage_id": "t32",
+          "quote": "所以当前看下来，我感觉可能性是2 > 3 > 1, 但我个人其实期待的是1。Anyway，边走边看，到时候看看币安下的到底是哪步棋"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Bitwise CEO Horsley称，BTC是非生产性、反身性资产，HYPE是生产性资产，价值会随Hyperliquid用量增长；传统“占某市场X%”的估值思路可能低估HYPE。",
+      "author": "TTT_News_",
+      "id": "2126558959897133284",
+      "sources": [
+        {
+          "id": "2126558959897133284",
+          "author": "TTT_News_",
+          "url": "https://x.com/TTT_News_/status/2126558959897133284",
+          "published_at": "Sat Nov 28 06:09:00 +0000 2026"
+        }
+      ],
+      "icon": "⚙️",
+      "resonance": false,
+      "event": "Bitwise CEO谈HYPE估值",
+      "new_information": "以生产性资产框架看HYPE",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126558959897133284"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126558959897133284",
+          "passage_id": "t1",
+          "quote": "Unlike Bitcoin, which he describes as a non-productive, reflexive asset, HYPE is a productive asset backed by actual usage."
+        },
+        {
+          "source_id": "2126558959897133284",
+          "passage_id": "t2",
+          "quote": "His thesis is simple: as Hyperliquid's usage grows, HYPE's value will grow, regardless of market sentiment."
+        },
+        {
+          "source_id": "2126558959897133284",
+          "passage_id": "q0",
+          "quote": "Most crypto intuition is: {Coin X} could be {Y%} of {Z}."
+        },
+        {
+          "source_id": "2126558959897133284",
+          "passage_id": "q5",
+          "quote": "As a result, HYPE can be *much* more valuable than most people realize."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "日本上市游戏公司enish计划在11月27日至12月27日出售全部5,932枚SOL，成本约9,994万日元，预计亏损约4,300万日元。公司还拟撤回对SBI Crypto Fund I的5,000万日元出资。",
+      "author": "wublockchain12",
+      "id": "2126550730769379522",
+      "sources": [
+        {
+          "id": "2126550730769379522",
+          "author": "wublockchain12",
+          "url": "https://x.com/wublockchain12/status/2126550730769379522",
+          "published_at": "Sat Nov 28 05:36:18 +0000 2026"
+        }
+      ],
+      "icon": "🎮",
+      "resonance": false,
+      "event": "enish清仓SOL",
+      "new_information": "出售全部5,932枚SOL，预计亏4,300万日元",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126550730769379522"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126550730769379522",
+          "passage_id": "t0",
+          "quote": "日本上市游戏公司 enish（3667）11 月 27 日公告，计划于 11 月 27 日至 12 月 27 日出售全部 5,932.0586 枚 SOL，累计购入成本约 9,994 万日元。按公告参考价格估算，出售所得约为 6,400 万日元，预计计入第四季度的账面出售损失约为 4,300 万日元，实际金额取决于成交价格及费用。公司还拟撤回对 SBI Crypto Fund I 的 5,000 万日元出资，尚待基金运营方批准。enish 表示，此举旨在优先保障游戏主业资金及财务稳定，数字资产财库业务仍将继续。https://t.co/KDGbcnbGyc"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Counterpoint预测，2028年AI服务器ASIC的HBM需求中Google占58.5%、AWS占20.3%；ASIC所用HBM位元需求2024至2028年将增长35倍。",
+      "author": "pequityresearch",
+      "id": "2126528397366948200",
+      "sources": [
+        {
+          "id": "2126528397366948200",
+          "author": "pequityresearch",
+          "url": "https://x.com/pequityresearch/status/2126528397366948200",
+          "published_at": "Sat Nov 28 04:07:33 +0000 2026"
+        }
+      ],
+      "icon": "🧠",
+      "resonance": false,
+      "event": "ASIC的HBM需求预测",
+      "new_information": "2028年Google占58.5%，需求增35倍",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126528397366948200"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126528397366948200",
+          "passage_id": "t0",
+          "quote": "According to Counterpoint Research, Google is forecasted to lead in HBM demand share for AI server ASICs in 2028 with a 58.5% share, followed by Amazon AWS at 20.3%."
+        },
+        {
+          "source_id": "2126528397366948200",
+          "passage_id": "t1",
+          "quote": "They forecast that demand for HBM bits on ASICs for AI servers will increase 35x from 2024 to 2028."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "YZi Labs公布EASY Residency第五季24个孵化项目。Biteye对比前两季称，投资重心从支付基础设施转向AI×金融与链上资本市场，RWA布局延伸至期权、永续等衍生品。",
+      "author": "DeFiTeddy2020",
+      "id": "2126564845696995537",
+      "sources": [
+        {
+          "id": "2126564845696995537",
+          "author": "DeFiTeddy2020",
+          "url": "https://x.com/DeFiTeddy2020/status/2126564845696995537",
+          "published_at": "Sat Nov 28 06:32:23 +0000 2026"
+        },
+        {
+          "id": "2126549743350501384",
+          "author": "yzilabs",
+          "url": "https://x.com/yzilabs/status/2126549743350501384",
+          "published_at": "Sat Nov 28 05:32:22 +0000 2026"
+        }
+      ],
+      "icon": "🌱",
+      "resonance": false,
+      "event": "YZi Labs第五季孵化名单",
+      "new_information": "24个项目，重心转向AI与链上资本市场",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126564845696995537",
+        "2126549743350501384"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126564845696995537",
+          "passage_id": "q2",
+          "quote": "泰国 Binance Blockchain Week 期间，YZi Labs 正式公布了第五季 EASY Residency 孵化名单，共有 24 个项目入选，覆盖 AI、链上金融、RWA、隐私及消费应用等多个领域。"
+        },
+        {
+          "source_id": "2126564845696995537",
+          "passage_id": "q5",
+          "quote": "🌟TL;DR：YZi Labs 的投资重心正在从全球支付基础设施转向 AI 与链上资本市场。"
+        },
+        {
+          "source_id": "2126564845696995537",
+          "passage_id": "q7",
+          "quote": "- AI × Finance 成为本季重点： 从辅助交易向自主投资决策、资产配置、交易执行及代币发行延伸。"
+        },
+        {
+          "source_id": "2126564845696995537",
+          "passage_id": "q8",
+          "quote": "- RWA 进入深度金融化阶段： 布局重点从资产上链延伸至期权、永续合约、结构化产品及流动性服务。"
+        },
+        {
+          "source_id": "2126549743350501384",
+          "passage_id": "t1",
+          "quote": "24 founding teams take the stage to showcase what they've been building, followed by a closing fireside chat with @cz_binance and @ellazhang516."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "中国网信办等11部门联合发布规定，建立基于区块链的国家数字身份体系，2027年3月1日起施行。",
+      "author": "0xbabycow",
+      "id": "2126560533306552430",
+      "sources": [
+        {
+          "id": "2126560533306552430",
+          "author": "0xbabycow",
+          "url": "https://x.com/0xbabycow/status/2126560533306552430",
+          "published_at": "Sat Nov 28 06:15:15 +0000 2026"
+        }
+      ],
+      "icon": "🆔",
+      "resonance": false,
+      "event": "中国区块链数字身份规定",
+      "new_information": "11部门联合发布，2027年3月1日施行",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126560533306552430"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126560533306552430",
+          "passage_id": "q0",
+          "quote": "LATEST: 🇨🇳 China's cyberspace regulator and 10 other agencies jointly issued new rules establishing a national blockchain-based digital identity system, effective March 1, 2027. https://t.co/VbQNpcAsI8"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Celo Core Co.在币安区块链周推出Celo FX Alliance，推动本地货币稳定币之间的链上兑换。Opera、Frax、Ripio等九家机构为创始成员。",
+      "author": "Celo",
+      "id": "2126556773419229219",
+      "sources": [
+        {
+          "id": "2126556773419229219",
+          "author": "Celo",
+          "url": "https://x.com/Celo/status/2126556773419229219",
+          "published_at": "Sat Nov 28 06:00:18 +0000 2026"
+        },
+        {
+          "id": "2126549445974057358",
+          "author": "CoinDesk",
+          "url": "https://x.com/CoinDesk/status/2126549445974057358",
+          "published_at": "Sat Nov 28 05:31:11 +0000 2026"
+        }
+      ],
+      "icon": "💱",
+      "resonance": false,
+      "event": "Celo FX Alliance成立",
+      "new_information": "九家创始成员推动链上外汇",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126556773419229219",
+        "2126549445974057358"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126556773419229219",
+          "passage_id": "t0",
+          "quote": "LIVE FROM #BINANCEBLOCKCHAINWEEK: Celo Core Co. is launching the Celo FX Alliance to grow onchain FX between the world's local currencies!"
+        },
+        {
+          "source_id": "2126556773419229219",
+          "passage_id": "t1",
+          "quote": "@Opera, @fraxfinance, @Schuman_io, @VNX_Global, @RipioHQ, @idrx_co, @cngn_co, @minteocom &amp; @Textileprotocol join as founding members https://t.co/g19LxBLORj"
+        },
+        {
+          "source_id": "2126549445974057358",
+          "passage_id": "t0",
+          "quote": "@MarkusCelo announces the @Celo FX Alliance, bringing partners across the stack together to grow onchain FX with easy, cheap swaps between local stablecoins."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "MastrXYZ链上追踪称，WLFI以自家USD1抵押借入5056万USDC，USD1跌破0.9297即可被清算，周六07:05 UTC距清算约1%。Dolomite的USD1市场利用率100%，出借人合计目前仅可提约2.5万美元。",
+      "author": "MastrXYZ",
+      "id": "2126593011387625734",
+      "sources": [
+        {
+          "id": "2126593011387625734",
+          "author": "MastrXYZ",
+          "url": "https://x.com/MastrXYZ/status/2126593011387625734",
+          "published_at": "Sat Nov 28 08:24:18 +0000 2026"
+        }
+      ],
+      "icon": "🧯",
+      "resonance": false,
+      "event": "WLFI在Dolomite以USD1抵押的USDC借款清算风险",
+      "new_information": "USD1抵押借款清算价0.9297，曾距清算约1%；Dolomite USD1出借人几乎无法提款",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126593011387625734"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126593011387625734",
+          "passage_id": "t24",
+          "quote": "- WLFI's USDC loan: 50.56M USDC borrowed against 60.42M of its own USD1. Liquidation at $0.9297. At 07:05 it was about 1% away"
+        },
+        {
+          "source_id": "2126593011387625734",
+          "passage_id": "t27",
+          "quote": "- Dolomite's USD1 market: $168M supplied, $168M borrowed, 100% used"
+        },
+        {
+          "source_id": "2126593011387625734",
+          "passage_id": "t28",
+          "quote": "- All USD1 lenders together can withdraw about $25,000 right now"
+        },
+        {
+          "source_id": "2126593011387625734",
+          "passage_id": "t38",
+          "quote": "- The danger: USD1 below $0.93 and WLFI's own USDC loan can be liquidated. WLFI below $0.0118 and 3.99B WLFI, about $75M, can be dumped into a falling market. Any shortfall lands on lenders"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Leopold Aschenbrenner的SALP三季度信押注AI实验室、存储芯片与算力租赁，最大私募仓位为Anthropic，并列出可能被颠覆的软件与芯片设计股（含NVDA、AVGO、ASML）。信中估计Kioxia低于2027年1倍市盈率，SK Hynix约为2027年盈利的2倍。",
+      "author": "LeopoldTracker_",
+      "id": "2126573793602625923",
+      "sources": [
+        {
+          "id": "2126573793602625923",
+          "author": "LeopoldTracker_",
+          "url": "https://x.com/LeopoldTracker_/status/2126573793602625923",
+          "published_at": "Sat Nov 28 07:07:56 +0000 2026"
+        },
+        {
+          "id": "2126600942560919834",
+          "author": "aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2126600942560919834",
+          "published_at": "Sat Nov 28 08:55:49 +0000 2026"
+        },
+        {
+          "id": "2126601238267777136",
+          "author": "PANewsCN",
+          "url": "https://x.com/PANewsCN/status/2126601238267777136",
+          "published_at": "Sat Nov 28 08:57:00 +0000 2026"
+        },
+        {
+          "id": "2126602951598682163",
+          "author": "MrPingChecks",
+          "url": "https://x.com/MrPingChecks/status/2126602951598682163",
+          "published_at": "Sat Nov 28 09:03:48 +0000 2026"
+        }
+      ],
+      "icon": "🧠",
+      "resonance": true,
+      "event": "SALP三季度信持仓与回避名单",
+      "new_information": "看多与回避标的清单，及Kioxia、SK Hynix估值测算",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126573793602625923",
+        "2126600942560919834",
+        "2126601238267777136",
+        "2126602951598682163"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126573793602625923",
+          "passage_id": "t4",
+          "quote": "• Foundation Models: Anthropic is the main bet because the model itself becomes the product. Situational Awareness LP (SALP) says Anthropic ARR grew ~80x in 22 months, from ~$1B to ~$81B, and argues leading AI labs could exit 2027 at $1T+ combined revenue run-rate"
+        },
+        {
+          "source_id": "2126573793602625923",
+          "passage_id": "t10",
+          "quote": "Stocks to own:"
+        },
+        {
+          "source_id": "2126573793602625923",
+          "passage_id": "t21",
+          "quote": "Stocks to avoid:"
+        },
+        {
+          "source_id": "2126600942560919834",
+          "passage_id": "t1",
+          "quote": "- Identifies Kioxia (285A) as currently of his fund's largest holdings, estimates it trades below 1x 2027 P/E."
+        },
+        {
+          "source_id": "2126600942560919834",
+          "passage_id": "t2",
+          "quote": "- On $SKHY, estimates, it to be roughly 2x 2027 earnings, and can buy back half the company by end-2027."
+        },
+        {
+          "source_id": "2126601238267777136",
+          "passage_id": "t3",
+          "quote": "信中点名英伟达、博通、AMD、Arm、ASML等，称它们的芯片设计和生态优势会被比人类更强的AI迅速超越。"
+        },
+        {
+          "source_id": "2126601238267777136",
+          "passage_id": "t4",
+          "quote": "基金目前重点布局AI实验室、存储芯片和算力租赁，最大的私募仓位是Anthropic。"
+        },
+        {
+          "source_id": "2126602951598682163",
+          "passage_id": "t9",
+          "quote": "信里看好的标的："
+        },
+        {
+          "source_id": "2126602951598682163",
+          "passage_id": "t20",
+          "quote": "信里认为会被颠覆的标的："
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Casper777_eth把稳定币脱锚分为两类：储备可兑付的流动性恐慌（如2023年USDC）是套利窗口，底层信用崩塌则是陷阱。他认为USD1筹码集中、赎回透明度弱，二级市场低价买入不等于能按1美元赎回，挤兑时赎回先到先得。",
+      "author": "Casper777_eth",
+      "id": "2126580236599087239",
+      "sources": [
+        {
+          "id": "2126580236599087239",
+          "author": "Casper777_eth",
+          "url": "https://x.com/Casper777_eth/status/2126580236599087239",
+          "published_at": "Sat Nov 28 07:33:33 +0000 2026"
+        }
+      ],
+      "icon": "🪤",
+      "resonance": false,
+      "event": "USD1脱锚抄底风险框架",
+      "new_information": "区分流动性恐慌与信用崩塌，质疑USD1赎回可得性",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126580236599087239"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126580236599087239",
+          "passage_id": "t0",
+          "quote": "稳定币每年都有脱锚，但分两类："
+        },
+        {
+          "source_id": "2126580236599087239",
+          "passage_id": "t1",
+          "quote": "一类是流动性恐慌型，基本面没问题，是套利窗口，比如2023年硅谷银行USDC，当年SVB危机能修复，核心是储备可兑付，这就是典型的流动性恐慌，必须抄底，必须狠狠套利。"
+        },
+        {
+          "source_id": "2126580236599087239",
+          "passage_id": "t2",
+          "quote": "另一类是底层信用崩塌型，是死亡陷阱。"
+        },
+        {
+          "source_id": "2126580236599087239",
+          "passage_id": "t3",
+          "quote": "USD1不属于USDC那种强合规标的，把它的脱锚直接当成“送钱抄底”，赔率很差。"
+        },
+        {
+          "source_id": "2126580236599087239",
+          "passage_id": "t4",
+          "quote": "USD1筹码高度集中、赎回透明度弱，脱锚的风险完全不在一个级别。二级市场低价买入≠一定能按1美元赎回：如果挤兑潮起来，赎回是“先到先得”，后面的人拿不到美元，折扣就永久锁死￼￼￼。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Arthur Hayes称12月FOMC对市场情绪至关重要，预计纳指和科技股抛售将恢复并拖累BTC。他等待的信号是黄金上涨的同时纳指下跌，并称若加息带来更多痛苦反而说明救助将至。",
+      "author": "TheBlockCo",
+      "id": "2126597858556354978",
+      "sources": [
+        {
+          "id": "2126597858556354978",
+          "author": "TheBlockCo",
+          "url": "https://x.com/TheBlockCo/status/2126597858556354978",
+          "published_at": "Sat Nov 28 08:43:34 +0000 2026"
+        }
+      ],
+      "icon": "🥇",
+      "resonance": false,
+      "event": "Hayes的12月FOMC观察信号",
+      "new_information": "以金涨纳指跌为信号，预期科技股抛售拖累BTC",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126597858556354978"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126597858556354978",
+          "passage_id": "t0",
+          "quote": "Maelstrom CIO Arthur Hayes tells The Starting Block that December's FOMC will be crucial for market sentiment."
+        },
+        {
+          "source_id": "2126597858556354978",
+          "passage_id": "t1",
+          "quote": "\"If the Fed hikes and we get even more pain, great too, because we know the bailout is coming.\""
+        },
+        {
+          "source_id": "2126597858556354978",
+          "passage_id": "t2",
+          "quote": "📉 Expects selling to resume in the Nasdaq and tech names, and that weighs on Bitcoin"
+        },
+        {
+          "source_id": "2126597858556354978",
+          "passage_id": "t3",
+          "quote": "🥇 The signal he wants: gold rallying while the Nasdaq falls"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "截至11月27日，SparkLend的ETH浮动借款利率为1.74% APY，低于stETH 2.3% APR的质押收益。ETH E-Mode下以wstETH抵押借ETH，最高LTV 92%、清算阈值93%。Spark提示利率浮动、APR与APY口径不同，且有清算风险。",
+      "author": "sparkfinance",
+      "id": "2126349901936132100",
+      "sources": [
+        {
+          "id": "2126349901936132100",
+          "author": "sparkfinance",
+          "url": "https://x.com/sparkfinance/status/2126349901936132100",
+          "published_at": "Fri Nov 27 16:18:16 +0000 2026"
+        }
+      ],
+      "icon": "🔁",
+      "resonance": false,
+      "event": "SparkLend ETH借贷利差",
+      "new_information": "ETH借款1.74%低于stETH质押2.3%，E-Mode最高LTV 92%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126349901936132100"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126349901936132100",
+          "passage_id": "t1",
+          "quote": "The variable ETH borrow rate on SparkLend is 1.74% APY, compared with a stETH staking yield of 2.3% APR."
+        },
+        {
+          "source_id": "2126349901936132100",
+          "passage_id": "t7",
+          "quote": "ETH E-Mode can support greater capital efficiency when borrowing ETH against wstETH collateral, with a maximum LTV of 92% and a liquidation threshold of 93%."
+        },
+        {
+          "source_id": "2126349901936132100",
+          "passage_id": "t10",
+          "quote": "Market data as of 27 November 2026. Borrowing and staking rates are variable. APR and APY use different calculation methodologies. Positions are subject to liquidation risk. Sources: SparkLend and Lido."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "Kamino在Utila上线USDC金库，收益由Yield提供，最高9% APY，按月派息、不设存款上限。",
+      "author": "solana_daily",
+      "id": "2126627610461684217",
+      "sources": [
+        {
+          "id": "2126627610461684217",
+          "author": "solana_daily",
+          "url": "https://x.com/solana_daily/status/2126627610461684217",
+          "published_at": "Sat Nov 28 10:41:47 +0000 2026"
+        }
+      ],
+      "icon": "🏧",
+      "resonance": false,
+      "event": "Kamino Utila USDC金库",
+      "new_information": "最高9% APY，无存款上限",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126627610461684217"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126627610461684217",
+          "passage_id": "q3",
+          "quote": "→launched a USDC vault on Utila offering up to 9% APY, powered by Yield, with monthly payouts and no deposit cap."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🟡 机会与信号",
+      "summary": "LumaoDoggie分享链上合约套利的回测要点：小DEX没有历史数据，需尽早自行录制盘口与订单簿；录制用的VPS要选独享CPU实例，避免数据失真；回放脚本用Rust编写，并先交给其他AI审查以减少返工。",
+      "author": "LumaoDoggie",
+      "id": "2126616381227778111",
+      "sources": [
+        {
+          "id": "2126616381227778111",
+          "author": "LumaoDoggie",
+          "url": "https://x.com/LumaoDoggie/status/2126616381227778111",
+          "published_at": "Sat Nov 28 09:57:10 +0000 2026"
+        }
+      ],
+      "icon": "🛠️",
+      "resonance": false,
+      "event": "链上合约套利回测方法",
+      "new_information": "自录订单簿、独享CPU、Rust回放与AI审查",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126616381227778111"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t2",
+          "quote": "早点录制盘口和订单簿"
+        },
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t3",
+          "quote": "很多小一点的dex, 你是找不到地方有历史记录给你的.  只能自己录制.   这就很耗时间了.  所以早一点录制."
+        },
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t5",
+          "quote": "录制行情的 VPS机器, 要选独享CPU实例"
+        },
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t7",
+          "quote": "如果是共享cpu 实例, 每分钟前一两秒会卡一下.  这样会导致你的录制出来的数据失真."
+        },
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t9",
+          "quote": "告诉AI, 把行情回放脚本用Rust写."
+        },
+        {
+          "source_id": "2126616381227778111",
+          "passage_id": "t12",
+          "quote": "行情回放脚本, 用其他AI code review后再跑.."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "USD1周六一度跌至约0.94美元，Gate插针至约0.8406。Lookonchain称Jump Crypto在交易所折价买入并经BitGo按1美元赎回，一小时内从交易所提走4326万枚；solidintel称其后已近乎恢复锚定。",
+      "author": "lookonchain",
+      "id": "2126579948244869339",
+      "sources": [
+        {
+          "id": "2126579948244869339",
+          "author": "lookonchain",
+          "url": "https://x.com/lookonchain/status/2126579948244869339",
+          "published_at": "Sat Nov 28 07:32:24 +0000 2026"
+        },
+        {
+          "id": "2126596187373629899",
+          "author": "get_optimum",
+          "url": "https://x.com/get_optimum/status/2126596187373629899",
+          "published_at": "Sat Nov 28 08:36:55 +0000 2026"
+        },
+        {
+          "id": "2126593883983446373",
+          "author": "OdailyChina",
+          "url": "https://x.com/OdailyChina/status/2126593883983446373",
+          "published_at": "Sat Nov 28 08:27:46 +0000 2026"
+        },
+        {
+          "id": "2126587600907714972",
+          "author": "solidintel_x",
+          "url": "https://x.com/solidintel_x/status/2126587600907714972",
+          "published_at": "Sat Nov 28 08:02:48 +0000 2026"
+        },
+        {
+          "id": "2126577684033556904",
+          "author": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2126577684033556904",
+          "published_at": "Sat Nov 28 07:23:24 +0000 2026"
+        }
+      ],
+      "icon": "💱",
+      "resonance": true,
+      "event": "USD1深度脱锚与Jump赎回套利",
+      "new_information": "进一步跌至约0.94，Gate插针0.8406；Jump经BitGo赎回套利；其后近乎恢复锚定",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126579948244869339",
+        "2126596187373629899",
+        "2126593883983446373",
+        "2126587600907714972",
+        "2126577684033556904"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126579948244869339",
+          "passage_id": "t0",
+          "quote": "USD1 briefly depegged to $0.94!"
+        },
+        {
+          "source_id": "2126579948244869339",
+          "passage_id": "t1",
+          "quote": "Jump Crypto is arbitraging the depeg by buying $USD1 at a discount on exchanges and redeeming it for $1 through BitGo."
+        },
+        {
+          "source_id": "2126579948244869339",
+          "passage_id": "t2",
+          "quote": "Over the past hour, Jump Crypto has withdrawn 43.26M $USD1 from exchanges."
+        },
+        {
+          "source_id": "2126596187373629899",
+          "passage_id": "t1",
+          "quote": "On @Gate, USD1 printed 0.8406. 24h volume: 201M."
+        },
+        {
+          "source_id": "2126596187373629899",
+          "passage_id": "t4",
+          "quote": "@lookonchain saw @jump_ withdraw 43.26M USD1 in an hour, then redeem at $1 through @BitGo."
+        },
+        {
+          "source_id": "2126593883983446373",
+          "passage_id": "t4",
+          "quote": "🚨随即 $USD1 严重脱锚，一度跌破0.94美元，Gate交易所插针到约0.8406 美元附近"
+        },
+        {
+          "source_id": "2126587600907714972",
+          "passage_id": "t0",
+          "quote": "INTEL: USDT1 crypto stablecoin almost fully recovered its peg https://t.co/rleTIMJ5vo"
+        },
+        {
+          "source_id": "2126587600907714972",
+          "passage_id": "q0",
+          "quote": "INTEL: USD1 stablecoin plunges 6% below its $1 peg"
+        },
+        {
+          "source_id": "2126577684033556904",
+          "passage_id": "t0",
+          "quote": "JUST IN: Trump family's World Liberty Financial $USD1 crypto stablecoin depegs from the US dollar. https://t.co/sW1ltPE9lm"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "孙宇晨指控WLFI涉内部循环借贷套现、违规抛售及非法冻结投资者资产，呼吁交易所下架WLFI与USD1、监管与法院介入，并称相关团队成员正在批量删帖。",
+      "author": "justinsuntron",
+      "id": "2126577582841954410",
+      "sources": [
+        {
+          "id": "2126577582841954410",
+          "author": "justinsuntron",
+          "url": "https://x.com/justinsuntron/status/2126577582841954410",
+          "published_at": "Sat Nov 28 07:23:00 +0000 2026"
+        },
+        {
+          "id": "2126582764484899327",
+          "author": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2126582764484899327",
+          "published_at": "Sat Nov 28 07:43:35 +0000 2026"
+        },
+        {
+          "id": "2126622616589119778",
+          "author": "coinbureau",
+          "url": "https://x.com/coinbureau/status/2126622616589119778",
+          "published_at": "Sat Nov 28 10:21:57 +0000 2026"
+        }
+      ],
+      "icon": "⚖️",
+      "resonance": true,
+      "event": "孙宇晨指控WLFI欺诈",
+      "new_information": "呼吁交易所下架WLFI与USD1",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126577582841954410",
+        "2126582764484899327",
+        "2126622616589119778"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126577582841954410",
+          "passage_id": "t0",
+          "quote": "Today's WLFI episode is just another rerun of insider circular lending to cash out, unauthorized insider selling, the illegal freezing of investor assets, and investor fraud. I call on major exchanges, regulators, judicial authorities, and the courts to take prompt action against WLFI and USD1, including but not limited to issuing warning lists, immediate"
+        },
+        {
+          "source_id": "2126577582841954410",
+          "passage_id": "t1",
+          "quote": "delisting, restricting deposits, and requiring disclosure of where the illicit funds have gone. Related team members have already been mass-deleting social media and communications in an attempt to cover up their crimes. Action cannot wait."
+        },
+        {
+          "source_id": "2126582764484899327",
+          "passage_id": "t0",
+          "quote": "JUST IN: Tron founder Justin Sun accuses Trump's family crypto project World Liberty Financial of investor fraud, calls for exchanges to delist $WLFI and USD1."
+        },
+        {
+          "source_id": "2126582764484899327",
+          "passage_id": "t1",
+          "quote": "\"Members of the team involved have already begun mass-deleting social media posts and related communications in an attempt to cover up their crimes.\""
+        },
+        {
+          "source_id": "2126622616589119778",
+          "passage_id": "t1",
+          "quote": "Sun has accused World Liberty Financial of defrauding investors and called on exchanges to delist both $WLFI and its USD1 stablecoin."
+        },
+        {
+          "source_id": "2126622616589119778",
+          "passage_id": "t4",
+          "quote": "\"Members of the team involved have already begun mass-deleting social media posts and related communications in an attempt to cover up their crimes,\" Sun alleged."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "一名WLFI空头交易员称，其盈利空单被币安ADL全部平掉，ADL均价0.0393507，比通知同一秒的公开最高成交价0.03131高25.68%，估计少赚38万美元。高频量化团队punk2898称也被ADL损失数十万美元。",
+      "author": "punk2898",
+      "id": "2126625095661809881",
+      "sources": [
+        {
+          "id": "2126625095661809881",
+          "author": "punk2898",
+          "url": "https://x.com/punk2898/status/2126625095661809881",
+          "published_at": "Sat Nov 28 10:31:48 +0000 2026"
+        }
+      ],
+      "icon": "⚠️",
+      "resonance": false,
+      "event": "币安WLFI ADL成交价质疑",
+      "new_information": "ADL均价比公开最高价高25.68%",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126625095661809881"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126625095661809881",
+          "passage_id": "t0",
+          "quote": "我们被割了几十万，损失不大但是信心没了，如果 WLFI 这种币都能这么暴力的 ADL，市场上就没有几个币种还能玩了"
+        },
+        {
+          "source_id": "2126625095661809881",
+          "passage_id": "q1",
+          "quote": "今天，我的 WLFI 盈利空单被币安 ADL 全部平掉。通知发送同一秒，公开最高成交价是 0.03131。"
+        },
+        {
+          "source_id": "2126625095661809881",
+          "passage_id": "q2",
+          "quote": "我的 ADL 平仓均价是 0.0393507。"
+        },
+        {
+          "source_id": "2126625095661809881",
+          "passage_id": "q3",
+          "quote": "高出 25.68%。"
+        },
+        {
+          "source_id": "2126625095661809881",
+          "passage_id": "q4",
+          "quote": "按我目前的静态估算原仓位至今少赚38万刀，"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Gate方面称，USD1异常波动直接造成的用户穿仓损失由平台全额承担，未回滚任何交易，交易与提现均正常。此前抄底USD1的用户曾称提现卡住，Gate引用的帖文称已提现到账。",
+      "author": "luxiong_Gate",
+      "id": "2126605654840475952",
+      "sources": [
+        {
+          "id": "2126605654840475952",
+          "author": "luxiong_Gate",
+          "url": "https://x.com/luxiong_Gate/status/2126605654840475952",
+          "published_at": "Sat Nov 28 09:14:33 +0000 2026"
+        },
+        {
+          "id": "2126594518858551596",
+          "author": "Vida_BWE",
+          "url": "https://x.com/Vida_BWE/status/2126594518858551596",
+          "published_at": "Sat Nov 28 08:30:18 +0000 2026"
+        }
+      ],
+      "icon": "🏦",
+      "resonance": false,
+      "event": "Gate处理USD1脱锚交易",
+      "new_information": "Gate不回滚交易、承担穿仓损失，被卡提现已到账",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126605654840475952",
+        "2126594518858551596"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126605654840475952",
+          "passage_id": "t2",
+          "quote": "因本次 USD1 价格异常波动直接产生的用户穿仓损失，均由 Gate 平台全额承担，相关用户无需承担由此产生的穿仓欠款。"
+        },
+        {
+          "source_id": "2126605654840475952",
+          "passage_id": "t3",
+          "quote": "目前事件已查明，Gate 未针对本次事件采取任何交易回滚措施，用户交易、提现等功能均可正常使用"
+        },
+        {
+          "source_id": "2126605654840475952",
+          "passage_id": "q0",
+          "quote": "成功从Gate提现到账了。也算是5年的Gate老用户 没有被辜负 感谢Gate。🙏🙏🙏"
+        },
+        {
+          "source_id": "2126594518858551596",
+          "passage_id": "q7",
+          "quote": "交易完成后，他在后续回复中表示：数据没有回滚，几百几千人抄底了，自己的交易记录依然还在；但提现确实卡住，不过相信一定会解决。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "aixbt指出，WLFI代币只有治理投票权、对国库没有索取权，因此储备资产不能为持有人提供价格底。USD1储备由BitGo托管，与被卖出的ETH分开。WLFI多签卖ETH偿还Dolomite债务的原因尚不清楚。",
+      "author": "aixbt_agent",
+      "id": "2126563049104671027",
+      "sources": [
+        {
+          "id": "2126563049104671027",
+          "author": "aixbt_agent",
+          "url": "https://x.com/aixbt_agent/status/2126563049104671027",
+          "published_at": "Sat Nov 28 06:25:15 +0000 2026"
+        }
+      ],
+      "icon": "🧾",
+      "resonance": false,
+      "event": "WLFI国库与USD1储备区分",
+      "new_information": "WLFI无国库索取权，USD1储备在BitGo",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126563049104671027"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126563049104671027",
+          "passage_id": "t0",
+          "quote": "a world liberty-linked multisig sold about 10,600 weth and 1,378 meth for roughly $20m in stablecoins on november 27. it used the money to repay debt in two dolomite lending accounts, hours before wlfi's sharpest hourly drop. wlfi gives governance votes only, with no claim on the treasury, so these assets give holders no floor. usd1, the project's"
+        },
+        {
+          "source_id": "2126563049104671027",
+          "passage_id": "t1",
+          "quote": "stablecoin, is different: bitgo holds its reserves, apart from that eth. why the debt was repaid is not known."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据Kalshi转述，币安联席CEO称63亿美元被盗事件可能源于AI推广时授予的权限过宽。何一在BBW群访中称，币安正从员工意识、技术手段和沙盒环境加固安全，并已聘请三家外部审计公司。",
+      "author": "Kalshi",
+      "id": "2126594443675582644",
+      "sources": [
+        {
+          "id": "2126594443675582644",
+          "author": "Kalshi",
+          "url": "https://x.com/Kalshi/status/2126594443675582644",
+          "published_at": "Sat Nov 28 08:30:00 +0000 2026"
+        },
+        {
+          "id": "2126615470421991609",
+          "author": "Foresight_News",
+          "url": "https://x.com/Foresight_News/status/2126615470421991609",
+          "published_at": "Sat Nov 28 09:53:33 +0000 2026"
+        }
+      ],
+      "icon": "🔐",
+      "resonance": false,
+      "event": "币安被盗事件成因说法",
+      "new_information": "归因于AI权限过宽，聘三家外部审计",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126594443675582644",
+        "2126615470421991609"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126594443675582644",
+          "passage_id": "t0",
+          "quote": "BREAKING: Binance co-CEO says the $6.3 billion hack was likely due to \"excessive permissions\" granted during their AI rollout"
+        },
+        {
+          "source_id": "2126615470421991609",
+          "passage_id": "t2",
+          "quote": "🛡️安全防御： 此前币安在推动员工使用 AI 的过程中，存在 AI 权限设置过于宽松的问题。目前币安正从员工安全意识、技术手段及沙盒环境等层面强化安全体系，并已聘请三家外部安全审计公司。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "CryptoLeaksInfo的调查援引前员工称，Avalanche基金会每年花约2.5亿美元代币做资助和投资，承担Ava Labs大部分成本，并用多个钱包掩盖其为部分项目唯一流动性来源。若基金会被认定不独立，可能面临数亿美元税单。",
+      "author": "Defi_Rocketeer",
+      "id": "2126344171753787537",
+      "sources": [
+        {
+          "id": "2126344171753787537",
+          "author": "Defi_Rocketeer",
+          "url": "https://x.com/Defi_Rocketeer/status/2126344171753787537",
+          "published_at": "Fri Nov 27 15:55:30 +0000 2026"
+        }
+      ],
+      "icon": "🔺",
+      "resonance": false,
+      "event": "Avalanche基金会独立性质疑",
+      "new_information": "前员工称基金会受Ava Labs控制，或有数亿税务风险",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126344171753787537"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126344171753787537",
+          "passage_id": "t2",
+          "quote": ">> The Foundation spends ~$250M worth of tokens annually on grants and investments."
+        },
+        {
+          "source_id": "2126344171753787537",
+          "passage_id": "t3",
+          "quote": ">> Covers most of Ava Labs' costs, with Labs' 2023 budget at $90M."
+        },
+        {
+          "source_id": "2126344171753787537",
+          "passage_id": "t4",
+          "quote": ">> Uses multiple wallets to obscure the fact that the Foundation is the sole source of liquidity for some projects."
+        },
+        {
+          "source_id": "2126344171753787537",
+          "passage_id": "q0",
+          "quote": "📢 Avalanche's offshore foundation was built to look independent but run by Ava Labs, its former controller and a director say on tape, posing tax questions"
+        },
+        {
+          "source_id": "2126344171753787537",
+          "passage_id": "q1",
+          "quote": "If true, the lack of independence could lead to a tax bill in the \"hundreds of millions\""
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Vitalik称，开发者对EIP-8037破坏部分合约的抱怨合理，核心开发者应负责支持因分叉受损的应用，并表示鉴于其破坏性，Glamsterdam不应仓促推进。",
+      "author": "VitalikButerin",
+      "id": "2126577995205017693",
+      "sources": [
+        {
+          "id": "2126577995205017693",
+          "author": "VitalikButerin",
+          "url": "https://x.com/VitalikButerin/status/2126577995205017693",
+          "published_at": "Sat Nov 28 07:24:38 +0000 2026"
+        }
+      ],
+      "icon": "⛓️",
+      "resonance": false,
+      "event": "Vitalik谈Glamsterdam节奏",
+      "new_information": "称Glamsterdam不应仓促推进",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126577995205017693"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126577995205017693",
+          "passage_id": "t0",
+          "quote": "I think the complaints of people who are unhappy about EIP-8037 breaking a few contracts are valid and very reasonable."
+        },
+        {
+          "source_id": "2126577995205017693",
+          "passage_id": "t2",
+          "quote": "I do think that on-net 8037, and a couple of other large breaking changes coming up, are necessary to get Ethereum to a healthy long-term stable state. But it should not be *easy* to make such deep changes to Ethereum. A social norm that, at the very least, core devs have a responsibility to support any app that breaks because a fork broke some aspect of"
+        },
+        {
+          "source_id": "2126577995205017693",
+          "passage_id": "t4",
+          "quote": "To that end I'm glad that people in @ethereumfndn, @ethlabs_org and elsewhere have been working hard to help app devs with upgrades. Such efforts should continue and increase. Given its breaking nature, Glamsterdam should not be rushed."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Lookonchain称，dogeftw.sol于11月27日解除质押527,861枚SOL（约3721万美元），随后将其中144,464枚（约1032万美元）存入FalconX，意在出售。",
+      "author": "lookonchain",
+      "id": "2126496428176666801",
+      "sources": [
+        {
+          "id": "2126496428176666801",
+          "author": "lookonchain",
+          "url": "https://x.com/lookonchain/status/2126496428176666801",
+          "published_at": "Sat Nov 28 02:00:31 +0000 2026"
+        }
+      ],
+      "icon": "🐋",
+      "resonance": false,
+      "event": "dogeftw.sol解押SOL并转入FalconX",
+      "new_information": "解押约3721万美元SOL，约1032万美元转入FalconX",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126496428176666801"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126496428176666801",
+          "passage_id": "t0",
+          "quote": "dogeftw.sol unstaked 527,861 $SOL ($37.21M) 10 hours ago and then deposited 144,464 $SOL ($10.32M) into #FalconX to sell."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "据GuoShenCN7，Circle约3小时内新铸7.5亿美元USDC，Tether向Binance转入4亿美元USDT。作者认为低位有新资金承接，并称BTC发帖时已回到6万美元上方。",
+      "author": "GuoShenCN7",
+      "id": "2126521276927734166",
+      "sources": [
+        {
+          "id": "2126521276927734166",
+          "author": "GuoShenCN7",
+          "url": "https://x.com/GuoShenCN7/status/2126521276927734166",
+          "published_at": "Sat Nov 28 03:39:15 +0000 2026"
+        }
+      ],
+      "icon": "💵",
+      "resonance": false,
+      "event": "USDC新铸与USDT转入Binance",
+      "new_information": "约3小时新铸7.5亿USDC，4亿USDT转入Binance",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126521276927734166"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126521276927734166",
+          "passage_id": "t0",
+          "quote": "突发：🇺🇸 Circle刚刚在约3小时内新铸造了$750,000,000的$USDC，而Tether又将$400,000,000的$USDT直接发送到了Binance。"
+        },
+        {
+          "source_id": "2126521276927734166",
+          "passage_id": "t3",
+          "quote": "这就是为什么市场不断反弹，但大多数人却感觉看空。恐慌上升，头条新闻愈演愈烈，但新的美元在低位持续流入加密货币。"
+        },
+        {
+          "source_id": "2126521276927734166",
+          "passage_id": "t4",
+          "quote": "$BTC出于同样的原因又回到了$60,000上方。"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "英格兰银行敦促大型金融机构加速迁移至后量子密码。英国指引要求2028年底前制定迁移计划，2031年前升级优先系统，2035年前全面完成；目前尚无已知能破解现有加密的量子计算机。",
+      "author": "solidintel_x",
+      "id": "2126594695983731180",
+      "sources": [
+        {
+          "id": "2126594695983731180",
+          "author": "solidintel_x",
+          "url": "https://x.com/solidintel_x/status/2126594695983731180",
+          "published_at": "Sat Nov 28 08:31:00 +0000 2026"
+        }
+      ],
+      "icon": "🛡️",
+      "resonance": false,
+      "event": "英格兰银行后量子迁移",
+      "new_information": "2028/2031/2035三阶段时间表",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126594695983731180"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126594695983731180",
+          "passage_id": "t0",
+          "quote": "The Bank of England is urging major financial institutions to accelerate their transition to post-quantum cryptography, warning that sufficiently powerful quantum computers could eventually break encryption protecting financial transactions, communications and sensitive data"
+        },
+        {
+          "source_id": "2126594695983731180",
+          "passage_id": "t2",
+          "quote": "The Bank says financial institutions should begin planning now. UK guidance calls for migration plans by the end of 2028, priority systems upgraded by 2031 and full transition by 2035"
+        },
+        {
+          "source_id": "2126594695983731180",
+          "passage_id": "t3",
+          "quote": "No cryptographically relevant quantum computer is currently known to exist. This is a precautionary move against a future threat, not evidence that today’s banking encryption has already been broken"
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Musk称，大块高带宽训练用连续算力的租价在上涨，有时涨幅很大；约5千张GPU以下的小规模算力租价则在下降。整体看，SpaceX算力的每GPU平均租价在上升。",
+      "author": "elonmusk",
+      "id": "2126572259896623544",
+      "sources": [
+        {
+          "id": "2126572259896623544",
+          "author": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2126572259896623544",
+          "published_at": "Sat Nov 28 07:01:51 +0000 2026"
+        }
+      ],
+      "icon": "🖥️",
+      "resonance": false,
+      "event": "SpaceX算力租价分化",
+      "new_information": "大块训练算力涨价，小规模算力降价",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126572259896623544"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126572259896623544",
+          "passage_id": "t0",
+          "quote": "The rental price for large, coherent blocks of compute configured for high-bandwidth training is increasing, sometimes very significantly, but the price for small amounts of compute (below ~5k GPUs) is decreasing."
+        },
+        {
+          "source_id": "2126572259896623544",
+          "passage_id": "t1",
+          "quote": "Overall, the average rental price per GPU for SpaceX compute is rising."
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "Michael Burry于11月19日转引WSJ称，黄仁勋8月获Apollo、Blackstone、BlackRock等机构承诺动员5000亿美元助英伟达客户融资购芯，但截至当时尚未实际投放资金。",
+      "author": "michaeljburry",
+      "id": "2123254736388243631",
+      "sources": [
+        {
+          "id": "2123254736388243631",
+          "author": "michaeljburry",
+          "url": "https://x.com/michaeljburry/status/2123254736388243631",
+          "published_at": "Thu Nov 19 03:19:11 +0000 2026"
+        }
+      ],
+      "icon": "📉",
+      "resonance": false,
+      "event": "英伟达客户融资承诺未落地",
+      "new_information": "5000亿美元融资承诺截至报道时尚未投放",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2123254736388243631"
+      ],
+      "evidence": [
+        {
+          "source_id": "2123254736388243631",
+          "passage_id": "t0",
+          "quote": "Wall Street giants pledged to mobilize $500 billion to help Nvidia customers finance chip purchases. But no capital has been deployed to date."
+        },
+        {
+          "source_id": "2123254736388243631",
+          "passage_id": "t1",
+          "quote": "\"Jensen Huang sensed the winds shifting against Nvidia  this spring...In August, he got pledges from several firms—Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR—to mobilize an astounding sum: $500 billion...To date, no capital has actually been deployed...\""
+        }
+      ],
+      "editorial_version": 2
+    },
+    {
+      "category": "🔵 值得一读",
+      "summary": "TheStalwart引用Black Friday追踪器称，截至周五发帖时，两大主要agent支付协议合计消费不足20万美元，他认为加密在agent商业中几乎没有动静。",
+      "author": "TheStalwart",
+      "id": "2126410773920419923",
+      "sources": [
+        {
+          "id": "2126410773920419923",
+          "author": "TheStalwart",
+          "url": "https://x.com/TheStalwart/status/2126410773920419923",
+          "published_at": "Fri Nov 27 20:20:09 +0000 2026"
+        }
+      ],
+      "icon": "🤖",
+      "resonance": false,
+      "event": "Black Friday agent支付用量",
+      "new_information": "截至发帖时两大协议消费不足20万美元",
+      "urgency_reason": "",
+      "attention_source_ids": [
+        "2126410773920419923"
+      ],
+      "evidence": [
+        {
+          "source_id": "2126410773920419923",
+          "passage_id": "t0",
+          "quote": "I thought crypto would have some role to play in agentic commerce. But as you can see here, there's virtually nothing happening. So far on Black Friday, there's less than $200K having been spent between the two main protocols."
+        }
+      ],
+      "editorial_version": 2
+    }
+  ],
+  "last_updated": "2026-11-28"
+}
